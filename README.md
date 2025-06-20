@@ -7,7 +7,6 @@ Whether you're discovering the genre or exploring deep cuts, this list helps you
 ### Columns
 
 - **title**: The name of the game.
-- **status**: The current curation status (e.g. Browsing, Played, etc).
 - **publisher**: The publisher or studio responsible for the game.
 - **description**: A short summary highlighting the game's premise, mechanics, or impact.
 - **device**: Platforms the game was released on (e.g. SNES, PC, Switch).

@@ -48,6 +48,8 @@ Diablo IV,Blizzard,Return to dark atmosphere with open world elements,PC/PS4/PS5
 Diablo Immortal,Blizzard,Mobile entry with MMO elements and controversial monetization,Mobile/PC,100
 Diablo II,Blizzard North,Legendary sequel with five acts and online play,PC/Mac,30
 Diablo II: Lord of Destruction,Blizzard North,Essential expansion adding two classes and Act V,PC/Mac,40
+Shadow of the Colossus (2011 HD Remaster),Bluepoint Games / Sony,Remastered version with improved resolution and frame rate,PS3,8
+Shadow of the Colossus (2018 Remake),Bluepoint Games / Sony,Ground-up visual remake with modern controls and performance improvements,PS4,8
 Shining Force III,Camelot,Three-scenario tactical RPG epic,Saturn,120
 Golden Sun,Camelot,Puzzle-heavy adventure JRPG with Djinn summoning system,GBA,30
 Golden Sun: The Lost Age,Camelot,Epic sequel doubling world size with ship exploration,GBA,40
@@ -75,6 +77,7 @@ The Witcher 2: Assassins of Kings,CD Projekt RED,Political intrigue with branchi
 The Witcher 3: Wild Hunt,CD Projekt RED,Open-world masterpiece with exceptional quests,PC/PS4/Xbox/Switch,100
 Rogue Legacy,Cellar Door Games,Genealogical platformer-RPG with trait inheritance,PC/PS3/PS4/Vita/Switch/Xbox,15
 Pokémon Mystery Dungeon: Explorers of Sky,Chunsoft,Roguelike dungeon crawler with emotional storytelling,DS,40
+Stardew Valley,ConcernedApe,Open-ended farming simulation RPG where you build relationships grow crops explore caves and restore your grandfather's farm,PC/PS4/PS5/Switch/Xbox/Mobile,100
 .hack//INFECTION,CyberConnect2,Simulated MMO experience part 1,PS2,20
 .hack//MUTATION,CyberConnect2,The World mystery continues part 2,PS2,20
 .hack//OUTBREAK,CyberConnect2,Data corruption spreads part 3,PS2,20
@@ -135,6 +138,7 @@ Grandia III,Game Arts,Aerial adventure with refined combat system,PS2,60
 Grandia Xtreme,Game Arts,Dungeon-focused entry with extreme combat,PS2,40
 Pokemon Red/Blue,Game Freak,Monster collecting phenomenon that defined portable RPGs,GB/3DS,30
 Pokemon Gold/Silver,Game Freak,Day/night cycles with breeding and legendary expansion,GBC/3DS,40
+Black Myth: Wukong,Game Science,Action‑RPG adaptation of Journey to the West with Souls‑like combat on Unreal Engine 5,PC/PS5/Xbox Series X/S,40
 Ar tonelico: Melody of Elemia,Gust,Song magic RPG with Reyvateil companions,PS2,50
 Ar tonelico II: Melody of Metafalica,Gust,Sequel with dual Reyvateil system,PS2,60
 Atelier Iris: Eternal Mana,Gust,Alchemy-based RPG with item synthesis,PS2,40
@@ -145,6 +149,8 @@ Shadowrun: Dragonfall,Harebrained Schemes,Berlin-set expansion standalone,PC/Mob
 Shadowrun: Hong Kong,Harebrained Schemes,Asian setting with improved mechanics,PC/Mobile,25
 Hyper Light Drifter,Heart Machine,Pixel-art action RPG with wordless storytelling,PC/PS4/Switch/Xbox/Vita/Mobile,8
 Vanguard Bandits,Human Entertainment,Mecha tactical RPG with branching paths,PS1,30
+Medabots: Metabee and Rokusho (Medarot 2 remake),Imagineer/Natsume,GBA RPG remake of Medarot 2 featuring Metabee and Rokusho,GBA/Wii U,25
+Medarot Classics Plus,Imagineer/Rocket Company,Expanded Switch collection featuring eight early series titles,Switch,60
 Wasteland 2,inXile Entertainment,Post-apocalyptic tactical revival,PC/PS4/Xbox/Switch,50
 Wasteland 3,inXile Entertainment,Colorado-set with co-op campaign,PC/PS4/Xbox/Switch,40
 Torment: Tides of Numenera,inXile Entertainment,Planescape spiritual successor,PC/PS4/Xbox/Switch,35
@@ -153,6 +159,10 @@ Deus Ex: Invisible War,Ion Storm,Sequel with unified ammo system,PC/Xbox,15
 Age of Decadence,Iron Tower Studio,Choice-heavy Roman-inspired RPG with consequence focus,PC,25
 System Shock 2,Irrational Games,Sci-fi horror masterpiece,PC,20
 Dragon Force,J-Force,Large-scale tactical RPG with kingdom conquest,Saturn,60
+Clair Obscur: Expedition 33,Kepler Interactive/ Sandfall Interactive,Turn‑based RPG with real‑time combat elements set in Belle Époque France featuring emotional storytelling deep character relationships and post‑game content like Endless Tower and Flying Manor,PC/PS5/Xbox Series X/S,40
+Nioh,Koei Tecmo / Team Ninja,Action RPG set in Sengoku-era Japan with supernatural Yokai enemies and fast-paced Souls-like combat,PC/PS4/PS5,40
+Nioh 2,Koei Tecmo / Team Ninja,Prequel and expansion of the original with character customization, new weapons, and deeper Yokai mechanics
+Nioh Collection,Koei Tecmo / Team Ninja,Remastered bundle including Nioh and Nioh 2 with all DLCs for PS5,PS5,90
 Suikoden,Konami,108 Stars of Destiny political RPG,PS1/Saturn/PC,25
 Suikoden II,Konami,Friendship and betrayal masterpiece,PS1/PC,35
 Suikoden III,Konami,Trinity Sight system with three perspectives,PS2,50
@@ -204,8 +214,11 @@ Xenosaga Episode II,Namco,Darker middle chapter with new art style,PS2,45
 Xenosaga Episode III,Namco,Epic space opera conclusion,PS2,80
 Baten Kaitos: Eternal Wings,Namco,Card-based combat in floating world,GameCube,60
 Baten Kaitos Origins,Namco,Prequel with improved card mechanics,GameCube,70
+Medabots AX: Metabee and Rokusho,Natsume Inc.,Side‑view fighting platformer spin‑off with basic RPG elements,GBA,6
+Medabots Infinity,Natsume Inc.,3D action‑RPG with multiplayer and link-up features,GameCube,10
 Shadow Hearts: Covenant,Nautilius,WWI sequel with improved mechanics,PS2,50
 Shadow Hearts: From the New World,Nautilius,Americas-set finale with Native American themes,PS2,45
+Lies of P,NEOWIZ / Round8 Studio,Souls-like action RPG inspired by the story of Pinocchio featuring dark steampunk aesthetics weapon customization and branching narratives,PC/PS4/PS5/Xbox,30
 EarthBound,Nintendo,Quirky modern-day RPG with psychic powers,SNES/GBA/3DS/Switch,30
 Fire Emblem: Awakening,Nintendo,Series revival with marriage system and permadeath stakes,3DS,45
 Fire Emblem: Three Houses,Nintendo,Academy life simulation meets strategic warfare,Switch/PC,8
@@ -237,6 +250,7 @@ Ultima VII: The Black Gate,Origin Systems,Open-world masterpiece with Fellowship
 Ultima VIII: Pagan,Origin Systems,Action-oriented entry with elemental magic system,PC,30
 Pathfinder: Kingmaker,Owlcat Games,Kingdom management with complex systems,PC/PS4/Xbox/Switch,100
 Pathfinder: Wrath of the Righteous,Owlcat Games,Mythic paths with crusade management,PC/PS4/Xbox/Switch,120
+Arco,Panic Inc.,Mesoamerican fantasy tactical RPG blending turn-based strategy and real-time elements through intertwined stories and choice-driven combat,Windows/macOS/Switch,12
 Gothic,Piranha Bytes,Immersive prison colony atmosphere,PC,60
 Gothic II,Piranha Bytes,Expanded world with improved systems,PC,80
 Gothic 3,Piranha Bytes,Large-scale sequel with technical issues,PC,100
@@ -253,6 +267,14 @@ CrossCode,Radical Fish Games,Retro-inspired action RPG with puzzle mechanics and
 CrossCode,Radical Fish Games,Retro-inspired action RPG with puzzle mechanics and fast combat,PC/Switch/PS4/Xbox,35
 Two Worlds,Reality Pump,Open-world fantasy with weapon stacking,PC/Xbox,60
 Two Worlds II,Reality Pump,Improved sequel with magic system,PC/Xbox/PS3,40
+Medarot DS (Kabuto/Kuwagata),Rocket Company,Return to the numbered RPG series with dual versions and 3v3 combat,DS,25
+Medarot 7 (Kabuto/Kuwagata),Rocket Company,Seventh mainline RPG with a deeper customization and new story,3DS,25
+Medarot 8 (Kabuto/Kuwagata),Rocket Company,Eighth entry featuring over 200 robots and a refined combat system,3DS,30
+Medarot 9 (Kabuto/Kuwagata),Rocket Company,Final numbered entry with strategic enhancements and new plot,3DS,30
+Medarot Dual (Kabuto/Kuwagata),Rocket Company,Real-time 3D arena battler with action combat and upgrades,3DS,8
+Medarot Girls Mission,Rocket Company,Character-based combat game with school setting and fanservice tone,3DS,10
+Medarot Classics,Rocket Company,Collection of five retro RPGs from Game Boy and GBC,3DS,50
+Medarot S: Unlimited Nova,Rocket Company,Free-to-play mobile RPG with gacha mechanics and online battles,Mobile,60
 Shadow Hearts,Sacnoth,Alternate history horror RPG with Judgment Ring,PS2,40
 Phantasy Star,Sega,Sci-fi RPG with 3D dungeons and space travel,Master System/PS2/GBA,15
 Phantasy Star II,Sega,Dark sequel with environmental themes and tragic ending,Genesis/PS2/PC,25
@@ -270,6 +292,9 @@ Wild Arms 3,Sony,Western themes with environmental restoration,PS2,55
 Wild Arms 4,Sony,Hex-based combat with young protagonist,PS2,45
 Wild Arms 5,Sony,Final numbered entry with customizable HEX system,PS2,50
 The Legend of Dragoon,Sony, A turn-based JRPG following Dart and his companions as they awaken the powers of ancient Dragoons to stop a world-ending threat. Features a unique 'Additions' combat system and cinematic story,PS1/PSP,60
+ICO,Sony,Atmospheric puzzle-platformer focused on the bond between a boy and a mysterious girl as they escape a castle,PS2/PS3,6
+Shadow of the Colossus (2005),Sony,Action-adventure about slaying giant colossi in a desolate world to resurrect a loved one,PS2,8
+The Last Guardian,Sony,Spiritual successor featuring a boy and his creature companion Trico solving physics-based puzzles,PS4,12
 Final Fantasy,Square,Four Warriors of Light save the world from Garland and Chaos,NES/PSP/GBA/Mobile,12
 Final Fantasy II,Square,Stat growth through usage system with rebel alliance story,NES/PSP/GBA/Mobile,25
 Final Fantasy III,Square,Original job system with Onion Knights and floating continent,NES/DS/PSP/PC/Mobile,25
@@ -302,6 +327,7 @@ Front Mission: Gun Hazard,Square,Side-scrolling action RPG spin-off with real-ti
 Front Mission 2: Replica Keepers,Square,Prequel with improved mechanics and deeper customization,PS1,35
 Front Mission 3,Square,Dual scenario paths with internet simulation and Emma storyline,PS1/PSP,50
 Front Mission Alternative,Square,Real-time strategy spin-off focusing on large-scale battles,PC,20
+Bahamut Lagoon,Square,A tactical RPG with turn-based battles and dragon-raising mechanics set in a floating continent torn by war,SNES,25
 Bravely Default,Square Enix,Modern turn-based JRPG with job system and Brave/Default mechanics,3DS,50
 Bravely Second: End Layer,Square Enix,Sequel refining job-based combat and storytelling,3DS,50
 Octopath Traveler,Square Enix,HD-2D visuals with eight intertwining character paths,Switch/PC/PS4/Xbox,50
@@ -337,6 +363,8 @@ Front Mission 1st: Remake,Square Enix,Modern remake with updated visuals and qua
 Evolution: The World of Sacred Device,Sting,Dungeon-crawling RPG with relic hunting,Dreamcast,40
 UnderRail,Stygian Software,Metro-tunnels isometric RPG with deep character building,PC,60
 FTL: Faster Than Light,Subset Games,Spaceship management roguelike with crew permadeath,PC/Mobile,20
+Ghost of Tsushima,Sucker Punch Productions / Sony,Open-world samurai action-adventure set during the Mongol invasion of Tsushima blending stealth and cinematic swordplay,PS4/PS5,25
+Ghost of Tsushima: Director's Cut,Sucker Punch Productions / Sony,Expanded version including the Iki Island expansion Japanese lip-sync, and performance upgrades,PS4/PS5/PC
 Albert Odyssey,Sunsoft,Traditional JRPG with Working Designs localization,Saturn,40
 Hades,Supergiant Games,Narrative roguelike with Greek mythology and relationship building,PC/PS4/PS5/Switch/Xbox,30
 Transistor,Supergiant Games,Sci-fi action RPG with turn-based planning mode,PC/PS4/Switch/Mobile,8
@@ -347,42 +375,14 @@ Lufia & The Fortress of Doom,Taito,Traditional JRPG with puzzle dungeons,SNES,25
 Lufia II: Rise of the Sinistrals,Taito,Prequel with improved mechanics and Ancient Cave,SNES/GBA/DS,35
 Panzer Dragoon Saga,Team Andromeda,Rail-shooter RPG hybrid masterpiece,Saturn,20
 Hollow Knight,Team Cherry,Metroidvania with challenging combat and atmospheric exploration,PC/PS4/Switch/Xbox,30
+South Park: Snow Day!,THQ Nordic / Question Games,3D co-op action brawler set during a snow day in South Park with roguelike elements and real-time combat,PC/PS5/Xbox Series X/S/Switch,8
 Undertale,Toby Fox,Indie RPG that subverts expectations with pacifism and humor,PC/Switch/PS4/Xbox,6
 Vampire: The Masquerade - Bloodlines,Troika Games,Gothic modern vampire clans,PC,30
+South Park: The Stick of Truth,Ubisoft / Obsidian Entertainment,Turn-based RPG styled after the animated show where you play as the New Kid battling in a fantasy-themed conflict,PC/PS3/PS4/Xbox 360/Xbox One/Switch,12
+South Park: The Fractured But Whole,Ubisoft / South Park Digital Studios,Superhero-themed sequel with tactical combat deeper class systems and expanded town exploration,PC/PS4/Xbox One/Switch,15
 Odin Sphere,Vanillaware,Hand-drawn action RPG with fairy tale stories,PS2/PS3/PS4/Vita,40
 GrimGrimoire,Vanillaware,Real-time strategy RPG with magic academy setting,PS2,25
 Kingdom Come: Deliverance,Warhorse Studios,Realistic medieval Bohemia,PC/PS4/Xbox/Switch,60
 Serpent in the Staglands,Whalenought Studios,Old-school CRPG with no hand-holding approach,PC,40
 Disco Elysium,ZA/UM,Revolutionary narrative detective RPG,PC/PS4/PS5/Xbox/Switch,25
 Disco Elysium,ZA/UM,Dialogue-heavy detective RPG with skill-based personality system,PC/PS4/PS5/Switch/Xbox,25
-Medabots: Metabee and Rokusho (Medarot 2 remake),Imagineer/Natsume,GBA RPG remake of Medarot 2 featuring Metabee and Rokusho,GBA/Wii U,25
-Medabots AX: Metabee and Rokusho,Natsume Inc.,Side‑view fighting platformer spin‑off with basic RPG elements,GBA,6
-Medabots Infinity,Natsume Inc.,3D action‑RPG with multiplayer and link-up features,GameCube,10
-Medarot DS (Kabuto/Kuwagata),Rocket Company,Return to the numbered RPG series with dual versions and 3v3 combat,DS,25
-Medarot 7 (Kabuto/Kuwagata),Rocket Company,Seventh mainline RPG with a deeper customization and new story,3DS,25
-Medarot 8 (Kabuto/Kuwagata),Rocket Company,Eighth entry featuring over 200 robots and a refined combat system,3DS,30
-Medarot 9 (Kabuto/Kuwagata),Rocket Company,Final numbered entry with strategic enhancements and new plot,3DS,30
-Medarot Dual (Kabuto/Kuwagata),Rocket Company,Real-time 3D arena battler with action combat and upgrades,3DS,8
-Medarot Girls Mission,Rocket Company,Character-based combat game with school setting and fanservice tone,3DS,10
-Medarot Classics,Rocket Company,Collection of five retro RPGs from Game Boy and GBC,3DS,50
-Medarot Classics Plus,Imagineer/Rocket Company,Expanded Switch collection featuring eight early series titles,Switch,60
-Medarot S: Unlimited Nova,Rocket Company,Free-to-play mobile RPG with gacha mechanics and online battles,Mobile,60
-Bahamut Lagoon,Square,A tactical RPG with turn-based battles and dragon-raising mechanics set in a floating continent torn by war,SNES,25
-Nioh,Koei Tecmo / Team Ninja,Action RPG set in Sengoku-era Japan with supernatural Yokai enemies and fast-paced Souls-like combat,PC/PS4/PS5,40
-Nioh 2,Koei Tecmo / Team Ninja,Prequel and expansion of the original with character customization, new weapons, and deeper Yokai mechanics,PC/PS4/PS5,50
-Nioh Collection,Koei Tecmo / Team Ninja,Remastered bundle including Nioh and Nioh 2 with all DLCs for PS5,PS5,90
-Ghost of Tsushima,Sucker Punch Productions / Sony,Open-world samurai action-adventure set during the Mongol invasion of Tsushima blending stealth and cinematic swordplay,PS4/PS5,25
-Ghost of Tsushima: Director's Cut,Sucker Punch Productions / Sony,Expanded version including the Iki Island expansion Japanese lip-sync, and performance upgrades,PS4/PS5/PC,35
-Lies of P,NEOWIZ / Round8 Studio,Souls-like action RPG inspired by the story of Pinocchio featuring dark steampunk aesthetics weapon customization and branching narratives,PC/PS4/PS5/Xbox,30
-Clair Obscur: Expedition 33,Kepler Interactive/ Sandfall Interactive,Turn‑based RPG with real‑time combat elements set in Belle Époque France featuring emotional storytelling deep character relationships and post‑game content like Endless Tower and Flying Manor,PC/PS5/Xbox Series X/S,40
-Stardew Valley,ConcernedApe,Open-ended farming simulation RPG where you build relationships grow crops explore caves and restore your grandfather's farm,PC/PS4/PS5/Switch/Xbox/Mobile,100
-Arco,Panic Inc.,Mesoamerican fantasy tactical RPG blending turn-based strategy and real-time elements through intertwined stories and choice-driven combat,Windows/macOS/Switch,12
-South Park: The Stick of Truth,Ubisoft / Obsidian Entertainment,Turn-based RPG styled after the animated show where you play as the New Kid battling in a fantasy-themed conflict,PC/PS3/PS4/Xbox 360/Xbox One/Switch,12
-South Park: The Fractured But Whole,Ubisoft / South Park Digital Studios,Superhero-themed sequel with tactical combat deeper class systems and expanded town exploration,PC/PS4/Xbox One/Switch,15
-South Park: Snow Day!,THQ Nordic / Question Games,3D co-op action brawler set during a snow day in South Park with roguelike elements and real-time combat,PC/PS5/Xbox Series X/S/Switch,8
-Black Myth: Wukong,Game Science,Action‑RPG adaptation of Journey to the West with Souls‑like combat on Unreal Engine 5,PC/PS5/Xbox Series X/S,40
-ICO,Sony,Atmospheric puzzle-platformer focused on the bond between a boy and a mysterious girl as they escape a castle,PS2/PS3,6
-Shadow of the Colossus (2005),Sony,Action-adventure about slaying giant colossi in a desolate world to resurrect a loved one,PS2,8
-Shadow of the Colossus (2011 HD Remaster),Bluepoint Games / Sony,Remastered version with improved resolution and frame rate,PS3,8
-Shadow of the Colossus (2018 Remake),Bluepoint Games / Sony,Ground-up visual remake with modern controls and performance improvements,PS4,8
-The Last Guardian,Sony,Spiritual successor featuring a boy and his creature companion Trico solving physics-based puzzles,PS4,12

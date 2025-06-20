@@ -1,172 +1,32 @@
 title,publisher,description,device,playtime
+King of Dragon Pass,A Sharp,Tribal management RPG with narrative choices,PC/Mobile,30
+Sacred,Ascaron,Diablo-style action RPG with large world,PC,60
+Sacred 2: Fallen Angel,Ascaron,Expanded sequel with light/shadow campaigns,PC/Xbox/PS3,100
 Persona Q: Shadow of the Labyrinth,Atlus,Crossover dungeon crawler mixing Persona 3 and 4 characters,3DS,45
 Radiant Historia: Perfect Chronology,Atlus,Time-travel JRPG with alternate timeline navigation,3DS,40
-The Alliance Alive,FuRyu,Spiritual successor to classic JRPG design,3DS,35
-Bravely Default,Square Enix,Modern turn-based JRPG with job system and Brave/Default mechanics,3DS,50
-Bravely Second: End Layer,Square Enix,Sequel refining job-based combat and storytelling,3DS,50
-Xenoblade Chronicles 3D,Monolith Soft,Expansive world exploration with real-time combat,New 3DS,60
-Crimson Shroud,Level-5/Tabletop Games,Tabletop-inspired digital RPG with dice mechanics,3DS,10
-The Legend of Heroes: Trails in the Sky,Falcom,Deep worldbuilding and character-driven turn-based RPG,PSP/PC,50
-The Legend of Heroes: Trails in the Sky SC,Falcom,Sequel continuing Estelle and Joshua’s journey,PSP/PC,60
-Tactics Ogre: The Knight of Lodis,Quest,Portable tactical RPG with moral choices,GBA,35
-Summon Night: Swordcraft Story,Banpresto,Action-RPG with weapon crafting and tournament structure,GBA,25
-Undertale,Toby Fox,Indie RPG that subverts expectations with pacifism and humor,PC/Switch/PS4/Xbox,6
-CrossCode,Radical Fish Games,Retro-inspired action RPG with puzzle mechanics and fast combat,PC/Switch/PS4/Xbox,35
-Bug Fables: The Everlasting Sapling,Moonsprout Games,Paper Mario spiritual successor with bug-themed heroes,PC/Switch/PS4/Xbox,30
-Eastward,Pixpil,Post-apocalyptic pixel-art RPG with emotional storytelling,PC/Switch,25
-Chained Echoes,Matthias Linda,Indie JRPG love letter with mech battles and rich story,PC/PS4/PS5/Switch/Xbox,40
-Octopath Traveler,Square Enix,HD-2D visuals with eight intertwining character paths,Switch/PC/PS4/Xbox,50
-Octopath Traveler II,Square Enix,Standalone sequel with refined mechanics and story,Switch/PC/PS5,60
-Triangle Strategy,Square Enix,Tactical RPG with political branching paths and pixel visuals,Switch/PC,40
-Xenoblade Chronicles: Definitive Edition,Monolith Soft,HD remake of the original epic JRPG,Switch,70
-Xenoblade Chronicles 2,Monolith Soft,Blade system with deep story and expansive world,Switch,80
-Xenoblade Chronicles 3,Monolith Soft,Cinematic JRPG blending gameplay systems of its predecessors,Switch,90
-Dragon Warrior,Enix,Original Dragon Quest that started the JRPG genre in the West,NES/GBC/Mobile,8
-Dragon Warrior II,Enix,First party-based Dragon Quest with multiple party members,NES/GBC/Mobile,12
-Dragon Warrior III,Enix,Job system introduction with Erdrick's legendary adventure,NES/GBC/SNES/Mobile,25
-Dragon Warrior IV,Enix,Chapter-based storytelling with Chosen One prophecy,NES/PS1/DS/Mobile,30
-Final Fantasy,Square,Four Warriors of Light save the world from Garland and Chaos,NES/PSP/GBA/Mobile,12
-Final Fantasy II,Square,Stat growth through usage system with rebel alliance story,NES/PSP/GBA/Mobile,25
-Final Fantasy III,Square,Original job system with Onion Knights and floating continent,NES/DS/PSP/PC/Mobile,25
-Phantasy Star,Sega,Sci-fi RPG with 3D dungeons and space travel,Master System/PS2/GBA,15
-Phantasy Star II,Sega,Dark sequel with environmental themes and tragic ending,Genesis/PS2/PC,25
-Phantasy Star III,Sega,Generational saga spanning three time periods,Genesis/PS2/PC,35
-Phantasy Star IV,Sega,Epic conclusion with manga-style presentation,Genesis/PS2/PC/Switch,35
-Ultima III: Exodus,Origin Systems,Early party-based RPG with virtue system origins,NES/PC/C64,40
-Ultima IV: Quest of the Avatar,Origin Systems,Revolutionary RPG focusing on virtue rather than defeating evil,NES/PC/C64,50
-Ultima V: Warriors of Destiny,Origin Systems,Dark sequel dealing with corrupted virtue system,PC/NES/C64,60
-Ultima VI: The False Prophet,Origin Systems,Unified world design with gargoyle perspective story,PC/SNES/C64,40
-Ultima VII: The Black Gate,Origin Systems,Open-world masterpiece with Fellowship cult investigation,PC,80
-Ultima VIII: Pagan,Origin Systems,Action-oriented entry with elemental magic system,PC,30
-Final Fantasy IV,Square,Cecil's redemption story with Active Time Battle system,SNES/PS1/GBA/DS/PSP/PC,25
-Final Fantasy V,Square,Job system perfection with Bartz and crystal shard adventure,SNES/PS1/GBA/PC/Mobile,30
-Final Fantasy VI,Square,Ensemble cast epic with Kefka's world destruction,SNES/PS1/GBA/PC/Mobile,35
-Chrono Trigger,Square,Time-traveling masterpiece with multiple endings,SNES/PS1/DS/PC/Mobile,22
-Secret of Mana,Square,Real-time action RPG with Ring Command system,SNES/PS4/PC/Switch/Vita,25
-Secret of Evermore,Square,American-developed Square RPG with alchemy system,SNES,30
-Terranigma,Enix,Philosophical action RPG about world and humanity creation,SNES,40
-Super Mario RPG,Nintendo/Square,Mario's first RPG with timed button mechanics,SNES/Switch,16
-Breath of Fire,Capcom,Dragon transformation hero with fishing mini-games,SNES/GBA,30
-Breath of Fire II,Capcom,Darker religious themes with town building,SNES/GBA,40
-Live A Live,Square,Anthology RPG across multiple time periods,SNES/Switch,25
-Tales of Phantasia,Namco,First Tales with voice acting and real-time combat,SNES/PS1/GBA/PSP/iOS,40
-Seiken Densetsu 3,Square,Action RPG with multiple character combinations,SNES/Switch/PC,30
-EarthBound,Nintendo,Quirky modern-day RPG with psychic powers,SNES/GBA/3DS/Switch,30
-Lufia & The Fortress of Doom,Taito,Traditional JRPG with puzzle dungeons,SNES,25
-Lufia II: Rise of the Sinistrals,Taito,Prequel with improved mechanics and Ancient Cave,SNES/GBA/DS,35
-Ogre Battle: March of the Black Queen,Quest,Real-time strategy RPG with reputation system,SNES/Saturn/PS1/N64,50
-Soul Blazer,Enix,Action RPG about recreating world and its inhabitants,SNES,15
-ActRaiser,Enix,Unique blend of action-platformer and city simulation,SNES/Mobile/Switch,8
-Illusion of Gaia,Enix,Adventure RPG with real-world locations and ancient mysteries,SNES,20
-Shadowrun,Beam Software,Cyberpunk RPG based on tabletop game,SNES/Genesis,15
-7th Saga,Enix,Notoriously difficult RPG with seven playable characters,SNES,40
-Mystic Quest Legend,Square,Beginner-friendly Final Fantasy with simplified mechanics,SNES/GBC,12
-Final Fantasy VII,Square,3D JRPG revolution with Cloud vs Sephiroth,PS1/PC/Switch/PS4/Xbox,40
-Final Fantasy VIII,Square,Junction system with SeeD academy and time compression,PS1/PC/PS4/Switch/Xbox,50
-Final Fantasy IX,Square,Return to fantasy roots with existential themes,PS1/PC/PS4/Switch/Xbox,40
-Vagrant Story,Square,Dark mature action RPG with weapon crafting,PS1/PSP,40
-Legend of Legaia,Sony,Martial arts combat with symbiotic creature system,PS1,45
-Breath of Fire III,Capcom,Dragon gene storyline with fishing and fairy village,PS1/PSP/PC,50
-Breath of Fire IV,Capcom,Dual protagonist story with hex-based combat,PS1/PC,40
-Suikoden,Konami,108 Stars of Destiny political RPG,PS1/Saturn/PC,25
-Suikoden II,Konami,Friendship and betrayal masterpiece,PS1/PC,35
-Xenogears,Square,Philosophical mecha RPG with religious themes,PS1,70
-Chrono Cross,Square,Dimensional adventure with 40+ party members,PS1/PC/Switch,40
-Tales of Destiny,Namco,Swordian weapon spirits with real-time combat,PS1/PS2,40
-Tales of Eternia,Namco,Bridge between worlds with excellent development,PS1/PSP,45
-Valkyrie Profile,Enix,Norse mythology with side-scrolling exploration,PS1/PSP/Mobile,35
-Star Ocean: The Second Story,Enix,Space-fantasy with skill system and private actions,PS1/PSP/PC/Switch,40
-Wild Arms,Sony,Western-themed fantasy with puzzle-solving tools,PS1/PS2,45
-Wild Arms 2,Sony,Environmental themes with ARMS technology,PS1/PS2,60
-Parasite Eve,Square,Horror action RPG set in modern New York,PS1/PSP,12
-Parasite Eve II,Square,Survival horror sequel with RPG elements,PS1,15
-Legend of Mana,Square,Non-linear Mana series entry with land creation,PS1/PS4/Switch/PC,25
-SaGa Frontier,Square,Seven character scenarios with unique mechanics,PS1/Switch/PC/Mobile,40
-SaGa Frontier 2,Square,Watercolor art style with dual storylines,PS1,35
-Romancing SaGa: Minstrel Song,Square Enix,Non-linear adventure with multiple quest paths,PS2/PS4/Switch/PC,50
-Grandia,Game Arts,Coming-of-age adventure with innovative combat timing,PS1/Saturn/PC/Switch,50
-Grandia II,Game Arts,Religious themes with Ryudo's cynical journey,Dreamcast/PS2/PC,40
-Arc the Lad,G-Craft,Strategic RPG trilogy with connected storylines,PS1/PS2/PSP,25
-Vanguard Bandits,Human Entertainment,Mecha tactical RPG with branching paths,PS1,30
 Thousand Arms,Atlus,Dating sim mixed with traditional JRPG,PS1,40
-Alundra,Matrix Software,Action RPG with nightmare themes and puzzles,PS1,25
-Tales of Symphonia,Namco,GameCube exclusive with world regeneration themes,GameCube/PS2/PS3/PC,60
-Tales of the Abyss,Namco,Identity crisis themes with replica storyline,PS2/3DS,70
-Final Fantasy X,Square,First fully voiced FF with Sphere Grid system,PS2/PS3/PS4/PC/Switch/Vita,45
-Final Fantasy X-2,Square,Yuna's sequel with job-changing Dresspheres,PS2/PS3/PS4/PC/Switch/Vita,30
-Final Fantasy XII,Square Enix,Political fantasy with Gambit system,PS2/PS4/PC/Switch/Xbox,60
-Dragon Quest VIII,Square Enix,3D cel-shaded traditional JRPG,PS2/3DS/Mobile,80
-Kingdom Hearts,Square,Disney crossover action RPG,PS2/PS3/PS4/Xbox/PC,35
-Kingdom Hearts: Chain of Memories,Square Enix,Card-based combat system sequel,GBA/PS2/PS3/PS4,25
-Kingdom Hearts II,Square Enix,Organization XIII storyline with improved combat,PS2/PS3/PS4/Xbox/PC,40
-Kingdom Hearts: Birth by Sleep,Square Enix,Prequel with three protagonists,PSP/PS3/PS4/Xbox/PC,35
-Kingdom Hearts 3D: Dream Drop Distance,Square Enix,Dual reality system with dream worlds,3DS/PS4/Xbox/PC,30
-Kingdom Hearts III,Square Enix,Long-awaited conclusion to Dark Seeker Saga,PS4/Xbox/PC,35
 Persona 3,Atlus,Dark tower-climbing with social simulation,PS2/PSP/PC,80
 Persona 4,Atlus,Murder mystery in rural Japan,PS2/PS Vita/PC,70
 Persona 5,Atlus,Phantom thief stylish adventure,PS3/PS4/PC/Switch,100
 Digital Devil Saga,Atlus,Post-apocalyptic demon transformation duology,PS2,40
 Shin Megami Tensei III: Nocturne,Atlus,Post-apocalyptic demon recruitment,PS2/PS3/PS4/PC/Switch,60
 Devil Summoner: Raidou Kuzunoha,Atlus,1920s Japan detective with demons,PS2,30
-Shadow Hearts,Sacnoth,Alternate history horror RPG with Judgment Ring,PS2,40
-Shadow Hearts: Covenant,Nautilius,WWI sequel with improved mechanics,PS2,50
-Shadow Hearts: From the New World,Nautilius,Americas-set finale with Native American themes,PS2,45
-Suikoden III,Konami,Trinity Sight system with three perspectives,PS2,50
-Suikoden IV,Konami,Naval exploration with Island Nations,PS2,35
-Suikoden V,Konami,Return to political intrigue form,PS2,60
-Star Ocean: Till the End of Time,Square Enix,Reality-bending plot with controversial twist,PS2,90
-Radiata Stories,Square Enix,200+ recruitable characters in whimsical world,PS2,50
-Valkyrie Profile 2: Silmeria,Square Enix,Norse mythology prequel with improved systems,PS2,60
-Wild Arms 3,Sony,Western themes with environmental restoration,PS2,55
-Wild Arms 4,Sony,Hex-based combat with young protagonist,PS2,45
-Wild Arms 5,Sony,Final numbered entry with customizable HEX system,PS2,50
-Rogue Galaxy,Level-5,Space pirate adventure with real-time combat,PS2,60
-Dark Cloud,Level-5,Dungeon crawling with town rebuilding,PS2,40
-Dark Cloud 2,Level-5,Time-traveling sequel with invention system,PS2,80
-Grandia III,Game Arts,Aerial adventure with refined combat system,PS2,60
-Grandia Xtreme,Game Arts,Dungeon-focused entry with extreme combat,PS2,40
-Ar tonelico: Melody of Elemia,Gust,Song magic RPG with Reyvateil companions,PS2,50
-Ar tonelico II: Melody of Metafalica,Gust,Sequel with dual Reyvateil system,PS2,60
-Atelier Iris: Eternal Mana,Gust,Alchemy-based RPG with item synthesis,PS2,40
-Atelier Iris 2: The Azoth of Destiny,Gust,Dual world exploration with alchemy focus,PS2,45
-Atelier Iris 3: Grand Phantasm,Gust,MMORPG-inspired with raid boss battles,PS2,50
-Disgaea: Hour of Darkness,Nippon Ichi,Over-the-top tactical RPG with level 9999,PS2/PSP/DS/PC/Switch,80
-Disgaea 2: Cursed Memories,Nippon Ichi,Sequel with Adell's quest to save mother,PS2/PSP/PC,80
-La Pucelle: Tactics,Nippon Ichi,Tactical RPG with demon purification theme,PS2/PSP,60
-Phantom Brave,Nippon Ichi,Tactical RPG with phantom summoning system,PS2/PSP/Wii/PC/Switch,50
-Makai Kingdom,Nippon Ichi,Vehicle-based tactical RPG with overlord theme,PS2/PSP/PC/Switch,40
-Odin Sphere,Vanillaware,Hand-drawn action RPG with fairy tale stories,PS2/PS3/PS4/Vita,40
-GrimGrimoire,Vanillaware,Real-time strategy RPG with magic academy setting,PS2,25
-.hack//INFECTION,CyberConnect2,Simulated MMO experience part 1,PS2,20
-.hack//MUTATION,CyberConnect2,The World mystery continues part 2,PS2,20
-.hack//OUTBREAK,CyberConnect2,Data corruption spreads part 3,PS2,20
-.hack//QUARANTINE,CyberConnect2,Epic conclusion part 4,PS2,25
-.hack//G.U. Vol.1//Rebirth,CyberConnect2,Second generation trilogy begins,PS2/PS4/PC/Switch,30
-.hack//G.U. Vol.2//Reminisce,CyberConnect2,Haseo's continued revenge quest,PS2/PS4/PC/Switch,35
-.hack//G.U. Vol.3//Redemption,CyberConnect2,Trilogy conclusion with AIDA threat,PS2/PS4/PC/Switch,40
-Xenosaga Episode I,Namco,Sci-fi opera beginning KOS-MOS saga,PS2,60
-Xenosaga Episode II,Namco,Darker middle chapter with new art style,PS2,45
-Xenosaga Episode III,Namco,Epic space opera conclusion,PS2,80
-Baten Kaitos: Eternal Wings,Namco,Card-based combat in floating world,GameCube,60
-Baten Kaitos Origins,Namco,Prequel with improved card mechanics,GameCube,70
-Skies of Arcadia,Sega,Sky pirate adventure with ship exploration,Dreamcast/GameCube,50
-Evolution: The World of Sacred Device,Sting,Dungeon-crawling RPG with relic hunting,Dreamcast,40
-Phantasy Star Online,Sega,Online action RPG pioneer,Dreamcast/GameCube/Xbox/PC,100
-Shenmue,Sega,Life simulation RPG in 1980s Japan,Dreamcast/PS4/Xbox/PC,15
-Shenmue II,Sega,Hong Kong continuation of Ryo's quest,Dreamcast/Xbox/PS4/PC,30
-Panzer Dragoon Saga,Team Andromeda,Rail-shooter RPG hybrid masterpiece,Saturn,20
-Dragon Force,J-Force,Large-scale tactical RPG with kingdom conquest,Saturn,60
-Shining Force III,Camelot,Three-scenario tactical RPG epic,Saturn,120
-Albert Odyssey,Sunsoft,Traditional JRPG with Working Designs localization,Saturn,40
+Persona Q: Shadow of the Labyrinth,Atlus,Crossover dungeon crawler mixing Persona 3 and 4 characters,3DS,45
+Radiant Historia: Perfect Chronology,Atlus,Time-travel JRPG with alternate timeline navigation,3DS,40
+Shin Megami Tensei: Strange Journey,Atlus,Dungeon crawler with environmental themes in Antarctica,DS,60
+Etrian Odyssey,Atlus,Hardcore dungeon crawler with player-drawn mapping,DS,50
+Radiant Historia,Atlus,Time manipulation tactical RPG with grid-based combat,DS,35
+Atom RPG,AtomTeam,Soviet post-apocalyptic Fallout homage,PC,40
+Summon Night: Swordcraft Story,Banpresto,Action-RPG with weapon crafting and tournament structure,GBA,25
+Summon Night: Swordcraft Story,Banpresto,Action-RPG with weapon crafting and tournament structure,GBA,25
+Shadowrun,Beam Software,Cyberpunk RPG based on tabletop game,SNES/Genesis,15
 The Elder Scrolls III: Morrowind,Bethesda,Alien fantasy world with deep lore,PC/Xbox,100
-The Elder Scrolls IV: Oblivion,Bethesda,"Guild-focused fantasy with dynamic NPCs",PC/Xbox/PS3,80
+The Elder Scrolls IV: Oblivion,Bethesda,Guild-focused fantasy with dynamic NPCs,PC/Xbox/PS3,80
 The Elder Scrolls V: Skyrim,Bethesda,Dragon-born adventure with extensive modding,PC/Xbox/PS3/PS4/Switch,100
 Fallout 3,Bethesda,Post-nuclear Capital Wasteland exploration,PC/Xbox/PS3,50
-Fallout: New Vegas,Obsidian,Western post-apocalyptic with faction warfare,PC/Xbox/PS3,60
 Fallout 4,Bethesda,Settlement building in post-war Boston,PC/PS4/Xbox One,80
 Fallout 76,Bethesda,Online multiplayer post-apocalyptic survival,PC/PS4/Xbox/PC,100
 Star Wars: Knights of the Old Republic,BioWare,Old Republic era with moral choices,PC/Xbox/Mobile/Switch,40
-Star Wars: Knights of the Old Republic II,Obsidian,Darker Jedi philosophy exploration,PC/Xbox/Mobile/Switch,35
 Jade Empire,BioWare,Martial arts fantasy in mythical China,PC/Xbox,25
 Mass Effect,BioWare,Space opera beginning Shepard's journey,PC/Xbox/PS3,20
 Mass Effect 2,BioWare,Suicide mission with character focus,PC/Xbox/PS3,30
@@ -177,134 +37,27 @@ Dragon Age II,BioWare,Personal rise to power in Kirkwall,PC/Xbox/PS3,35
 Dragon Age: Inquisition,BioWare,Inquisition formation against Breach crisis,PC/PS3/PS4/Xbox,90
 Baldur's Gate,BioWare,Bhaalspawn saga beginning in Sword Coast,PC/Mobile/Switch,60
 Baldur's Gate II,BioWare,Epic sequel with Irenicus storyline,PC/Mobile/Switch,80
-Baldur's Gate 3,Larian Studios,Modern D&D 5e with exceptional presentation,PC/PS5/Xbox,100
+Neverwinter Nights,BioWare,D&D with extensive modding tools,PC/Mobile/Switch,40
 Icewind Dale,Black Isle,Combat-focused D&D in frozen north,PC/Mobile/Switch,40
 Icewind Dale II,Black Isle,3rd edition D&D sequel,PC,50
 Planescape: Torment,Black Isle,Philosophical dialogue-heavy masterpiece,PC/Mobile/Switch,50
-Neverwinter Nights,BioWare,D&D with extensive modding tools,PC/Mobile/Switch,40
-Neverwinter Nights 2,Obsidian,Enhanced sequel with party focus,PC,60
-The Witcher,CD Projekt RED,Adult fantasy based on Polish novels,PC,50
-The Witcher 2: Assassins of Kings,CD Projekt RED,Political intrigue with branching paths,PC/Xbox,35
-The Witcher 3: Wild Hunt,CD Projekt RED,Open-world masterpiece with exceptional quests,PC/PS4/Xbox/Switch,100
-Gothic,Piranha Bytes,Immersive prison colony atmosphere,PC,60
-Gothic II,Piranha Bytes,Expanded world with improved systems,PC,80
-Gothic 3,Piranha Bytes,Large-scale sequel with technical issues,PC,100
-Risen,Piranha Bytes,Spiritual Gothic successor on tropical island,PC/Xbox/PS4,40
-Risen 2: Dark Waters,Piranha Bytes,Pirate-themed sequel with firearms,PC/Xbox/PS3,35
-Risen 3: Titan Lords,Piranha Bytes,Multiple islands with Titan threat,PC/Xbox/PS3,40
-Two Worlds,Reality Pump,Open-world fantasy with weapon stacking,PC/Xbox,60
-Two Worlds II,Reality Pump,Improved sequel with magic system,PC/Xbox/PS3,40
-Fable,Lionhead Studios,Moral choice system with aging hero,PC/Xbox,25
-Fable II,Lionhead Studios,Dog companion with expression system,Xbox 360,30
-Fable III,Lionhead Studios,Industrial revolution with kingdom rule,PC/Xbox 360,25
-Sacred,Ascaron,Diablo-style action RPG with large world,PC,60
-Sacred 2: Fallen Angel,Ascaron,Expanded sequel with light/shadow campaigns,PC/Xbox/PS3,100
-Divine Divinity,Larian Studios,Isometric fantasy with freedom exploration,PC,100
-Beyond Divinity,Larian Studios,Soul-forged partnership sequel,PC,60
-Divinity II: The Dragon Knight Saga,Larian Studios,Dragon transformation with mind reading,PC/Xbox,80
-Divinity: Original Sin,Larian Studios,Turn-based tactical with environmental combat,PC/PS4/Xbox/Switch,60
-Divinity: Original Sin 2,Larian Studios,Enhanced sequel with Origin characters,PC/PS4/Xbox/Switch,80
-Pillars of Eternity,Obsidian,Infinity Engine spiritual successor,PC/PS4/Xbox/Switch,80
-Pillars of Eternity II: Deadfire,Obsidian,Naval exploration with multiclassing,PC/PS4/Xbox/Switch,70
-Tyranny,Obsidian,Evil has won premise with Kyros Empire,PC,30
-The Outer Worlds,Obsidian,Sci-fi corporate dystopia with humor,PC/PS4/Xbox/Switch,25
-Pathfinder: Kingmaker,Owlcat Games,Kingdom management with complex systems,PC/PS4/Xbox/Switch,100
-Pathfinder: Wrath of the Righteous,Owlcat Games,Mythic paths with crusade management,PC/PS4/Xbox/Switch,120
-Disco Elysium,ZA/UM,Revolutionary narrative detective RPG,PC/PS4/PS5/Xbox/Switch,25
-Kingdom Come: Deliverance,Warhorse Studios,Realistic medieval Bohemia,PC/PS4/Xbox/Switch,60
-Wasteland 2,inXile Entertainment,Post-apocalyptic tactical revival,PC/PS4/Xbox/Switch,50
-Wasteland 3,inXile Entertainment,Colorado-set with co-op campaign,PC/PS4/Xbox/Switch,40
-Torment: Tides of Numenera,inXile Entertainment,Planescape spiritual successor,PC/PS4/Xbox/Switch,35
-Shadowrun Returns,Harebrained Schemes,Cyberpunk tactical RPG revival,PC/Mobile,12
-Shadowrun: Dragonfall,Harebrained Schemes,Berlin-set expansion standalone,PC/Mobile,20
-Shadowrun: Hong Kong,Harebrained Schemes,Asian setting with improved mechanics,PC/Mobile,25
-Deus Ex,Ion Storm,Cyberpunk conspiracy with player choice,PC,25
-Deus Ex: Invisible War,Ion Storm,Sequel with unified ammo system,PC/Xbox,15
-Deus Ex: Human Revolution,Eidos Montreal,Prequel exploring transhumanism,PC/PS3/Xbox/Wii U,25
-Deus Ex: Mankind Divided,Eidos Montreal,Augmented apartheid themes,PC/PS4/Xbox,30
-System Shock,Looking Glass Studios,Cyberpunk horror with SHODAN AI,PC,15
-System Shock 2,Irrational Games,Sci-fi horror masterpiece,PC,20
-Vampire: The Masquerade - Bloodlines,Troika Games,Gothic modern vampire clans,PC,30
-Persona Q: Shadow of the Labyrinth,Atlus,Crossover dungeon crawler mixing Persona 3 and 4 characters,3DS,45
-Radiant Historia: Perfect Chronology,Atlus,Time-travel JRPG with alternate timeline navigation,3DS,40
-The Alliance Alive,FuRyu,Spiritual successor to classic JRPG design,3DS,35
-Bravely Default,Square Enix,Modern turn-based JRPG with job system and Brave/Default mechanics,3DS,50
-Bravely Second: End Layer,Square Enix,Sequel refining job-based combat and storytelling,3DS,50
-Xenoblade Chronicles 3D,Monolith Soft,Expansive world exploration with real-time combat,New 3DS,60
-Crimson Shroud,Level-5/Tabletop Games,Tabletop-inspired digital RPG with dice mechanics,3DS,10
-The Legend of Heroes: Trails in the Sky,Falcom,Deep worldbuilding and character-driven turn-based RPG,PSP/PC,50
-The Legend of Heroes: Trails in the Sky SC,Falcom,Sequel continuing Estelle and Joshua’s journey,PSP/PC,60
-Tactics Ogre: The Knight of Lodis,Quest,Portable tactical RPG with moral choices,GBA,35
-Summon Night: Swordcraft Story,Banpresto,Action-RPG with weapon crafting and tournament structure,GBA,25
-Undertale,Toby Fox,Indie RPG that subverts expectations with pacifism and humor,PC/Switch/PS4/Xbox,6
-CrossCode,Radical Fish Games,Retro-inspired action RPG with puzzle mechanics and fast combat,PC/Switch/PS4/Xbox,35
-Bug Fables: The Everlasting Sapling,Moonsprout Games,Paper Mario spiritual successor with bug-themed heroes,PC/Switch/PS4/Xbox,30
-Eastward,Pixpil,Post-apocalyptic pixel-art RPG with emotional storytelling,PC/Switch,25
-Chained Echoes,Matthias Linda,Indie JRPG love letter with mech battles and rich story,PC/PS4/PS5/Switch/Xbox,40
-Octopath Traveler,Square Enix,HD-2D visuals with eight intertwining character paths,Switch/PC/PS4/Xbox,50
-Octopath Traveler II,Square Enix,Standalone sequel with refined mechanics and story,Switch/PC/PS5,60
-Triangle Strategy,Square Enix,Tactical RPG with political branching paths and pixel visuals,Switch/PC,40
-Xenoblade Chronicles: Definitive Edition,Monolith Soft,HD remake of the original epic JRPG,Switch,70
-Xenoblade Chronicles 2,Monolith Soft,Blade system with deep story and expansive world,Switch,80
-Xenoblade Chronicles 3,Monolith Soft,Cinematic JRPG blending gameplay systems of its predecessors,Switch,90
-Final Fantasy Tactics,Square,Political intrigue tactical masterpiece with job system depth,PS1/PSP/Mobile/Switch,60
-Final Fantasy Tactics Advance,Square Enix,A tactical RPG set in the magical world of Ivalice where players control a clan of characters and battle through grid-based maps with deep customization and job systems,GBA,50
-Final Fantasy Tactics A2: Grimoire of the Rift,Square Enix,Sequel to Final Fantasy Tactics Advance following a boy named Luso transported into Ivalice. Features improved graphics expanded job system and quest-based gameplay,DS,60
-Tactics Ogre: Let Us Cling Together,Quest,Branching political narrative with consequence system,SNES/PS1/PSP/PC,80
-Fire Emblem: Awakening,Nintendo,Series revival with marriage system and permadeath stakes,3DS,45
-Fire Emblem: Three Houses,Nintendo,Academy life simulation meets strategic warfare,Switch/PC,8
-Advance Wars,Nintendo,Turn-based military strategy without RPG elements but tactical depth,GBA/DS,25
+Diablo II: Resurrected,Blizzard,Modern remaster with updated graphics and quality improvements,PC/PS4/PS5/Switch/Xbox,40
+Diablo III,Blizzard,Controversial sequel with auction house and simplified mechanics,PC/Mac/PS3/PS4/Xbox/Switch,25
+Diablo III: Reaper of Souls,Blizzard,Major expansion fixing core issues with Adventure Mode,PC/Mac/PS4/Xbox/Switch,50
+Diablo IV,Blizzard,Return to dark atmosphere with open world elements,PC/PS4/PS5/Xbox,45
+Diablo Immortal,Blizzard,Mobile entry with MMO elements and controversial monetization,Mobile/PC,100
+Diablo II,Blizzard North,Legendary sequel with five acts and online play,PC/Mac,30
+Diablo II: Lord of Destruction,Blizzard North,Essential expansion adding two classes and Act V,PC/Mac,40
+Shining Force III,Camelot,Three-scenario tactical RPG epic,Saturn,120
 Golden Sun,Camelot,Puzzle-heavy adventure JRPG with Djinn summoning system,GBA,30
 Golden Sun: The Lost Age,Camelot,Epic sequel doubling world size with ship exploration,GBA,40
 Golden Sun: Dark Dawn,Camelot,Next generation sequel with touch screen puzzle mechanics,DS,35
-Mother,Nintendo,Quirky modern RPG predecessor to EarthBound,NES/GBA,15
-Mother 3,Nintendo,Emotional finale with rhythm-based combat system,GBA,25
-Pokemon Red/Blue,Game Freak,Monster collecting phenomenon that defined portable RPGs,GB/3DS,30
-Pokemon Gold/Silver,Game Freak,Day/night cycles with breeding and legendary expansion,GBC/3DS,40
-Shin Megami Tensei: Strange Journey,Atlus,Dungeon crawler with environmental themes in Antarctica,DS,60
-Etrian Odyssey,Atlus,Hardcore dungeon crawler with player-drawn mapping,DS,50
-Radiant Historia,Atlus,Time manipulation tactical RPG with grid-based combat,DS,35
-The World Ends With You,Square Enix,Modern Shibuya setting with dual-screen combat innovation,DS/Switch/Mobile,25
-Mario & Luigi: Superstar Saga,Nintendo,Comedic action RPG with timed button mechanics,GBA/3DS,20
-Paper Mario,Nintendo,Flat aesthetic with creative battle system,N64/Switch,15
-Paper Mario: The Thousand-Year Door,Nintendo,Badge system perfection with partner abilities,GameCube,25
-Demon's Souls,From Software,Punishing action RPG that birthed Souls formula,PS3/PS5,40
-Dark Souls,From Software,Interconnected world design with challenging combat,PC/PS3/Xbox/Switch,50
-Dark Souls III,From Software,Series finale with refined mechanics and boss design,PC/PS4/Xbox,35
-Bloodborne,From Software,Gothic horror with aggressive combat rewarding offense,PS4/PS5,30
-Sekiro: Shadows Die Twice,From Software,Shinobi action with parry-focused sword combat,PC/PS4/Xbox,25
-Elden Ring,From Software,Open-world Souls with George R.R. Martin collaboration,PC/PS4/PS5/Xbox,70
-Ni No Kuni: Wrath of the White Witch,Level-5,Studio Ghibli animated JRPG with familiar collection,PS3/PS4/PC/Switch,45
+Breath of Fire,Capcom,Dragon transformation hero with fishing mini-games,SNES/GBA,30
+Breath of Fire II,Capcom,Darker religious themes with town building,SNES/GBA,40
+Breath of Fire III,Capcom,Dragon gene storyline with fishing and fairy village,PS1/PSP/PC,50
+Breath of Fire IV,Capcom,Dual protagonist story with hex-based combat,PS1/PC,40
 Dragon's Dogma,Capcom,Climbing large monsters with pawn companion system,PC/PS3/PS4/Xbox/Switch,40
 Monster Hunter Stories,Capcom,Turn-based monster collecting in Monster Hunter universe,3DS/Mobile/PC/Switch,50
-Pokémon Mystery Dungeon: Explorers of Sky,Chunsoft,Roguelike dungeon crawler with emotional storytelling,DS,40
-Rogue Legacy,Cellar Door Games,Genealogical platformer-RPG with trait inheritance,PC/PS3/PS4/Vita/Switch/Xbox,15
-The Binding of Isaac,Edmund McMillen,Dark roguelike with religious symbolism and item synergies,PC/PS4/Switch/Vita/3DS,50
-FTL: Faster Than Light,Subset Games,Spaceship management roguelike with crew permadeath,PC/Mobile,20
-Spelunky,Mossmouth,Platformer with RPG progression and procedural cave generation,PC/PS3/PS4/Xbox/Switch/Vita,30
-Dead Cells,Motion Twin,Metroidvania roguelike with fluid combat progression,PC/PS4/Switch/Xbox/Mobile,25
-Hades,Supergiant Games,Narrative roguelike with Greek mythology and relationship building,PC/PS4/PS5/Switch/Xbox,30
-Children of Morta,Dead Mage,Family-focused action RPG with generational storytelling,PC/PS4/Switch/Xbox,12
-Transistor,Supergiant Games,Sci-fi action RPG with turn-based planning mode,PC/PS4/Switch/Mobile,8
-Bastion,Supergiant Games,Isometric action RPG with dynamic narration system,PC/Xbox/PS4/Switch/Mobile,6
-Pyre,Supergiant Games,Mystical sports RPG with liberation themes,PC/PS4,7
-Hollow Knight,Team Cherry,Metroidvania with challenging combat and atmospheric exploration,PC/PS4/Switch/Xbox,30
-Salt and Sanctuary,Ska Studios,2D Souls-like with deep RPG customization,PC/PS4/Switch/Xbox/Vita,20
-Hyper Light Drifter,Heart Machine,Pixel-art action RPG with wordless storytelling,PC/PS4/Switch/Xbox/Vita/Mobile,8
-Lisa: The Painful,Dingaling Productions,Post-apocalyptic RPG with sacrifice-based choices,PC/Switch,15
-Undertale,Toby Fox,Genre-deconstructing RPG with pacifist options,PC/PS4/Switch/Xbox/Vita,6
-OneShot,Dingaling Productions,Meta-narrative puzzle RPG breaking fourth wall,PC/Switch,5
-OMORI,OMOCAT,Psychological horror RPG exploring trauma and friendship,PC/Switch/PS4/Xbox,25
-Disco Elysium,ZA/UM,Dialogue-heavy detective RPG with skill-based personality system,PC/PS4/PS5/Switch/Xbox,25
-Divinity: Original Sin Enhanced Edition,Larian Studios,Environmental interaction tactical RPG with co-op storytelling,PC/PS4/Xbox/Switch,60
-Solasta: Crown of the Magister,Tactical Adventures,Faithful D&D 5e implementation with verticality focus,PC,40
-Encased,Dark Crystal Games,Retro sci-fi isometric RPG inspired by Fallout,PC,50
-Atom RPG,AtomTeam,Soviet post-apocalyptic Fallout homage,PC,40
-UnderRail,Stygian Software,Metro-tunnels isometric RPG with deep character building,PC,60
-Age of Decadence,Iron Tower Studio,Choice-heavy Roman-inspired RPG with consequence focus,PC,25
-Serpent in the Staglands,Whalenought Studios,Old-school CRPG with no hand-holding approach,PC,40
-Expeditions: Viking,Logic Artists,Historical RPG with tactical combat and exploration,PC,35
-King of Dragon Pass,A Sharp,Tribal management RPG with narrative choices,PC/Mobile,30
 Mega Man Battle Network,Capcom,Real-time grid combat RPG with virus deletion and chip system,GBA,20
 Mega Man Battle Network 2,Capcom,Style Change system with improved NetNavi customization,GBA,25
 Mega Man Battle Network 3: White,Capcom,NaviCust system introduction with dual version differences,GBA,30
@@ -315,22 +68,46 @@ Mega Man Battle Network 5: Team Protoman,Capcom,Liberation missions with team-ba
 Mega Man Battle Network 5: Team Colonel,Capcom,Liberation missions with different team members and Navis,GBA/DS,30
 Mega Man Battle Network 6: Cybeast Gregar,Capcom,Beast Out system with Gregar fusion abilities,GBA,35
 Mega Man Battle Network 6: Cybeast Falzar,Capcom,Beast Out system with Falzar fusion and link battles,GBA,35
-Zone of the Enders,Konami,Fast-paced mecha action with Orbital Frame Jehuty,PS2/PS3/Xbox/PC,6
-Zone of the Enders: The 2nd Runner,Konami,High-speed sequel with enhanced combat and Anubis storyline,PS2/PS3/PS4/Xbox/PC,8
-Zone of the Enders: The Fist of Mars,Konami,Tactical RPG spin-off with strategy elements on Mars,GBA,25
-Front Mission,Square,Tactical mecha RPG with political intrigue and customizable Wanzers,SNES/DS/PSP/PS1,30
-Front Mission: Gun Hazard,Square,Side-scrolling action RPG spin-off with real-time mecha combat,SNES,12
-Front Mission 2: Replica Keepers,Square,Prequel with improved mechanics and deeper customization,PS1,35
-Front Mission 3,Square,Dual scenario paths with internet simulation and Emma storyline,PS1/PSP,50
-Front Mission 4,Square Enix,Dual protagonist story across Venezuela and Europe conflicts,PS2,45
-Front Mission 5: Scars of the War,Square Enix,Japan-exclusive entry with refined tactical combat,PS2,40
-Front Mission Alternative,Square,Real-time strategy spin-off focusing on large-scale battles,PC,20
-Front Mission Online,Square Enix,Massively multiplayer tactical combat with persistent world,PC,100
-Front Mission 2089: Border of Madness,Square Enix,Mobile entry with simplified tactical gameplay,Mobile,15
-Front Mission 2089-II: Neo,Square Enix,Mobile sequel with enhanced graphics and systems,Mobile,18
-Front Mission Evolved,Square Enix,Third-person action reboot departing from tactical roots,PC/PS3/Xbox,8
-Front Mission: The First,Square Enix,Enhanced remake of original with voice acting,DS,30
-Front Mission 1st: Remake,Square Enix,Modern remake with updated visuals and quality improvements,Switch/PC/PS4/PS5,30
+The Witcher,CD Projekt RED,Adult fantasy based on Polish novels,PC,50
+The Witcher 2: Assassins of Kings,CD Projekt RED,Political intrigue with branching paths,PC/Xbox,35
+The Witcher 3: Wild Hunt,CD Projekt RED,Open-world masterpiece with exceptional quests,PC/PS4/Xbox/Switch,100
+Rogue Legacy,Cellar Door Games,Genealogical platformer-RPG with trait inheritance,PC/PS3/PS4/Vita/Switch/Xbox,15
+Pokémon Mystery Dungeon: Explorers of Sky,Chunsoft,Roguelike dungeon crawler with emotional storytelling,DS,40
+.hack//INFECTION,CyberConnect2,Simulated MMO experience part 1,PS2,20
+.hack//MUTATION,CyberConnect2,The World mystery continues part 2,PS2,20
+.hack//OUTBREAK,CyberConnect2,Data corruption spreads part 3,PS2,20
+.hack//QUARANTINE,CyberConnect2,Epic conclusion part 4,PS2,25
+.hack//G.U. Vol.1//Rebirth,CyberConnect2,Second generation trilogy begins,PS2/PS4/PC/Switch,30
+.hack//G.U. Vol.2//Reminisce,CyberConnect2,Haseo's continued revenge quest,PS2/PS4/PC/Switch,35
+.hack//G.U. Vol.3//Redemption,CyberConnect2,Trilogy conclusion with AIDA threat,PS2/PS4/PC/Switch,40
+Encased,Dark Crystal Games,Retro sci-fi isometric RPG inspired by Fallout,PC,50
+Children of Morta,Dead Mage,Family-focused action RPG with generational storytelling,PC/PS4/Switch/Xbox,12
+Lisa: The Painful,Dingaling Productions,Post-apocalyptic RPG with sacrifice-based choices,PC/Switch,15
+OneShot,Dingaling Productions,Meta-narrative puzzle RPG breaking fourth wall,PC/Switch,5
+The Binding of Isaac,Edmund McMillen,Dark roguelike with religious symbolism and item synergies,PC/PS4/Switch/Vita/3DS,50
+Deus Ex: Human Revolution,Eidos Montreal,Prequel exploring transhumanism,PC/PS3/Xbox/Wii U,25
+Deus Ex: Mankind Divided,Eidos Montreal,Augmented apartheid themes,PC/PS4/Xbox,30
+Dragon Warrior,Enix,Original Dragon Quest that started the JRPG genre in the West,NES/GBC/Mobile,8
+Dragon Warrior II,Enix,First party-based Dragon Quest with multiple party members,NES/GBC/Mobile,12
+Dragon Warrior III,Enix,Job system introduction with Erdrick's legendary adventure,NES/GBC/SNES/Mobile,25
+Dragon Warrior IV,Enix,Chapter-based storytelling with Chosen One prophecy,NES/PS1/DS/Mobile,30
+Terranigma,Enix,Philosophical action RPG about world and humanity creation,SNES,40
+Soul Blazer,Enix,Action RPG about recreating world and its inhabitants,SNES,15
+ActRaiser,Enix,Unique blend of action-platformer and city simulation,SNES/Mobile/Switch,8
+Illusion of Gaia,Enix,Adventure RPG with real-world locations and ancient mysteries,SNES,20
+7th Saga,Enix,Notoriously difficult RPG with seven playable characters,SNES,40
+Valkyrie Profile,Enix,Norse mythology with side-scrolling exploration,PS1/PSP/Mobile,35
+Star Ocean: The Second Story,Enix,Space-fantasy with skill system and private actions,PS1/PSP/PC/Switch,40
+The Legend of Heroes: Trails in the Sky,Falcom,Deep worldbuilding and character-driven turn-based RPG,PSP/PC,50
+The Legend of Heroes: Trails in the Sky SC,Falcom,Sequel continuing Estelle and Joshua’s journey,PSP/PC,60
+The Legend of Heroes: Trails in the Sky,Falcom,Deep worldbuilding and character-driven turn-based RPG,PSP/PC,50
+The Legend of Heroes: Trails in the Sky SC,Falcom,Sequel continuing Estelle and Joshua’s journey,PSP/PC,60
+Demon's Souls,From Software,Punishing action RPG that birthed Souls formula,PS3/PS5,40
+Dark Souls,From Software,Interconnected world design with challenging combat,PC/PS3/Xbox/Switch,50
+Dark Souls III,From Software,Series finale with refined mechanics and boss design,PC/PS4/Xbox,35
+Bloodborne,From Software,Gothic horror with aggressive combat rewarding offense,PS4/PS5,30
+Sekiro: Shadows Die Twice,From Software,Shinobi action with parry-focused sword combat,PC/PS4/Xbox,25
+Elden Ring,From Software,Open-world Souls with George R.R. Martin collaboration,PC/PS4/PS5/Xbox,70
 Armored Core,From Software,Original mech customization action with mercenary missions,PS1/PSP,15
 Armored Core: Project Phantasma,From Software,Standalone expansion with new parts and Arena mode,PS1/PSP,12
 Armored Core: Master of Arena,From Software,Arena-focused entry with ranking tournament system,PS1/PSP,20
@@ -347,11 +124,234 @@ Armored Core: For Answer,From Software,Massive scale battles with Arms Forts and
 Armored Core V,From Software,Team-based online focus with territory control mechanics,PS3/Xbox,20
 Armored Core: Verdict Day,From Software,Enhanced online warfare with faction system,PS3/Xbox,25
 Armored Core VI: Fires of Rubicon,From Software,Modern reboot with Souls-influenced boss design,PC/PS4/PS5/Xbox,20
-Diablo II,Blizzard North,Legendary sequel with five acts and online play,PC/Mac,30
-Diablo II: Lord of Destruction,Blizzard North,Essential expansion adding two classes and Act V,PC/Mac,40
-Diablo II: Resurrected,Blizzard,Modern remaster with updated graphics and quality improvements,PC/PS4/PS5/Switch/Xbox,40
-Diablo III,Blizzard,Controversial sequel with auction house and simplified mechanics,PC/Mac/PS3/PS4/Xbox/Switch,25
-Diablo III: Reaper of Souls,Blizzard,Major expansion fixing core issues with Adventure Mode,PC/Mac/PS4/Xbox/Switch,50
-Diablo IV,Blizzard,Return to dark atmosphere with open world elements,PC/PS4/PS5/Xbox,45
-Diablo Immortal,Blizzard,Mobile entry with MMO elements and controversial monetization,Mobile/PC,100
-The Legend of Dragoon,Sony, A turn-based JRPG following Dart and his companions as they awaken the powers of ancient Dragoons to stop a world-ending threat. Features a unique 'Additions' combat system and cinematic story,PlayStation,60
+The Alliance Alive,FuRyu,Spiritual successor to classic JRPG design,3DS,35
+The Alliance Alive,FuRyu,Spiritual successor to classic JRPG design,3DS,35
+Arc the Lad,G-Craft,Strategic RPG trilogy with connected storylines,PS1/PS2/PSP,25
+Grandia,Game Arts,Coming-of-age adventure with innovative combat timing,PS1/Saturn/PC/Switch,50
+Grandia II,Game Arts,Religious themes with Ryudo's cynical journey,Dreamcast/PS2/PC,40
+Grandia III,Game Arts,Aerial adventure with refined combat system,PS2,60
+Grandia Xtreme,Game Arts,Dungeon-focused entry with extreme combat,PS2,40
+Pokemon Red/Blue,Game Freak,Monster collecting phenomenon that defined portable RPGs,GB/3DS,30
+Pokemon Gold/Silver,Game Freak,Day/night cycles with breeding and legendary expansion,GBC/3DS,40
+Ar tonelico: Melody of Elemia,Gust,Song magic RPG with Reyvateil companions,PS2,50
+Ar tonelico II: Melody of Metafalica,Gust,Sequel with dual Reyvateil system,PS2,60
+Atelier Iris: Eternal Mana,Gust,Alchemy-based RPG with item synthesis,PS2,40
+Atelier Iris 2: The Azoth of Destiny,Gust,Dual world exploration with alchemy focus,PS2,45
+Atelier Iris 3: Grand Phantasm,Gust,MMORPG-inspired with raid boss battles,PS2,50
+Shadowrun Returns,Harebrained Schemes,Cyberpunk tactical RPG revival,PC/Mobile,12
+Shadowrun: Dragonfall,Harebrained Schemes,Berlin-set expansion standalone,PC/Mobile,20
+Shadowrun: Hong Kong,Harebrained Schemes,Asian setting with improved mechanics,PC/Mobile,25
+Hyper Light Drifter,Heart Machine,Pixel-art action RPG with wordless storytelling,PC/PS4/Switch/Xbox/Vita/Mobile,8
+Vanguard Bandits,Human Entertainment,Mecha tactical RPG with branching paths,PS1,30
+Wasteland 2,inXile Entertainment,Post-apocalyptic tactical revival,PC/PS4/Xbox/Switch,50
+Wasteland 3,inXile Entertainment,Colorado-set with co-op campaign,PC/PS4/Xbox/Switch,40
+Torment: Tides of Numenera,inXile Entertainment,Planescape spiritual successor,PC/PS4/Xbox/Switch,35
+Deus Ex,Ion Storm,Cyberpunk conspiracy with player choice,PC,25
+Deus Ex: Invisible War,Ion Storm,Sequel with unified ammo system,PC/Xbox,15
+Age of Decadence,Iron Tower Studio,Choice-heavy Roman-inspired RPG with consequence focus,PC,25
+System Shock 2,Irrational Games,Sci-fi horror masterpiece,PC,20
+Dragon Force,J-Force,Large-scale tactical RPG with kingdom conquest,Saturn,60
+Suikoden,Konami,108 Stars of Destiny political RPG,PS1/Saturn/PC,25
+Suikoden II,Konami,Friendship and betrayal masterpiece,PS1/PC,35
+Suikoden III,Konami,Trinity Sight system with three perspectives,PS2,50
+Suikoden IV,Konami,Naval exploration with Island Nations,PS2,35
+Suikoden V,Konami,Return to political intrigue form,PS2,60
+Zone of the Enders,Konami,Fast-paced mecha action with Orbital Frame Jehuty,PS2/PS3/Xbox/PC,6
+Zone of the Enders: The 2nd Runner,Konami,High-speed sequel with enhanced combat and Anubis storyline,PS2/PS3/PS4/Xbox/PC,8
+Zone of the Enders: The Fist of Mars,Konami,Tactical RPG spin-off with strategy elements on Mars,GBA,25
+Baldur's Gate 3,Larian Studios,Modern D&D 5e with exceptional presentation,PC/PS5/Xbox,100
+Divine Divinity,Larian Studios,Isometric fantasy with freedom exploration,PC,100
+Beyond Divinity,Larian Studios,Soul-forged partnership sequel,PC,60
+Divinity II: The Dragon Knight Saga,Larian Studios,Dragon transformation with mind reading,PC/Xbox,80
+Divinity: Original Sin,Larian Studios,Turn-based tactical with environmental combat,PC/PS4/Xbox/Switch,60
+Divinity: Original Sin 2,Larian Studios,Enhanced sequel with Origin characters,PC/PS4/Xbox/Switch,80
+Divinity: Original Sin Enhanced Edition,Larian Studios,Environmental interaction tactical RPG with co-op storytelling,PC/PS4/Xbox/Switch,60
+Rogue Galaxy,Level-5,Space pirate adventure with real-time combat,PS2,60
+Dark Cloud,Level-5,Dungeon crawling with town rebuilding,PS2,40
+Dark Cloud 2,Level-5,Time-traveling sequel with invention system,PS2,80
+Ni No Kuni: Wrath of the White Witch,Level-5,Studio Ghibli animated JRPG with familiar collection,PS3/PS4/PC/Switch,45
+Crimson Shroud,Level-5/Tabletop Games,Tabletop-inspired digital RPG with dice mechanics,3DS,10
+Crimson Shroud,Level-5/Tabletop Games,Tabletop-inspired digital RPG with dice mechanics,3DS,10
+Fable,Lionhead Studios,Moral choice system with aging hero,PC/Xbox,25
+Fable II,Lionhead Studios,Dog companion with expression system,Xbox 360,30
+Fable III,Lionhead Studios,Industrial revolution with kingdom rule,PC/Xbox 360,25
+Expeditions: Viking,Logic Artists,Historical RPG with tactical combat and exploration,PC,35
+System Shock,Looking Glass Studios,Cyberpunk horror with SHODAN AI,PC,15
+Alundra,Matrix Software,Action RPG with nightmare themes and puzzles,PS1,25
+Chained Echoes,Matthias Linda,Indie JRPG love letter with mech battles and rich story,PC/PS4/PS5/Switch/Xbox,40
+Chained Echoes,Matthias Linda,Indie JRPG love letter with mech battles and rich story,PC/PS4/PS5/Switch/Xbox,40
+Xenoblade Chronicles 3D,Monolith Soft,Expansive world exploration with real-time combat,New 3DS,60
+Xenoblade Chronicles: Definitive Edition,Monolith Soft,HD remake of the original epic JRPG,Switch,70
+Xenoblade Chronicles 2,Monolith Soft,Blade system with deep story and expansive world,Switch,80
+Xenoblade Chronicles 3,Monolith Soft,Cinematic JRPG blending gameplay systems of its predecessors,Switch,90
+Xenoblade Chronicles 3D,Monolith Soft,Expansive world exploration with real-time combat,New 3DS,60
+Xenoblade Chronicles: Definitive Edition,Monolith Soft,HD remake of the original epic JRPG,Switch,70
+Xenoblade Chronicles 2,Monolith Soft,Blade system with deep story and expansive world,Switch,80
+Xenoblade Chronicles 3,Monolith Soft,Cinematic JRPG blending gameplay systems of its predecessors,Switch,90
+Bug Fables: The Everlasting Sapling,Moonsprout Games,Paper Mario spiritual successor with bug-themed heroes,PC/Switch/PS4/Xbox,30
+Bug Fables: The Everlasting Sapling,Moonsprout Games,Paper Mario spiritual successor with bug-themed heroes,PC/Switch/PS4/Xbox,30
+Spelunky,Mossmouth,Platformer with RPG progression and procedural cave generation,PC/PS3/PS4/Xbox/Switch/Vita,30
+Dead Cells,Motion Twin,Metroidvania roguelike with fluid combat progression,PC/PS4/Switch/Xbox/Mobile,25
+Tales of Phantasia,Namco,First Tales with voice acting and real-time combat,SNES/PS1/GBA/PSP/iOS,40
+Tales of Destiny,Namco,Swordian weapon spirits with real-time combat,PS1/PS2,40
+Tales of Eternia,Namco,Bridge between worlds with excellent development,PS1/PSP,45
+Tales of Symphonia,Namco,GameCube exclusive with world regeneration themes,GameCube/PS2/PS3/PC,60
+Tales of the Abyss,Namco,Identity crisis themes with replica storyline,PS2/3DS,70
+Xenosaga Episode I,Namco,Sci-fi opera beginning KOS-MOS saga,PS2,60
+Xenosaga Episode II,Namco,Darker middle chapter with new art style,PS2,45
+Xenosaga Episode III,Namco,Epic space opera conclusion,PS2,80
+Baten Kaitos: Eternal Wings,Namco,Card-based combat in floating world,GameCube,60
+Baten Kaitos Origins,Namco,Prequel with improved card mechanics,GameCube,70
+Shadow Hearts: Covenant,Nautilius,WWI sequel with improved mechanics,PS2,50
+Shadow Hearts: From the New World,Nautilius,Americas-set finale with Native American themes,PS2,45
+EarthBound,Nintendo,Quirky modern-day RPG with psychic powers,SNES/GBA/3DS/Switch,30
+Fire Emblem: Awakening,Nintendo,Series revival with marriage system and permadeath stakes,3DS,45
+Fire Emblem: Three Houses,Nintendo,Academy life simulation meets strategic warfare,Switch/PC,8
+Advance Wars,Nintendo,Turn-based military strategy without RPG elements but tactical depth,GBA/DS,25
+Mother,Nintendo,Quirky modern RPG predecessor to EarthBound,NES/GBA,15
+Mother 3,Nintendo,Emotional finale with rhythm-based combat system,GBA,25
+Mario & Luigi: Superstar Saga,Nintendo,Comedic action RPG with timed button mechanics,GBA/3DS,20
+Paper Mario,Nintendo,Flat aesthetic with creative battle system,N64/Switch,15
+Paper Mario: The Thousand-Year Door,Nintendo,Badge system perfection with partner abilities,GameCube,25
+Super Mario RPG,Nintendo/Square,Mario's first RPG with timed button mechanics,SNES/Switch,16
+Disgaea: Hour of Darkness,Nippon Ichi,Over-the-top tactical RPG with level 9999,PS2/PSP/DS/PC/Switch,80
+Disgaea 2: Cursed Memories,Nippon Ichi,Sequel with Adell's quest to save mother,PS2/PSP/PC,80
+La Pucelle: Tactics,Nippon Ichi,Tactical RPG with demon purification theme,PS2/PSP,60
+Phantom Brave,Nippon Ichi,Tactical RPG with phantom summoning system,PS2/PSP/Wii/PC/Switch,50
+Makai Kingdom,Nippon Ichi,Vehicle-based tactical RPG with overlord theme,PS2/PSP/PC/Switch,40
+Fallout: New Vegas,Obsidian,Western post-apocalyptic with faction warfare,PC/Xbox/PS3,60
+Star Wars: Knights of the Old Republic II,Obsidian,Darker Jedi philosophy exploration,PC/Xbox/Mobile/Switch,35
+Neverwinter Nights 2,Obsidian,Enhanced sequel with party focus,PC,60
+Pillars of Eternity,Obsidian,Infinity Engine spiritual successor,PC/PS4/Xbox/Switch,80
+Pillars of Eternity II: Deadfire,Obsidian,Naval exploration with multiclassing,PC/PS4/Xbox/Switch,70
+Tyranny,Obsidian,Evil has won premise with Kyros Empire,PC,30
+The Outer Worlds,Obsidian,Sci-fi corporate dystopia with humor,PC/PS4/Xbox/Switch,25
+OMORI,OMOCAT,Psychological horror RPG exploring trauma and friendship,PC/Switch/PS4/Xbox,25
+Ultima III: Exodus,Origin Systems,Early party-based RPG with virtue system origins,NES/PC/C64,40
+Ultima IV: Quest of the Avatar,Origin Systems,Revolutionary RPG focusing on virtue rather than defeating evil,NES/PC/C64,50
+Ultima V: Warriors of Destiny,Origin Systems,Dark sequel dealing with corrupted virtue system,PC/NES/C64,60
+Ultima VI: The False Prophet,Origin Systems,Unified world design with gargoyle perspective story,PC/SNES/C64,40
+Ultima VII: The Black Gate,Origin Systems,Open-world masterpiece with Fellowship cult investigation,PC,80
+Ultima VIII: Pagan,Origin Systems,Action-oriented entry with elemental magic system,PC,30
+Pathfinder: Kingmaker,Owlcat Games,Kingdom management with complex systems,PC/PS4/Xbox/Switch,100
+Pathfinder: Wrath of the Righteous,Owlcat Games,Mythic paths with crusade management,PC/PS4/Xbox/Switch,120
+Gothic,Piranha Bytes,Immersive prison colony atmosphere,PC,60
+Gothic II,Piranha Bytes,Expanded world with improved systems,PC,80
+Gothic 3,Piranha Bytes,Large-scale sequel with technical issues,PC,100
+Risen,Piranha Bytes,Spiritual Gothic successor on tropical island,PC/Xbox/PS4,40
+Risen 2: Dark Waters,Piranha Bytes,Pirate-themed sequel with firearms,PC/Xbox/PS3,35
+Risen 3: Titan Lords,Piranha Bytes,Multiple islands with Titan threat,PC/Xbox/PS3,40
+Eastward,Pixpil,Post-apocalyptic pixel-art RPG with emotional storytelling,PC/Switch,25
+Eastward,Pixpil,Post-apocalyptic pixel-art RPG with emotional storytelling,PC/Switch,25
+Tactics Ogre: The Knight of Lodis,Quest,Portable tactical RPG with moral choices,GBA,35
+Ogre Battle: March of the Black Queen,Quest,Real-time strategy RPG with reputation system,SNES/Saturn/PS1/N64,50
+Tactics Ogre: The Knight of Lodis,Quest,Portable tactical RPG with moral choices,GBA,35
+Tactics Ogre: Let Us Cling Together,Quest,Branching political narrative with consequence system,SNES/PS1/PSP/PC,80
+CrossCode,Radical Fish Games,Retro-inspired action RPG with puzzle mechanics and fast combat,PC/Switch/PS4/Xbox,35
+CrossCode,Radical Fish Games,Retro-inspired action RPG with puzzle mechanics and fast combat,PC/Switch/PS4/Xbox,35
+Two Worlds,Reality Pump,Open-world fantasy with weapon stacking,PC/Xbox,60
+Two Worlds II,Reality Pump,Improved sequel with magic system,PC/Xbox/PS3,40
+Shadow Hearts,Sacnoth,Alternate history horror RPG with Judgment Ring,PS2,40
+Phantasy Star,Sega,Sci-fi RPG with 3D dungeons and space travel,Master System/PS2/GBA,15
+Phantasy Star II,Sega,Dark sequel with environmental themes and tragic ending,Genesis/PS2/PC,25
+Phantasy Star III,Sega,Generational saga spanning three time periods,Genesis/PS2/PC,35
+Phantasy Star IV,Sega,Epic conclusion with manga-style presentation,Genesis/PS2/PC/Switch,35
+Skies of Arcadia,Sega,Sky pirate adventure with ship exploration,Dreamcast/GameCube,50
+Phantasy Star Online,Sega,Online action RPG pioneer,Dreamcast/GameCube/Xbox/PC,100
+Shenmue,Sega,Life simulation RPG in 1980s Japan,Dreamcast/PS4/Xbox/PC,15
+Shenmue II,Sega,Hong Kong continuation of Ryo's quest,Dreamcast/Xbox/PS4/PC,30
+Salt and Sanctuary,Ska Studios,2D Souls-like with deep RPG customization,PC/PS4/Switch/Xbox/Vita,20
+Legend of Legaia,Sony,Martial arts combat with symbiotic creature system,PS1,45
+Wild Arms,Sony,Western-themed fantasy with puzzle-solving tools,PS1/PS2,45
+Wild Arms 2,Sony,Environmental themes with ARMS technology,PS1/PS2,60
+Wild Arms 3,Sony,Western themes with environmental restoration,PS2,55
+Wild Arms 4,Sony,Hex-based combat with young protagonist,PS2,45
+Wild Arms 5,Sony,Final numbered entry with customizable HEX system,PS2,50
+The Legend of Dragoon,Sony, A turn-based JRPG following Dart and his companions as they awaken the powers of ancient Dragoons to stop a world-ending threat. Features a unique 'Additions' combat system and cinematic story,PS1/PSP,60
+Final Fantasy,Square,Four Warriors of Light save the world from Garland and Chaos,NES/PSP/GBA/Mobile,12
+Final Fantasy II,Square,Stat growth through usage system with rebel alliance story,NES/PSP/GBA/Mobile,25
+Final Fantasy III,Square,Original job system with Onion Knights and floating continent,NES/DS/PSP/PC/Mobile,25
+Final Fantasy IV,Square,Cecil's redemption story with Active Time Battle system,SNES/PS1/GBA/DS/PSP/PC,25
+Final Fantasy V,Square,Job system perfection with Bartz and crystal shard adventure,SNES/PS1/GBA/PC/Mobile,30
+Final Fantasy VI,Square,Ensemble cast epic with Kefka's world destruction,SNES/PS1/GBA/PC/Mobile,35
+Chrono Trigger,Square,Time-traveling masterpiece with multiple endings,SNES/PS1/DS/PC/Mobile,22
+Secret of Mana,Square,Real-time action RPG with Ring Command system,SNES/PS4/PC/Switch/Vita,25
+Secret of Evermore,Square,American-developed Square RPG with alchemy system,SNES,30
+Live A Live,Square,Anthology RPG across multiple time periods,SNES/Switch,25
+Seiken Densetsu 3,Square,Action RPG with multiple character combinations,SNES/Switch/PC,30
+Mystic Quest Legend,Square,Beginner-friendly Final Fantasy with simplified mechanics,SNES/GBC,12
+Final Fantasy VII,Square,3D JRPG revolution with Cloud vs Sephiroth,PS1/PC/Switch/PS4/Xbox,40
+Final Fantasy VIII,Square,Junction system with SeeD academy and time compression,PS1/PC/PS4/Switch/Xbox,50
+Final Fantasy IX,Square,Return to fantasy roots with existential themes,PS1/PC/PS4/Switch/Xbox,40
+Vagrant Story,Square,Dark mature action RPG with weapon crafting,PS1/PSP,40
+Xenogears,Square,Philosophical mecha RPG with religious themes,PS1,70
+Chrono Cross,Square,Dimensional adventure with 40+ party members,PS1/PC/Switch,40
+Parasite Eve,Square,Horror action RPG set in modern New York,PS1/PSP,12
+Parasite Eve II,Square,Survival horror sequel with RPG elements,PS1,15
+Legend of Mana,Square,Non-linear Mana series entry with land creation,PS1/PS4/Switch/PC,25
+SaGa Frontier,Square,Seven character scenarios with unique mechanics,PS1/Switch/PC/Mobile,40
+SaGa Frontier 2,Square,Watercolor art style with dual storylines,PS1,35
+Final Fantasy X,Square,First fully voiced FF with Sphere Grid system,PS2/PS3/PS4/PC/Switch/Vita,45
+Final Fantasy X-2,Square,Yuna's sequel with job-changing Dresspheres,PS2/PS3/PS4/PC/Switch/Vita,30
+Kingdom Hearts,Square,Disney crossover action RPG,PS2/PS3/PS4/Xbox/PC,35
+Final Fantasy Tactics,Square,Political intrigue tactical masterpiece with job system depth,PS1/PSP/Mobile/Switch,60
+Front Mission,Square,Tactical mecha RPG with political intrigue and customizable Wanzers,SNES/DS/PSP/PS1,30
+Front Mission: Gun Hazard,Square,Side-scrolling action RPG spin-off with real-time mecha combat,SNES,12
+Front Mission 2: Replica Keepers,Square,Prequel with improved mechanics and deeper customization,PS1,35
+Front Mission 3,Square,Dual scenario paths with internet simulation and Emma storyline,PS1/PSP,50
+Front Mission Alternative,Square,Real-time strategy spin-off focusing on large-scale battles,PC,20
+Bravely Default,Square Enix,Modern turn-based JRPG with job system and Brave/Default mechanics,3DS,50
+Bravely Second: End Layer,Square Enix,Sequel refining job-based combat and storytelling,3DS,50
+Octopath Traveler,Square Enix,HD-2D visuals with eight intertwining character paths,Switch/PC/PS4/Xbox,50
+Octopath Traveler II,Square Enix,Standalone sequel with refined mechanics and story,Switch/PC/PS5,60
+Triangle Strategy,Square Enix,Tactical RPG with political branching paths and pixel visuals,Switch/PC,40
+Romancing SaGa: Minstrel Song,Square Enix,Non-linear adventure with multiple quest paths,PS2/PS4/Switch/PC,50
+Final Fantasy XII,Square Enix,Political fantasy with Gambit system,PS2/PS4/PC/Switch/Xbox,60
+Dragon Quest VIII,Square Enix,3D cel-shaded traditional JRPG,PS2/3DS/Mobile,80
+Kingdom Hearts: Chain of Memories,Square Enix,Card-based combat system sequel,GBA/PS2/PS3/PS4,25
+Kingdom Hearts II,Square Enix,Organization XIII storyline with improved combat,PS2/PS3/PS4/Xbox/PC,40
+Kingdom Hearts: Birth by Sleep,Square Enix,Prequel with three protagonists,PSP/PS3/PS4/Xbox/PC,35
+Kingdom Hearts 3D: Dream Drop Distance,Square Enix,Dual reality system with dream worlds,3DS/PS4/Xbox/PC,30
+Kingdom Hearts III,Square Enix,Long-awaited conclusion to Dark Seeker Saga,PS4/Xbox/PC,35
+Star Ocean: Till the End of Time,Square Enix,Reality-bending plot with controversial twist,PS2,90
+Radiata Stories,Square Enix,200+ recruitable characters in whimsical world,PS2,50
+Valkyrie Profile 2: Silmeria,Square Enix,Norse mythology prequel with improved systems,PS2,60
+Bravely Default,Square Enix,Modern turn-based JRPG with job system and Brave/Default mechanics,3DS,50
+Bravely Second: End Layer,Square Enix,Sequel refining job-based combat and storytelling,3DS,50
+Octopath Traveler,Square Enix,HD-2D visuals with eight intertwining character paths,Switch/PC/PS4/Xbox,50
+Octopath Traveler II,Square Enix,Standalone sequel with refined mechanics and story,Switch/PC/PS5,60
+Triangle Strategy,Square Enix,Tactical RPG with political branching paths and pixel visuals,Switch/PC,40
+Final Fantasy Tactics Advance,Square Enix,A tactical RPG set in the magical world of Ivalice where players control a clan of characters and battle through grid-based maps with deep customization and job systems,GBA,50
+Final Fantasy Tactics A2: Grimoire of the Rift,Square Enix,Sequel to Final Fantasy Tactics Advance following a boy named Luso transported into Ivalice. Features improved graphics expanded job system and quest-based gameplay,DS,60
+The World Ends With You,Square Enix,Modern Shibuya setting with dual-screen combat innovation,DS/Switch/Mobile,25
+Front Mission 4,Square Enix,Dual protagonist story across Venezuela and Europe conflicts,PS2,45
+Front Mission 5: Scars of the War,Square Enix,Japan-exclusive entry with refined tactical combat,PS2,40
+Front Mission Online,Square Enix,Massively multiplayer tactical combat with persistent world,PC,100
+Front Mission 2089: Border of Madness,Square Enix,Mobile entry with simplified tactical gameplay,Mobile,15
+Front Mission 2089-II: Neo,Square Enix,Mobile sequel with enhanced graphics and systems,Mobile,18
+Front Mission Evolved,Square Enix,Third-person action reboot departing from tactical roots,PC/PS3/Xbox,8
+Front Mission: The First,Square Enix,Enhanced remake of original with voice acting,DS,30
+Front Mission 1st: Remake,Square Enix,Modern remake with updated visuals and quality improvements,Switch/PC/PS4/PS5,30
+Evolution: The World of Sacred Device,Sting,Dungeon-crawling RPG with relic hunting,Dreamcast,40
+UnderRail,Stygian Software,Metro-tunnels isometric RPG with deep character building,PC,60
+FTL: Faster Than Light,Subset Games,Spaceship management roguelike with crew permadeath,PC/Mobile,20
+Albert Odyssey,Sunsoft,Traditional JRPG with Working Designs localization,Saturn,40
+Hades,Supergiant Games,Narrative roguelike with Greek mythology and relationship building,PC/PS4/PS5/Switch/Xbox,30
+Transistor,Supergiant Games,Sci-fi action RPG with turn-based planning mode,PC/PS4/Switch/Mobile,8
+Bastion,Supergiant Games,Isometric action RPG with dynamic narration system,PC/Xbox/PS4/Switch/Mobile,6
+Pyre,Supergiant Games,Mystical sports RPG with liberation themes,PC/PS4,7
+Solasta: Crown of the Magister,Tactical Adventures,Faithful D&D 5e implementation with verticality focus,PC,40
+Lufia & The Fortress of Doom,Taito,Traditional JRPG with puzzle dungeons,SNES,25
+Lufia II: Rise of the Sinistrals,Taito,Prequel with improved mechanics and Ancient Cave,SNES/GBA/DS,35
+Panzer Dragoon Saga,Team Andromeda,Rail-shooter RPG hybrid masterpiece,Saturn,20
+Hollow Knight,Team Cherry,Metroidvania with challenging combat and atmospheric exploration,PC/PS4/Switch/Xbox,30
+Undertale,Toby Fox,Indie RPG that subverts expectations with pacifism and humor,PC/Switch/PS4/Xbox,6
+Undertale,Toby Fox,Indie RPG that subverts expectations with pacifism and humor,PC/Switch/PS4/Xbox,6
+Undertale,Toby Fox,Genre-deconstructing RPG with pacifist options,PC/PS4/Switch/Xbox/Vita,6
+Vampire: The Masquerade - Bloodlines,Troika Games,Gothic modern vampire clans,PC,30
+Odin Sphere,Vanillaware,Hand-drawn action RPG with fairy tale stories,PS2/PS3/PS4/Vita,40
+GrimGrimoire,Vanillaware,Real-time strategy RPG with magic academy setting,PS2,25
+Kingdom Come: Deliverance,Warhorse Studios,Realistic medieval Bohemia,PC/PS4/Xbox/Switch,60
+Serpent in the Staglands,Whalenought Studios,Old-school CRPG with no hand-holding approach,PC,40
+Disco Elysium,ZA/UM,Revolutionary narrative detective RPG,PC/PS4/PS5/Xbox/Switch,25
+Disco Elysium,ZA/UM,Dialogue-heavy detective RPG with skill-based personality system,PC/PS4/PS5/Switch/Xbox,25

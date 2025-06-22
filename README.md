@@ -1,6 +1,18 @@
 # RPGs 
 
-An ever-expanding list of **RPGs** spanning all subgenres and platforms. This project includes iconic titles and hidden gems across **JRPGs, CRPGs, Tactical RPGs, Action RPGs, Dungeon Crawlers, and Indie RPGs**.
+An ever-expanding list of **RPGs** spanning all subgenres and platforms. This project includes iconic titles and hidden gems across the genre: 
+
+- **JRPGs (Japanese Role-Playing Games)**
+- **CRPGs (Computer Role-Playing Games)**
+- **Action RPGs**
+- **Tactical / Strategy RPGs**
+- **Dungeon Crawlers**
+- **Roguelike / Roguelite RPGs**
+- **Monster Collecting RPGs**
+- **Simulation RPGs / Life Sims**
+- **Hybrid RPGs**
+- **Indie RPGs**
+
 
 Whether you're discovering the genre or exploring deep cuts, this list helps you browse immersive gaming experiences that **can rival traditional cinematic storytelling** with key details at a glance.
 

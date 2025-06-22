@@ -52,6 +52,10 @@ As both gaming and fiction continue to evolve towards more interactive, characte
 
 So if you got that itch to play an RPG, but don't have the time to scratch it, or if you just want to enjoy the experience of gaming through those narratives in a different way, [LitRPGs are a great way to do so](https://www.goodreads.com/list/show/127417.Best_LitRPG_books_ALL_).
 
+### How to use this list?
+
+You can import this list into your spreadsheet software or even through Notion, maybe a similar Open Source Alternative, to sort, filter, and extend the games based on your preferences. 
+
 
 ---
 

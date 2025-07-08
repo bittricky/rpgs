@@ -22,6 +22,7 @@ Whether you’re new to the genre or delving into its hidden gems, this list let
 - **publisher**: The publisher or studio responsible for the game.
 - **description**: A short summary highlighting the game's premise, mechanics, or impact.
 - **device**: Platforms the game was released on (e.g. SNES, PC, Switch).
+- **director**: Games are often developed through a collaborative effort by a group of individuals, but the director or creative lead is the person who holds the responsibility for delivery of the game.
 - **playtime**: Approximate main story playtime in hours.
 
 ### Purpose

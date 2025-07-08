@@ -1,5 +1,14 @@
 title,publisher,description,device,playtime
 King of Dragon Pass,A Sharp,Tribal management RPG with narrative choices,"PC,Mobile",30
+Muv-Luv Extra,Age,First part of visual novel series introducing characters and world,PC,15
+Muv-Luv Unlimited,Age,Alternate timeline visual novel with mech combat elements,PC,20
+Muv-Luv Alternative,Age,Epic conclusion featuring full-scale mech warfare with TSFs,"PC,Vita,PS3",50
+Muv-Luv photonflowers*,Age,Fan disc with additional stories and character routes,PC,10
+Muv-Luv photonmelodies♮,Age,Second fan disc with more side stories,PC,8
+Muv-Luv Unlimited: The Day After,Age,Post-Alternative story episodes,"PC,Vita",25
+Muv-Luv Alternative: Total Eclipse,Age,Side story focusing on test pilot perspectives,PC,35
+Schwarzesmarken,Age,Prequel visual novel set in Cold War era with TSF combat,PC,40
+Pokémon Channel,Ambrella,Interactive TV-watching experience with Pikachu,GameCube,8
 Sacred,Ascaron,Diablo-style action RPG with large world,PC,60
 Sacred 2: Fallen Angel,Ascaron,Expanded sequel with light/shadow campaigns,"PC,Xbox,PS3",100
 Persona Q: Shadow of the Labyrinth,Atlus,Crossover dungeon crawler mixing Persona 3 and 4 characters,3DS,45
@@ -16,9 +25,52 @@ Radiant Historia: Perfect Chronology,Atlus,Time-travel JRPG with alternate timel
 Shin Megami Tensei: Strange Journey,Atlus,Dungeon crawler with environmental themes in Antarctica,DS,60
 Etrian Odyssey,Atlus,Hardcore dungeon crawler with player-drawn mapping,DS,50
 Radiant Historia,Atlus,Time manipulation tactical RPG with grid-based combat,DS,35
+13 Sentinels: Aegis Rim,Atlus,Time-traveling mech defense game with deep RPG storytelling,"PS4,Switch",30
 Atom RPG,AtomTeam,Soviet post-apocalyptic Fallout homage,PC,40
 Summon Night: Swordcraft Story,Banpresto,Action-RPG with weapon crafting and tournament structure,GBA,25
 Summon Night: Swordcraft Story,Banpresto,Action-RPG with weapon crafting and tournament structure,GBA,25
+Super Robot Taisen,Banpresto,Original crossover tactical RPG featuring mecha anime series,GBA,25
+Super Robot Taisen 2,Banpresto,Second entry expanding roster of mecha series,SNES,30
+Super Robot Taisen 3,Banpresto,Third classic entry with improved mechanics,SNES,35
+Super Robot Taisen EX,Banpresto,Side story featuring three separate scenarios,SNES,40
+Super Robot Taisen 4,Banpresto,Fourth main entry with enhanced graphics and story,SNES,45
+Super Robot Taisen F,Banpresto,First part of ambitious two-part storyline,Saturn,50
+Super Robot Taisen F Final,Banpresto,Conclusion to F storyline with massive robot roster,Saturn,55
+Super Robot Taisen Compact,Banpresto,Portable entry designed for handheld play,GBA,20
+Super Robot Taisen Alpha,Banpresto,Beginning of Alpha series with 3D battle animations,PS1,60
+Super Robot Taisen Alpha Gaiden,Banpresto,Alpha side story between first and second Alpha,PS1,45
+Super Robot Taisen Impact,Banpresto,Compilation of Compact series games,PS2,80
+Super Robot Taisen Alpha 2,Banpresto,Second Alpha with expanded story and mechanics,PS2,65
+Super Robot Taisen Alpha 3,Banpresto,Epic conclusion to Alpha trilogy,PS2,70
+Super Robot Taisen R,Banpresto,Game Boy Advance entry with original storyline,GBA,25
+Super Robot Taisen D,Banpresto,GBA sequel to R with new series additions,GBA,30
+Super Robot Taisen J,Banpresto,Third GBA entry featuring Martian Successor Nadesico,GBA,35
+Super Robot Taisen Original Generation,Banpresto,First game featuring only original Banpresto mechs,GBA,40
+Super Robot Taisen Original Generation 2,Banpresto,Sequel to OG with continuing original storyline,GBA,45
+Super Robot Taisen MX,Banpresto,PlayStation 2 entry with unique series selection,PS2,50
+Super Robot Taisen Scramble Commander,Banpresto,Real-time strategy departure from turn-based gameplay,PS2,25
+Super Robot Taisen W,Banpresto,Nintendo DS debut with stylus controls,DS,40
+Super Robot Taisen XO,Banpresto,Xbox 360 HD remake of Alpha Gaiden,Xbox 360,45
+Super Robot Taisen Original Generations,Banpresto,Compilation of first two OG games for PlayStation 2,PS2,80
+Super Robot Taisen K,Banpresto,Second DS entry with darker storyline,DS,45
+Super Robot Taisen L,Banpresto,Third DS entry featuring school-based series,DS,40
+Super Robot Taisen Z,Banpresto,Beginning of Z series with multi-dimensional storyline,PS2,60
+Super Robot Taisen Neo,Banpresto,Wii entry with motion controls,Wii U,35
+Super Robot Taisen Original Generation Gaiden,Banpresto,Side story in OG universe,PS2,50
+Super Robot Taisen Z2 Hakai-hen,Banpresto,First part of Z2 duology,PSP,55
+Super Robot Taisen Z2 Saisei-hen,Banpresto,Second part of Z2 storyline,PSP,60
+Super Robot Taisen A Portable,Banpresto,PSP port of Game Boy Advance title,PSP,35
+Super Robot Taisen Original Generation 2nd,Banpresto,Second OG generation for PlayStation 3,PS3,70
+Super Robot Taisen Operation Extend,Banpresto,Episodic PSP series with downloadable content,PSP,100
+Super Robot Taisen Z3 Jigoku-hen,Banpresto,First part of Z3 storyline,PS3,65
+Super Robot Taisen Z3 Tengoku-hen,Banpresto,Epic conclusion to entire Z series,PS3,70
+Super Robot Taisen UX,Banpresto,3DS entry featuring unique anime selection,3DS,50
+Super Robot Taisen BX,Banpresto,Second 3DS entry with expanded mechanics,3DS,55
+Super Robot Taisen OG The Moon Dwellers,Banpresto,Latest OG entry for PlayStation consoles,PS4,80
+Super Robot Taisen V,Banpresto,First mainline entry for PlayStation 4,"PS4,Vita,Switch,PC",70
+Super Robot Taisen X,Banpresto,Second PS4 mainline entry with multiverse theme,"PS4,Vita,Switch,PC",75
+Super Robot Taisen T,Banpresto,Third PS4 mainline entry,"PS4,Switch,PC",80
+Super Robot Taisen 30,Banpresto,30th anniversary celebration with massive roster,"PS4,Switch,PC",90
 Shadowrun,Beam Software,Cyberpunk RPG based on tabletop game,"SNES,Genesis",15
 The Elder Scrolls III: Morrowind,Bethesda,Alien fantasy world with deep lore,"PC,Xbox",100
 The Elder Scrolls IV: Oblivion,Bethesda,Guild-focused fantasy with dynamic NPCs,"PC,Xbox,PS3",80
@@ -151,17 +203,13 @@ Pokémon X/Y,Game Freak,Sixth-generation RPG with 3D graphics and new Fairy type
 Pokémon Omega Ruby/Alpha Sapphire,Game Freak,Remakes of Ruby/Sapphire with modern mechanics and visuals,"Nintendo DS,3DS",35
 Pokémon Sun/Moon,Game Freak,Seventh-generation RPG in Alola with no gyms and new regional forms,"Nintendo DS,3DS",35
 Pokémon Ultra Sun/Ultra Moon,Game Freak,Expanded versions of Sun/Moon with new story and features,"Nintendo DS,3DS",40
-Pokémon Let's Go Pikachu/Let's Go Eevee,Game Freak,Remakes of Yellow with simplified mechanics and GO integration,"Nintendo Switch",25
-Pokémon Sword/Shield,Game Freak,Eighth-generation RPG with new region Galar and Dynamax mechanics,"Nintendo Switch",35
-Pokémon Brilliant Diamond/Shining Pearl,ILCA,Faithful remakes of Diamond/Pearl with chibi art style,"Nintendo Switch",30
-Pokémon Legends: Arceus,Game Freak,Open-world action-RPG set in ancient Sinnoh with new gameplay structure,"Nintendo Switch",40
-Pokémon Scarlet/Violet,Game Freak,Ninth-generation open-world RPG with non-linear progression and co-op,"Nintendo Switch",40
-Pokémon Stadium,Nintendo,3D battle simulator supporting Red/Blue/Yellow with mini-games and tournaments,N64,15
-Pokémon Stadium 2,Nintendo,Enhanced 3D battle simulator supporting Gold/Silver/Crystal and added content,N64,20
+Pokémon Let's Go Pikachu/Let's Go Eevee,Game Freak,Remakes of Yellow with simplified mechanics and GO integration,Nintendo Switch,25
+Pokémon Sword/Shield,Game Freak,Eighth-generation RPG with new region Galar and Dynamax mechanics,Nintendo Switch,35
+Pokémon Legends: Arceus,Game Freak,Open-world action-RPG set in ancient Sinnoh with new gameplay structure,Nintendo Switch,40
+Pokémon Scarlet/Violet,Game Freak,Ninth-generation open-world RPG with non-linear progression and co-op,Nintendo Switch,40
+Black Myth: Wukong,Game Science,Action‑RPG adaptation of Journey to the West with Souls‑like combat on Unreal Engine 5,"PC,PS5,Xbox Series X,S",40
 Pokémon Colosseum,Genius Sonority,3D RPG featuring Shadow Pokémon in the Orre region,GameCube,25
 Pokémon XD: Gale of Darkness,Genius Sonority,Sequel to Colosseum with more Shadow Pokémon and expanded story,GameCube,30
-Pokémon Channel,Ambrella,Interactive TV-watching experience with Pikachu,GameCube,8
-Black Myth: Wukong,Game Science,Action‑RPG adaptation of Journey to the West with Souls‑like combat on Unreal Engine 5,"PC,PS5,Xbox Series X,S",40
 Ar tonelico: Melody of Elemia,Gust,Song magic RPG with Reyvateil companions,PS2,50
 Ar tonelico II: Melody of Metafalica,Gust,Sequel with dual Reyvateil system,PS2,60
 Atelier Iris: Eternal Mana,Gust,Alchemy-based RPG with item synthesis,PS2,40
@@ -172,6 +220,7 @@ Shadowrun: Dragonfall,Harebrained Schemes,Berlin-set expansion standalone,"PC,Mo
 Shadowrun: Hong Kong,Harebrained Schemes,Asian setting with improved mechanics,"PC,Mobile",25
 Hyper Light Drifter,Heart Machine,Pixel-art action RPG with wordless storytelling,"PC,PS4,Switch,Xbox,Vita,Mobile",8
 Vanguard Bandits,Human Entertainment,Mecha tactical RPG with branching paths,PS1,30
+Pokémon Brilliant Diamond/Shining Pearl,ILCA,Faithful remakes of Diamond/Pearl with chibi art style,Nintendo Switch,30
 Medabots: Metabee and Rokusho (Medarot 2 remake),Imagineer/Natsume,GBA RPG remake of Medarot 2 featuring Metabee and Rokusho,"GBA,Wii U",25
 Medarot Classics Plus,Imagineer/Rocket Company,Expanded Switch collection featuring eight early series titles,Switch,60
 Wasteland 2,inXile Entertainment,Post-apocalyptic tactical revival,"PC,PS4,Xbox,Switch",50
@@ -183,6 +232,49 @@ Age of Decadence,Iron Tower Studio,Choice-heavy Roman-inspired RPG with conseque
 System Shock 2,Irrational Games,Sci-fi horror masterpiece,PC,20
 Dragon Force,J-Force,Large-scale tactical RPG with kingdom conquest,Saturn,60
 Clair Obscur: Expedition 33,Kepler Interactive/ Sandfall Interactive,Turn‑based RPG with real‑time combat elements set in Belle Époque France featuring emotional storytelling deep character relationships and post‑game content like Endless Tower and Flying Manor,"PC,PS5,Xbox Series X,S",40
+Dynasty Warriors,Koei,Original fighting game based on Romance of the Three Kingdoms,PS1,5
+Dynasty Warriors 2,Koei,First musou-style hack and slash gameplay,PS2,15
+Dynasty Warriors 3,Koei,Expanded roster and refined musou mechanics,"PS2,Xbox,PC",20
+Dynasty Warriors 4,Koei,Added more characters and weapon systems,"PS2,Xbox,PC",25
+Dynasty Warriors 4: Xtreme Legends,Koei,Expansion with new modes and characters,"PS2,Xbox,PC",15
+Dynasty Warriors 4: Empires,Koei,Strategic empire building variant,"PS2,Xbox,PC",30
+Dynasty Warriors 5,Koei,Visual overhaul with new combo system,"PS2,Xbox,PSP,PC",25
+Dynasty Warriors 5: Xtreme Legends,Koei,Expansion adding new storylines,"PS2,Xbox,PSP,PC",15
+Dynasty Warriors 5: Empires,Koei,Empire mode with enhanced strategy elements,"PS2,Xbox,PSP,PC",35
+Dynasty Warriors 6,Koei,Renbu system and swimming mechanics,"PS3,Xbox 360,PC,PS2",20
+Dynasty Warriors 6: Empires,Koei,Strategic conquest with new politics system,"PS3,Xbox 360,PC",30
+Dynasty Warriors 7,Koei,Story mode restructure with weapon switching,"PS3,Xbox 360,PC",35
+Dynasty Warriors 7: Xtreme Legends,Koei,Additional kingdoms and characters,"PS3,Xbox 360,PC,PSP,Vita",20
+Dynasty Warriors 7: Empires,Koei,Enhanced empire building with character creation,"PS3,Xbox 360,PC",40
+Dynasty Warriors 8,Koei,Hypothetical scenarios and largest character roster,"PS3,PS4,Xbox 360,Xbox One,PC,Vita,PSP",40
+Dynasty Warriors 8: Xtreme Legends,Koei,Lu Bu storyline and additional content,"PS3,PS4,Xbox One,PC,Vita",25
+Dynasty Warriors 8: Empires,Koei,Marriage system and advanced empire mode,"PS3,PS4,Xbox One,PC,Vita",45
+Dynasty Warriors: Gundam,Koei,Crossover featuring Mobile Suit Gundam series,"PS3,Xbox 360",15
+Dynasty Warriors: Gundam 2,Koei,Expanded Gundam roster and new modes,"PS3,Xbox 360",20
+Dynasty Warriors: Gundam 3,Koei,Third Gundam crossover with enhanced graphics,PS3,25
+Samurai Warriors,Koei,Sengoku period spin-off with Japanese warriors,"PS2,Xbox,PC",20
+Samurai Warriors 2,Koei,Expanded Sengoku storylines,"PS2,Xbox 360,PC,PSP",25
+Samurai Warriors 2: Xtreme Legends,Koei,Additional characters and survival mode,"PS2,PC",15
+Samurai Warriors 2: Empires,Koei,Strategic Sengoku conquest,"PS2,Xbox 360,PC",30
+Samurai Warriors 3,Koei,Wii-exclusive with motion controls,Wii,20
+Samurai Warriors 3Z,Koei,Enhanced PS3 version with additional content,PS3,25
+Samurai Warriors: Chronicles,Koei,3DS launch title with custom character,"3DS,New 3DS",15
+Warriors Orochi,Koei,Crossover combining Dynasty and Samurai Warriors,"PS2,Xbox 360,PC,PSP",30
+Warriors Orochi 2,Koei,Expanded crossover with new storyline,"PS2,Xbox 360,PC,PSP",35
+Warriors Orochi 3,Koei,Time travel plot with largest character roster,"PS3,Xbox 360,PSP,Vita,Wii U",40
+Dynasty Warriors 9,Koei Tecmo,Open world exploration with weapon crafting,"PS4,Xbox One,PC,Switch",50
+Dynasty Warriors 9: Empires,Koei Tecmo,Open world empire building,"PS4,PS5,Xbox One,PC,Switch",55
+Dynasty Warriors: Gundam Reborn,Koei Tecmo,Fourth Gundam entry with space battles,PS3,30
+Samurai Warriors 4,Koei Tecmo,Return to core gameplay with Chronicle Mode,"PS3,PS4,Xbox One,PC,Vita,Switch",35
+Samurai Warriors 4-II,Koei Tecmo,Enhanced version focusing on character stories,"PS3,PS4,Xbox One,PC,Vita,Switch",30
+Samurai Warriors 4: Empires,Koei Tecmo,Strategic conquest with relationship system,"PS3,PS4,Xbox One,PC,Vita",40
+Samurai Warriors 5,Koei Tecmo,Reimagined series focusing on Nobunaga and Mitsuhide,"PS4,Xbox One,PC,Switch",25
+Warriors Orochi 3 Ultimate,Koei Tecmo,Definitive version with additional content,"PS3,PS4,Xbox One,PC,Vita",45
+Warriors Orochi 4,Koei Tecmo,Deification system with Greek mythology elements,"PS4,Xbox One,PC,Switch",50
+Warriors Orochi 4 Ultimate,Koei Tecmo,Enhanced version with new characters and story,"PS4,Xbox One,PC,Switch",55
+Hyrule Warriors,Koei Tecmo,Legend of Zelda crossover with musou gameplay,"Wii U,3DS,Switch",25
+Fire Emblem Warriors,Koei Tecmo,Fire Emblem crossover with tactical elements,"Switch,New 3DS",20
+Fire Emblem Warriors: Three Hopes,Koei Tecmo,Three Houses timeline musou game,Switch,40
 Nioh,Koei Tecmo / Team Ninja,Action RPG set in Sengoku-era Japan with supernatural Yokai enemies and fast-paced Souls-like combat,"PC,PS4,PS5",40
 Nioh 2,Koei Tecmo / Team Ninja,Prequel and expansion of the original with character customization new weapons and deeper Yokai mechanics,"PC,PS4,PS5",50
 Nioh Collection,Koei Tecmo / Team Ninja,Remastered bundle including Nioh and Nioh 2 with all DLCs for PS5,PS5,90
@@ -252,6 +344,8 @@ Medabots Infinity,Natsume Inc.,3D action‑RPG with multiplayer and link-up feat
 Shadow Hearts: Covenant,Nautilius,WWI sequel with improved mechanics,PS2,50
 Shadow Hearts: From the New World,Nautilius,Americas-set finale with Native American themes,PS2,45
 Lies of P,NEOWIZ / Round8 Studio,Souls-like action RPG inspired by the story of Pinocchio featuring dark steampunk aesthetics weapon customization and branching narratives,"PC,PS4,PS5,Xbox",30
+Pokémon Stadium,Nintendo,3D battle simulator supporting Red/Blue/Yellow with mini-games and tournaments,N64,15
+Pokémon Stadium 2,Nintendo,Enhanced 3D battle simulator supporting Gold/Silver/Crystal and added content,N64,20
 EarthBound,Nintendo,Quirky modern-day RPG with psychic powers,"SNES,GBA,3DS,Switch",30
 Fire Emblem: Shadow Dragon and the Blade of Light,Nintendo,Original tactical RPG that started the series with permadeath,Famicom,20
 Fire Emblem Gaiden,Nintendo,Sequel with dungeon exploration and branching storylines,Famicom,25
@@ -293,6 +387,7 @@ Disgaea 7: Vows of the Virtueless,Nippon Ichi,Fuji and Pirilika's adventure in H
 La Pucelle: Tactics,Nippon Ichi,Tactical RPG with demon purification theme,"PS2,PSP",60
 Phantom Brave,Nippon Ichi,Tactical RPG with phantom summoning system,"PS2,PSP,Wii,PC,Switch",50
 Makai Kingdom,Nippon Ichi,Vehicle-based tactical RPG with overlord theme,"PS2,PSP,PC,Switch",40
+Raji: An Ancient Epic,Nodding Heads Games,Mythology-inspired action adventure with divine weapons and Indian art style,"PS5,PS4,PC,Switch,Xbox",7
 Fallout: New Vegas,Obsidian,Western post-apocalyptic with faction warfare,"PC,Xbox,PS3",60
 Star Wars: Knights of the Old Republic II,Obsidian,Darker Jedi philosophy exploration,"PC,Xbox,Mobile,Switch",35
 Neverwinter Nights 2,Obsidian,Enhanced sequel with party focus,PC,60
@@ -443,98 +538,3 @@ GrimGrimoire,Vanillaware,Real-time strategy RPG with magic academy setting,PS2,2
 Kingdom Come: Deliverance,Warhorse Studios,Realistic medieval Bohemia,"PC,PS4,Xbox,Switch",60
 Serpent in the Staglands,Whalenought Studios,Old-school CRPG with no hand-holding approach,PC,40
 Disco Elysium,ZA/UM,Dialogue-heavy detective RPG with skill-based personality system,"PC,PS4,PS5,Switch,Xbox",25
-Raji: An Ancient Epic,Nodding Heads Games,Mythology-inspired action adventure with divine weapons and Indian art style,"PS5,PS4,PC,Switch,Xbox",7
-Super Robot Taisen,Banpresto,Original crossover tactical RPG featuring mecha anime series,GBA,25
-Super Robot Taisen 2,Banpresto,Second entry expanding roster of mecha series,SNES,30
-Super Robot Taisen 3,Banpresto,Third classic entry with improved mechanics,SNES,35
-Super Robot Taisen EX,Banpresto,Side story featuring three separate scenarios,SNES,40
-Super Robot Taisen 4,Banpresto,Fourth main entry with enhanced graphics and story,SNES,45
-Super Robot Taisen F,Banpresto,First part of ambitious two-part storyline,Saturn,50
-Super Robot Taisen F Final,Banpresto,Conclusion to F storyline with massive robot roster,Saturn,55
-Super Robot Taisen Compact,Banpresto,Portable entry designed for handheld play,GBA,20
-Super Robot Taisen Alpha,Banpresto,Beginning of Alpha series with 3D battle animations,PS1,60
-Super Robot Taisen Alpha Gaiden,Banpresto,Alpha side story between first and second Alpha,PS1,45
-Super Robot Taisen Impact,Banpresto,Compilation of Compact series games,PS2,80
-Super Robot Taisen Alpha 2,Banpresto,Second Alpha with expanded story and mechanics,PS2,65
-Super Robot Taisen Alpha 3,Banpresto,Epic conclusion to Alpha trilogy,PS2,70
-Super Robot Taisen R,Banpresto,Game Boy Advance entry with original storyline,GBA,25
-Super Robot Taisen D,Banpresto,GBA sequel to R with new series additions,GBA,30
-Super Robot Taisen J,Banpresto,Third GBA entry featuring Martian Successor Nadesico,GBA,35
-Super Robot Taisen Original Generation,Banpresto,First game featuring only original Banpresto mechs,GBA,40
-Super Robot Taisen Original Generation 2,Banpresto,Sequel to OG with continuing original storyline,GBA,45
-Super Robot Taisen MX,Banpresto,PlayStation 2 entry with unique series selection,PS2,50
-Super Robot Taisen Scramble Commander,Banpresto,Real-time strategy departure from turn-based gameplay,PS2,25
-Super Robot Taisen W,Banpresto,Nintendo DS debut with stylus controls,DS,40
-Super Robot Taisen XO,Banpresto,Xbox 360 HD remake of Alpha Gaiden,Xbox 360,45
-Super Robot Taisen Original Generations,Banpresto,Compilation of first two OG games for PlayStation 2,PS2,80
-Super Robot Taisen K,Banpresto,Second DS entry with darker storyline,DS,45
-Super Robot Taisen L,Banpresto,Third DS entry featuring school-based series,DS,40
-Super Robot Taisen Z,Banpresto,Beginning of Z series with multi-dimensional storyline,PS2,60
-Super Robot Taisen Neo,Banpresto,Wii entry with motion controls,Wii U,35
-Super Robot Taisen Original Generation Gaiden,Banpresto,Side story in OG universe,PS2,50
-Super Robot Taisen Z2 Hakai-hen,Banpresto,First part of Z2 duology,PSP,55
-Super Robot Taisen Z2 Saisei-hen,Banpresto,Second part of Z2 storyline,PSP,60
-Super Robot Taisen A Portable,Banpresto,PSP port of Game Boy Advance title,PSP,35
-Super Robot Taisen Original Generation 2nd,Banpresto,Second OG generation for PlayStation 3,PS3,70
-Super Robot Taisen Operation Extend,Banpresto,Episodic PSP series with downloadable content,PSP,100
-Super Robot Taisen Z3 Jigoku-hen,Banpresto,First part of Z3 storyline,PS3,65
-Super Robot Taisen Z3 Tengoku-hen,Banpresto,Epic conclusion to entire Z series,PS3,70
-Super Robot Taisen UX,Banpresto,3DS entry featuring unique anime selection,3DS,50
-Super Robot Taisen BX,Banpresto,Second 3DS entry with expanded mechanics,3DS,55
-Super Robot Taisen OG The Moon Dwellers,Banpresto,Latest OG entry for PlayStation consoles,PS4,80
-Super Robot Taisen V,Banpresto,First mainline entry for PlayStation 4,"PS4,Vita,Switch,PC",70
-Super Robot Taisen X,Banpresto,Second PS4 mainline entry with multiverse theme,"PS4,Vita,Switch,PC",75
-Super Robot Taisen T,Banpresto,Third PS4 mainline entry,"PS4,Switch,PC",80
-Super Robot Taisen 30,Banpresto,30th anniversary celebration with massive roster,"PS4,Switch,PC",90
-13 Sentinels: Aegis Rim,Atlus,Time-traveling mech defense game with deep RPG storytelling,"PS4,Switch",30
-Muv-Luv Extra,Age,First part of visual novel series introducing characters and world,PC,15
-Muv-Luv Unlimited,Age,Alternate timeline visual novel with mech combat elements,PC,20
-Muv-Luv Alternative,Age,Epic conclusion featuring full-scale mech warfare with TSFs,"PC,Vita,PS3",50
-Muv-Luv photonflowers*,Age,Fan disc with additional stories and character routes,PC,10
-Muv-Luv photonmelodies♮,Age,Second fan disc with more side stories,PC,8
-Muv-Luv Unlimited: The Day After,Age,Post-Alternative story episodes,"PC,Vita",25
-Muv-Luv Alternative: Total Eclipse,Age,Side story focusing on test pilot perspectives,PC,35
-Schwarzesmarken,Age,Prequel visual novel set in Cold War era with TSF combat,PC,40
-Dynasty Warriors,Koei,Original fighting game based on Romance of the Three Kingdoms,PS1,5
-Dynasty Warriors 2,Koei,First musou-style hack and slash gameplay,PS2,15
-Dynasty Warriors 3,Koei,Expanded roster and refined musou mechanics,"PS2,Xbox,PC",20
-Dynasty Warriors 4,Koei,Added more characters and weapon systems,"PS2,Xbox,PC",25
-Dynasty Warriors 4: Xtreme Legends,Koei,Expansion with new modes and characters,"PS2,Xbox,PC",15
-Dynasty Warriors 4: Empires,Koei,Strategic empire building variant,"PS2,Xbox,PC",30
-Dynasty Warriors 5,Koei,Visual overhaul with new combo system,"PS2,Xbox,PSP,PC",25
-Dynasty Warriors 5: Xtreme Legends,Koei,Expansion adding new storylines,"PS2,Xbox,PSP,PC",15
-Dynasty Warriors 5: Empires,Koei,Empire mode with enhanced strategy elements,"PS2,Xbox,PSP,PC",35
-Dynasty Warriors 6,Koei,Renbu system and swimming mechanics,"PS3,Xbox 360,PC,PS2",20
-Dynasty Warriors 6: Empires,Koei,Strategic conquest with new politics system,"PS3,Xbox 360,PC",30
-Dynasty Warriors 7,Koei,Story mode restructure with weapon switching,"PS3,Xbox 360,PC",35
-Dynasty Warriors 7: Xtreme Legends,Koei,Additional kingdoms and characters,"PS3,Xbox 360,PC,PSP,Vita",20
-Dynasty Warriors 7: Empires,Koei,Enhanced empire building with character creation,"PS3,Xbox 360,PC",40
-Dynasty Warriors 8,Koei,Hypothetical scenarios and largest character roster,"PS3,PS4,Xbox 360,Xbox One,PC,Vita,PSP",40
-Dynasty Warriors 8: Xtreme Legends,Koei,Lu Bu storyline and additional content,"PS3,PS4,Xbox One,PC,Vita",25
-Dynasty Warriors 8: Empires,Koei,Marriage system and advanced empire mode,"PS3,PS4,Xbox One,PC,Vita",45
-Dynasty Warriors 9,Koei Tecmo,Open world exploration with weapon crafting,"PS4,Xbox One,PC,Switch",50
-Dynasty Warriors 9: Empires,Koei Tecmo,Open world empire building,"PS4,PS5,Xbox One,PC,Switch",55
-Dynasty Warriors: Gundam,Koei,Crossover featuring Mobile Suit Gundam series,"PS3,Xbox 360",15
-Dynasty Warriors: Gundam 2,Koei,Expanded Gundam roster and new modes,"PS3,Xbox 360",20
-Dynasty Warriors: Gundam 3,Koei,Third Gundam crossover with enhanced graphics,PS3,25
-Dynasty Warriors: Gundam Reborn,Koei Tecmo,Fourth Gundam entry with space battles,PS3,30
-Samurai Warriors,Koei,Sengoku period spin-off with Japanese warriors,"PS2,Xbox,PC",20
-Samurai Warriors 2,Koei,Expanded Sengoku storylines,"PS2,Xbox 360,PC,PSP",25
-Samurai Warriors 2: Xtreme Legends,Koei,Additional characters and survival mode,"PS2,PC",15
-Samurai Warriors 2: Empires,Koei,Strategic Sengoku conquest,"PS2,Xbox 360,PC",30
-Samurai Warriors 3,Koei,Wii-exclusive with motion controls,Wii,20
-Samurai Warriors 3Z,Koei,Enhanced PS3 version with additional content,PS3,25
-Samurai Warriors: Chronicles,Koei,3DS launch title with custom character,"3DS,New 3DS",15
-Samurai Warriors 4,Koei Tecmo,Return to core gameplay with Chronicle Mode,"PS3,PS4,Xbox One,PC,Vita,Switch",35
-Samurai Warriors 4-II,Koei Tecmo,Enhanced version focusing on character stories,"PS3,PS4,Xbox One,PC,Vita,Switch",30
-Samurai Warriors 4: Empires,Koei Tecmo,Strategic conquest with relationship system,"PS3,PS4,Xbox One,PC,Vita",40
-Samurai Warriors 5,Koei Tecmo,Reimagined series focusing on Nobunaga and Mitsuhide,"PS4,Xbox One,PC,Switch",25
-Warriors Orochi,Koei,Crossover combining Dynasty and Samurai Warriors,"PS2,Xbox 360,PC,PSP",30
-Warriors Orochi 2,Koei,Expanded crossover with new storyline,"PS2,Xbox 360,PC,PSP",35
-Warriors Orochi 3,Koei,Time travel plot with largest character roster,"PS3,Xbox 360,PSP,Vita,Wii U",40
-Warriors Orochi 3 Ultimate,Koei Tecmo,Definitive version with additional content,"PS3,PS4,Xbox One,PC,Vita",45
-Warriors Orochi 4,Koei Tecmo,Deification system with Greek mythology elements,"PS4,Xbox One,PC,Switch",50
-Warriors Orochi 4 Ultimate,Koei Tecmo,Enhanced version with new characters and story,"PS4,Xbox One,PC,Switch",55
-Hyrule Warriors,Koei Tecmo,Legend of Zelda crossover with musou gameplay,"Wii U,3DS,Switch",25
-Fire Emblem Warriors,Koei Tecmo,Fire Emblem crossover with tactical elements,"Switch,New 3DS",20
-Fire Emblem Warriors: Three Hopes,Koei Tecmo,Three Houses timeline musou game,Switch,40

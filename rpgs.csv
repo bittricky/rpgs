@@ -1,5 +1,6 @@
 title,publisher,description,device,director,playtime
 .hack//G.U. Vol.1//Rebirth,CyberConnect2,Second generation trilogy begins,"PS2,PS4,PC,Switch",Hiroshi Matsuyama,30
+Test Game,Test Publisher,A test entry,PC,Test Director,5
 .hack//G.U. Vol.2//Reminisce,CyberConnect2,Haseo's continued revenge quest,"PS2,PS4,PC,Switch",Hiroshi Matsuyama,35
 .hack//G.U. Vol.3//Redemption,CyberConnect2,Trilogy conclusion with AIDA threat,"PS2,PS4,PC,Switch",Hiroshi Matsuyama,40
 .hack//INFECTION,CyberConnect2,Simulated MMO experience part 1,PS2,Koichi Mashimo,20
@@ -117,7 +118,7 @@ Dragon Warrior II,Enix,First party-based Dragon Quest with multiple party member
 Dragon Warrior III,Enix,Job system introduction with Erdrick's legendary adventure,"NES,GBC,SNES,Mobile",Yuji Horii,25
 Dragon Warrior IV,Enix,Chapter-based storytelling with Chosen One prophecy,"NES,PS1,DS,Mobile",Yuji Horii,30
 Dragon's Dogma,Capcom,Climbing large monsters with pawn companion system,"PC,PS3,PS4,Xbox,Switch",Hideaki Itsuno,40
-Dragon's Dogma 2,Capcom,Sequel built on RE Engine featuring enhanced AI companions open-world design and deep vocation-based combat,"PC,PS5,Xbox Series X",Hideaki Itsuno,50+
+Dragon's Dogma 2,Capcom,Sequel built on RE Engine featuring enhanced AI companions open-world design and deep vocation-based combat,"PC,PS5,Xbox Series X",Hideaki Itsuno,50
 Dragon's Dogma: Dark Arisen,Capcom,Expanded version of the original game with new content areas and performance improvements,"PC,PS4,Xbox One,Switch",Hideaki Itsuno,50
 Dungeon Keeper,Electronic Arts,Strategy RPG where you build and defend your own dungeon,PC,Peter Molyneux,50
 Dungeon Maker,Agetec,Dungeon-building RPG focused on designing dungeons and managing adventurers,PSP,Kenji Eno,30

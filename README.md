@@ -1,6 +1,6 @@
 # RPGs 
 
-![Total Playtime](https://img.shields.io/badge/Total%20Playtime-22402%20hours-blue)
+![Total Playtime](https://img.shields.io/badge/Total%20Playtime-22407%20hours-blue)
 
 An ever-expanding list of **RPGs** spanning all subgenres and platforms. This project includes iconic titles and hidden gems across the genre: 
 

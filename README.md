@@ -11,7 +11,7 @@ An ever-expanding list of **RPGs** spanning all subgenres and platforms. This pr
 - **Dungeon Crawlers**
 - **Roguelike / Roguelite RPGs**
 - **Monster Collecting RPGs**
-- **Simulation RPGs / Life Sims**
+- **Simulation RPGs**
 - **Hybrid RPGs**
 - **Indie RPGs**
 

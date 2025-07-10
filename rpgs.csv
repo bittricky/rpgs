@@ -67,11 +67,11 @@ Bug Fables: The Everlasting Sapling,Moonsprout Games,Paper Mario spiritual succe
 Castlevania,Konami,Original vampire-hunting platformer,NES,Hitoshi Akamatsu,6
 Castlevania II: Simon's Quest,Konami,RPG-influenced sequel with day/night cycle,NES,Hitoshi Akamatsu,8
 Castlevania III: Dracula's Curse,Konami,Multi-character prequel,NES,Hitoshi Akamatsu,10
-Castlevania: Aria of Sorrow,Konami,Modern-day Metroidvania with soul system,Game Boy Advance,Koji Igarashi,10
+Castlevania: Aria of Sorrow,Konami,Modern-day Metroidvania with soul system,GBA,Koji Igarashi,10
 Castlevania: Bloodlines,Konami,Genesis-exclusive with global setting,Genesis,Michiru Yamane,8
-Castlevania: Circle of the Moon,Konami,GBA Metroidvania with card system,Game Boy Advance,Koji Igarashi,10
+Castlevania: Circle of the Moon,Konami,GBA Metroidvania with card system,GBA,Koji Igarashi,10
 Castlevania: Dawn of Sorrow,Konami,DS sequel to Aria of Sorrow,Nintendo DS,Koji Igarashi,12
-Castlevania: Harmony of Dissonance,Konami,GBA sequel with dual castle,Game Boy Advance,Koji Igarashi,8
+Castlevania: Harmony of Dissonance,Konami,GBA sequel with dual castle,GBA,Koji Igarashi,8
 Castlevania: Lords of Shadow,Konami,3D reboot with God of War-style combat,PS3,Dave Cox,20
 Castlevania: Order of Ecclesia,Konami,Final DS Metroidvania,Nintendo DS,Koji Igarashi,12
 Castlevania: Portrait of Ruin,Konami,Dual-character DS adventure,Nintendo DS,Koji Igarashi,15
@@ -188,7 +188,7 @@ Fable III,Lionhead Studios,Industrial revolution with kingdom rule,"PC,Xbox 360"
 Fallout 3,Bethesda,Post-nuclear Capital Wasteland exploration,"PC,Xbox,PS3",Todd Howard,50
 Fallout 4,Bethesda,Settlement building in post-war Boston,"PC,PS4,Xbox One",Todd Howard,80
 Fallout: New Vegas,Obsidian,Western post-apocalyptic with faction warfare,"PC,Xbox,PS3",Josh Sawyer,60
-Fantasy Life,Nintendo,Life simulation RPG where players can choose from various jobs and lifestyles,Nintendo 3DS,Akihiro Hino,50
+Fantasy Life,Nintendo,Life simulation RPG where players can choose from various jobs and lifestyles,3DS,Akihiro Hino,50
 Final Fantasy,Square,Four Warriors of Light save the world from Garland and Chaos,"NES,PSP,GBA,Mobile",Hironobu Sakaguchi,12
 Final Fantasy II,Square,Stat growth through usage system with rebel alliance story,"NES,PSP,GBA,Mobile",Hironobu Sakaguchi,25
 Final Fantasy III,Square,Original job system with Onion Knights and floating continent,"NES,DS,PSP,PC,Mobile",Hironobu Sakaguchi,25
@@ -215,7 +215,7 @@ Fire Emblem Fates: Birthright,Nintendo,Accessible route with defensive missions,
 Fire Emblem Fates: Conquest,Nintendo,Challenging route with complex objectives,"3DS,Switch",Masahiro Higuchi,40
 Fire Emblem Fates: Revelation,Nintendo,Third route uniting both kingdoms,"3DS,Switch",Masahiro Higuchi,35
 Fire Emblem Gaiden,Nintendo,Sequel with dungeon exploration and branching storylines,Famicom,Toshiyuki Kusakihara,25
-Fire Emblem Warriors,Koei Tecmo,Fire Emblem crossover with tactical elements,"Switch,New 3DS",Katsuyuki Motohiro,20
+Fire Emblem Warriors,Koei Tecmo,Fire Emblem crossover with tactical elements,"Switch,3DS",Katsuyuki Motohiro,20
 Fire Emblem Warriors: Three Hopes,Koei Tecmo,Three Houses timeline musou game,Switch,Takahiro Fujioka,40
 Fire Emblem: Awakening,Nintendo,Series revival with marriage system and permadeath stakes,3DS,Takahiro Fujioka,45
 Fire Emblem: Echoes: Shadows of Valentia,Nintendo,Enhanced remake of Gaiden with full voice acting,3DS,Takahiro Fujioka,40
@@ -306,7 +306,7 @@ Medabots: Metabee and Rokusho (Medarot 2 remake),Imagineer/Natsume,GBA RPG remak
 Medarot 7 (Kabuto/Kuwagata),Rocket Company,Seventh mainline RPG with a deeper customization and new story,3DS,Kenji Matsubara,25
 Medarot 8 (Kabuto/Kuwagata),Rocket Company,Eighth entry featuring over 200 robots and a refined combat system,3DS,Kenji Matsubara,30
 Medarot 9 (Kabuto/Kuwagata),Rocket Company,Final numbered entry with strategic enhancements and new plot,3DS,Kenji Matsubara,30
-Medarot Classics,Rocket Company,Collection of five retro RPGs from Game Boy and GBC,3DS,Kenji Matsubara,50
+Medarot Classics,Rocket Company,Collection of five retro RPGs from GB and GBC,3DS,Kenji Matsubara,50
 Medarot Classics Plus,Imagineer/Rocket Company,Expanded Switch collection featuring eight early series titles,Switch,Kenji Matsubara,60
 Medarot DS (Kabuto/Kuwagata),Rocket Company,Return to the numbered RPG series with dual versions and 3v3 combat,DS,Kenji Matsubara,25
 Medarot Dual (Kabuto/Kuwagata),Rocket Company,Real-time 3D arena battler with action combat and upgrades,3DS,Kenji Matsubara,8
@@ -328,12 +328,12 @@ Megami Ibunroku Persona,Atlus,Original psychological horror RPG with demon summo
 Metaphor: ReFantazio,Atlus,Fantasy RPG from the Persona team,PS5,Katsura Hashino,80
 Monster Hunter,Capcom,Original hunting action RPG,PS2,Kaname Fujioka,40
 Monster Hunter 3 Ultimate,Capcom,Definitive version of Tri,Wii U,Kaname Fujioka,70
-Monster Hunter 4,Capcom,Vertical hunting with mounting,Nintendo 3DS,Kaname Fujioka,65
-Monster Hunter 4 Ultimate,Capcom,Expanded version with G-Rank,Nintendo 3DS,Kaname Fujioka,80
+Monster Hunter 4,Capcom,Vertical hunting with mounting,3DS,Kaname Fujioka,65
+Monster Hunter 4 Ultimate,Capcom,Expanded version with G-Rank,3DS,Kaname Fujioka,80
 Monster Hunter Freedom,Capcom,Portable version with additional content,PSP,Kaname Fujioka,50
 Monster Hunter Freedom 2,Capcom,Expanded portable hunting experience,PSP,Kaname Fujioka,60
 Monster Hunter Freedom Unite,Capcom,Ultimate portable Monster Hunter experience,PSP,Kaname Fujioka,80
-Monster Hunter Generations,Capcom,Style-focused hunting with nostalgia,Nintendo 3DS,Kaname Fujioka,75
+Monster Hunter Generations,Capcom,Style-focused hunting with nostalgia,3DS,Kaname Fujioka,75
 Monster Hunter Generations Ultimate,Capcom,Ultimate version with Brave Style,Nintendo Switch,Kaname Fujioka,90
 Monster Hunter Portable 3rd,Capcom,Japan-exclusive portable entry,PSP,Kaname Fujioka,70
 Monster Hunter Rise,Capcom,Verticality-focused hunting with Wirebugs,Nintendo Switch,Yasunori Ichinose,40
@@ -452,7 +452,7 @@ Samurai Warriors 4,Koei Tecmo,Return to core gameplay with Chronicle Mode,"PS3,P
 Samurai Warriors 4-II,Koei Tecmo,Enhanced version focusing on character stories,"PS3,PS4,Xbox One,PC,Vita,Switch",Keiji Fujiwara,30
 Samurai Warriors 4: Empires,Koei Tecmo,Strategic conquest with relationship system,"PS3,PS4,Xbox One,PC,Vita",Keiji Fujiwara,40
 Samurai Warriors 5,Koei Tecmo,Reimagined series focusing on Nobunaga and Mitsuhide,"PS4,Xbox One,PC,Switch",Keiji Fujiwara,25
-Samurai Warriors: Chronicles,Koei,3DS launch title with custom character,"3DS,New 3DS",Keiji Fujiwara,15
+Samurai Warriors: Chronicles,Koei,3DS launch title with custom character,"3DS,",Keiji Fujiwara,15
 Schwarzesmarken,Age,Prequel visual novel set in Cold War era with TSF combat,PC,Takayuki Sugawara,40
 Sea of Stars,Sabotage Studio,Turn-based RPG homage to Chrono Trigger,PC,Thierry Boulanger,25
 Secret of Evermore,Square,American-developed Square RPG with alchemy system,SNES,Chris Taylor,30
@@ -473,8 +473,8 @@ Shadowrun: Hong Kong,Harebrained Schemes,Asian setting with improved mechanics,"
 Shenmue,Sega,Life simulation RPG in 1980s Japan,"Dreamcast,PS4,Xbox,PC",Yu Suzuki,15
 Shenmue II,Sega,Hong Kong continuation of Ryo's quest,"Dreamcast,Xbox,PS4,PC",Yu Suzuki,30
 Shin Megami Tensei III: Nocturne,Atlus,Post-apocalyptic demon recruitment,"PS2,PS3,PS4,PC,Switch",Kazuyuki Yamai,60
-Shin Megami Tensei: Devil Children - Black Book,Atlus,Demon-collecting RPG for younger audiences,Game Boy Color,Kazuma Kaneko,30
-Shin Megami Tensei: Devil Children - Red Book,Atlus,Demon-collecting RPG with different story path,Game Boy Color,Kazuma Kaneko,30
+Shin Megami Tensei: Devil Children - Black Book,Atlus,Demon-collecting RPG for younger audiences,GBC,Kazuma Kaneko,30
+Shin Megami Tensei: Devil Children - Red Book,Atlus,Demon-collecting RPG with different story path,GBC,Kazuma Kaneko,30
 Shin Megami Tensei: Strange Journey,Atlus,Dungeon crawler with environmental themes in Antarctica,DS,Kazuyuki Yamai,60
 Shining Force,Sega,Turn-based tactical RPG with fantasy and sci-fi elements,Genesis,Hiroyuki Takahashi,25
 Shining Force CD,Sega,Enhanced remake of both Game Gear Gaiden games,Sega CD,Hiroyuki Takahashi,30
@@ -509,7 +509,7 @@ Super Robot Taisen 2,Banpresto,Second entry expanding roster of mecha series,SNE
 Super Robot Taisen 3,Banpresto,Third classic entry with improved mechanics,SNES,Takahiro Suzuki,35
 Super Robot Taisen 30,Banpresto,30th anniversary celebration with massive roster,"PS4,Switch,PC",Takahiro Suzuki,90
 Super Robot Taisen 4,Banpresto,Fourth main entry with enhanced graphics and story,SNES,Takahiro Suzuki,45
-Super Robot Taisen A Portable,Banpresto,PSP port of Game Boy Advance title,PSP,Takahiro Suzuki,35
+Super Robot Taisen A Portable,Banpresto,PSP port of GBA title,PSP,Takahiro Suzuki,35
 Super Robot Taisen Alpha,Banpresto,Beginning of Alpha series with 3D battle animations,PS1,Takahiro Suzuki,60
 Super Robot Taisen Alpha 2,Banpresto,Second Alpha with expanded story and mechanics,PS2,Takahiro Suzuki,65
 Super Robot Taisen Alpha 3,Banpresto,Epic conclusion to Alpha trilogy,PS2,Takahiro Suzuki,70
@@ -533,7 +533,7 @@ Super Robot Taisen Original Generation 2,Banpresto,Sequel to OG with continuing 
 Super Robot Taisen Original Generation 2nd,Banpresto,Second OG generation for PlayStation 3,PS3,Takahiro Suzuki,70
 Super Robot Taisen Original Generation Gaiden,Banpresto,Side story in OG universe,PS2,Takahiro Suzuki,50
 Super Robot Taisen Original Generations,Banpresto,Compilation of first two OG games for PlayStation 2,PS2,Takahiro Suzuki,80
-Super Robot Taisen R,Banpresto,Game Boy Advance entry with original storyline,GBA,Takahiro Suzuki,25
+Super Robot Taisen R,Banpresto,GBA entry with original storyline,GBA,Takahiro Suzuki,25
 Super Robot Taisen Scramble Commander,Banpresto,Real-time strategy departure from turn-based gameplay,PS2,Takahiro Suzuki,25
 Super Robot Taisen T,Banpresto,Third PS4 mainline entry,"PS4,Switch,PC",Takahiro Suzuki,80
 Super Robot Taisen UX,Banpresto,3DS entry featuring unique anime selection,3DS,Takahiro Suzuki,50
@@ -579,23 +579,23 @@ The Legend of Dragoon,Sony, A turn-based JRPG following Dart and his companions 
 The Legend of Heroes: Trails in the Sky,Falcom,Deep worldbuilding and character-driven turn-based RPG,"PSP,PC",Toshihiro Kondo,50
 The Legend of Heroes: Trails in the Sky SC,Falcom,Sequel continuing Estelle and Joshua’s journey,"PSP,PC",Toshihiro Kondo,60
 The Legend of Zelda,Nintendo,Original adventure that started the legendary series,NES,Shigeru Miyamoto,8
-The Legend of Zelda: A Link Between Worlds,Nintendo,Wall-merging adventure sequel to A Link to the Past,Nintendo 3DS,Hidemaro Fujibayashi,20
+The Legend of Zelda: A Link Between Worlds,Nintendo,Wall-merging adventure sequel to A Link to the Past,3DS,Hidemaro Fujibayashi,20
 The Legend of Zelda: A Link to the Past,Nintendo,Classic top-down adventure introducing the Master Sword,SNES,Shigeru Miyamoto,15
 The Legend of Zelda: Breath of the Wild,Nintendo,Open-world revolution of the Zelda formula,Switch,Hidemaro Fujibayashi,60
 The Legend of Zelda: Four Swords Adventures,Nintendo,Multiplayer adventure with cooperative gameplay,GameCube,Eiji Aonuma,20
-The Legend of Zelda: Link's Awakening,Nintendo,Mysterious island adventure with surreal elements,Game Boy,Takashi Tezuka,12
+The Legend of Zelda: Link's Awakening,Nintendo,Mysterious island adventure with surreal elements,GB,Takashi Tezuka,12
 The Legend of Zelda: Majora's Mask,Nintendo,Dark time-loop adventure with transformation masks,N64,Eiji Aonuma,20
 The Legend of Zelda: Ocarina of Time,Nintendo,3D adventure that revolutionized the series,N64,Eiji Aonuma,25
-The Legend of Zelda: Oracle of Ages,Nintendo,Time-traveling adventure with puzzle focus,Game Boy Color,Yoshiki Okamoto,15
-The Legend of Zelda: Oracle of Seasons,Nintendo,Season-changing adventure with action focus,Game Boy Color,Yoshiki Okamoto,15
+The Legend of Zelda: Oracle of Ages,Nintendo,Time-traveling adventure with puzzle focus,GBC,Yoshiki Okamoto,15
+The Legend of Zelda: Oracle of Seasons,Nintendo,Season-changing adventure with action focus,GBC,Yoshiki Okamoto,15
 The Legend of Zelda: Phantom Hourglass,Nintendo,Touch-controlled ocean adventure,Nintendo DS,Eiji Aonuma,20
 The Legend of Zelda: Skyward Sword,Nintendo,Origin story with motion controls,Wii,Hidemaro Fujibayashi,40
 The Legend of Zelda: Spirit Tracks,Nintendo,Train-traveling adventure with Zelda as companion,Nintendo DS,Eiji Aonuma,25
 The Legend of Zelda: Tears of the Kingdom,Nintendo,Building-focused sequel to Breath of the Wild,Switch,Hidemaro Fujibayashi,70
 The Legend of Zelda: The Adventure of Link,Nintendo,Side-scrolling sequel with RPG elements,NES,Shigeru Miyamoto,12
-The Legend of Zelda: The Minish Cap,Nintendo,Shrinking adventure with Capcom development,Game Boy Advance,Hidemaro Fujibayashi,15
+The Legend of Zelda: The Minish Cap,Nintendo,Shrinking adventure with Capcom development,GBA,Hidemaro Fujibayashi,15
 The Legend of Zelda: The Wind Waker,Nintendo,Cel-shaded ocean adventure with sailing,GameCube,Eiji Aonuma,30
-The Legend of Zelda: Tri Force Heroes,Nintendo,Multiplayer adventure with costume mechanics,Nintendo 3DS,Hidemaro Fujibayashi,15
+The Legend of Zelda: Tri Force Heroes,Nintendo,Multiplayer adventure with costume mechanics,3DS,Hidemaro Fujibayashi,15
 The Legend of Zelda: Twilight Princess,Nintendo,Darker adventure with wolf transformation,Wii,Eiji Aonuma,35
 The Outer Worlds,Obsidian,Sci-fi corporate dystopia with humor,"PC,PS4,Xbox,Switch",Tim Cain,25
 The Witcher,CD Projekt RED,Adult fantasy based on Polish novels,PC,Adam Badowski,50
@@ -643,7 +643,7 @@ Xenoblade Chronicles 2,Nintendo,Blade system with deep story and expansive world
 Xenoblade Chronicles 2: Torna - The Golden Country,Nintendo,Prequel expansion focusing on the Aegis War,Switch,Tetsuya Takahashi,25
 Xenoblade Chronicles 3,Nintendo,Cinematic JRPG blending gameplay systems of its predecessors,Switch,Tetsuya Takahashi,80
 Xenoblade Chronicles 3: Future Redeemed,Nintendo,Epilogue expansion bridging story gaps,Switch,Tetsuya Takahashi,20
-Xenoblade Chronicles 3D,Nintendo,Portable version of the original epic JRPG,New 3DS,Tetsuya Takahashi,52
+Xenoblade Chronicles 3D,Nintendo,Portable version of the original epic JRPG,3DS,Tetsuya Takahashi,52
 Xenoblade Chronicles X,Nintendo,Interstellar survival on alien planet Mira,Wii U,Tetsuya Takahashi,70
 Xenoblade Chronicles X: Definitive Edition,Nintendo,Enhanced version with new epilogue content,Switch,Tetsuya Takahashi,85
 Xenoblade Chronicles: Definitive Edition,Nintendo,HD remake of the original epic JRPG,Switch,Tetsuya Takahashi,60

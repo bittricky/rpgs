@@ -62,7 +62,7 @@ You can import this list into your spreadsheet software or even through Notion, 
 
 ### Device Reference
 
-# Gaming Platform Reference Table
+##### Gaming Platform Reference Table
 
 Below is a reference table for all gaming platforms and devices used in the dataset. The table includes the abbreviated value used in the data, the full name of the device, its release year, manufacturer, and notable features or specifications:
 

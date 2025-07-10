@@ -66,37 +66,38 @@ You can import this list into your spreadsheet software or even through Notion, 
 
 Below is a reference table for all gaming platforms and devices used in the dataset. The table includes the abbreviated value used in the data, the full name of the device, its release year, manufacturer, and notable features or specifications:
 
-| Value | Full Name | Release | Manufacturer | Details |
-|-------|------------|---------|--------------|---------|
-| 3DS | Nintendo 3DS | 2011 | Nintendo | Glasses-free 3D display, dual screens, backward compatibility with DS games |
-| DS | Nintendo DS | 2004 | Nintendo | Dual screens with bottom touchscreen, innovative game design |
-| Dreamcast | Sega Dreamcast | 1998 | Sega | First 128-bit console, online gaming pioneer, VMU memory card with LCD screen |
-| GB | Game Boy | 1989 | Nintendo | Revolutionary handheld console, long battery life, durable design |
-| GBC | Game Boy Color | 1998 | Nintendo | Color screen, backward compatibility with Game Boy games, infrared port |
-| GBA | Nintendo Game Boy Advance | 2001 | Nintendo | 32-bit handheld, backward compatibility with Game Boy games |
-| GameCube | Nintendo GameCube | 2001 | Nintendo | Compact disc-based system, handle for portability, innovative controller design |
-| Genesis | Sega Genesis/Mega Drive | 1988 | Sega | 16-bit console, known as Mega Drive outside North America |
-| Master System | Sega Master System | 1985 | Sega | 8-bit console, built-in game capability in some models |
-| Mobile | Mobile Devices | Various | Various | iOS and Android smartphones and tablets |
-| N64 | Nintendo 64 | 1996 | Nintendo | 64-bit console, pioneered analog stick controller, cartridge-based |
-| NES | Nintendo Entertainment System | 1983 | Nintendo | 8-bit console that revitalized the gaming industry |
-| PC | Personal Computer | Various | Various | PC gaming can include any variety of PC (Windows, MacOS, Linux) |
-| PS Vita | PlayStation Vita | 2011 | Sony | Advanced handheld with OLED screen, dual analog sticks |
-| PS1 | PlayStation | 1994 | Sony | First PlayStation console, pioneered CD-ROM gaming |
-| PS2 | PlayStation 2 | 2000 | Sony | Best-selling console of all time, DVD playback capability |
-| PS3 | PlayStation 3 | 2006 | Sony | Blu-ray player, Cell processor, free online gaming |
-| PS4 | PlayStation 4 | 2013 | Sony | Enhanced social features, Share button, remote play |
-| PS5 | PlayStation 5 | 2020 | Sony | SSD storage, ray tracing, haptic feedback controllers |
-| PSP | PlayStation Portable | 2004 | Sony | First major Sony handheld, UMD discs, multimedia capabilities |
-| Saturn | Sega Saturn | 1994 | Sega | 32-bit console, dual CPU architecture, strong 2D capabilities |
-| SNES | Super Nintendo Entertainment System | 1990 | Nintendo | 16-bit console, Mode 7 graphics, iconic controller design |
-| Switch | Nintendo Switch | 2017 | Nintendo | Hybrid console/handheld, detachable Joy-Con controllers |
-| Switch 2 | Nintendo Switch 2 | 2025 | Nintendo | Next-generation Switch with enhanced graphics and performance |
-| Wii | Nintendo Wii | 2006 | Nintendo | Motion controls, broad casual gaming appeal, backward compatibility |
-| Wii U | Nintendo Wii U | 2012 | Nintendo | Tablet-style GamePad controller, HD graphics, backward compatibility |
-| Windows | Microsoft Windows | Various | Microsoft | Primary PC operating system for gaming |
-| Xbox | Xbox (Various) | 2001-Present | Microsoft | Including original Xbox, 360, One, and Series X/S |
-| macOS | Apple macOS | Various | Apple | Apple's desktop operating system |
+| Value | Full Name | Release | Manufacturer | Manufacturing Cost (Est.) | Details |
+|-------|------------|---------|--------------|---------------------------|---------|
+| NES | Nintendo Entertainment System | 1983 | Nintendo | $40-80 | 8-bit console that revitalized the gaming industry |
+| Master System | Sega Master System | 1985 | Sega | $80-120 | 8-bit console, built-in game capability in some models |
+| Genesis | Sega Genesis/Mega Drive | 1988 | Sega | $100-150 | 16-bit console, known as Mega Drive outside North America |
+| GB | Game Boy | 1989 | Nintendo | $30-50 | Revolutionary handheld console, long battery life, durable design |
+| SNES | Super Nintendo Entertainment System | 1990 | Nintendo | $100-150 | 16-bit console, Mode 7 graphics, iconic controller design |
+| PS1 | PlayStation | 1994 | Sony | $150-200 | First PlayStation console, pioneered CD-ROM gaming |
+| Saturn | Sega Saturn | 1994 | Sega | $300-400 | 32-bit console, dual CPU architecture, strong 2D capabilities |
+| N64 | Nintendo 64 | 1996 | Nintendo | $200-250 | 64-bit console, pioneered analog stick controller, cartridge-based |
+| GBC | Game Boy Color | 1998 | Nintendo | $40-60 | Color screen, backward compatibility with Game Boy games, infrared port |
+| Dreamcast | Sega Dreamcast | 1998 | Sega | $200-250 | First 128-bit console, online gaming pioneer, VMU memory card with LCD screen |
+| PS2 | PlayStation 2 | 2000 | Sony | $200-300 | Best-selling console of all time, DVD playback capability |
+| GBA | Nintendo Game Boy Advance | 2001 | Nintendo | $60-80 | 32-bit handheld, backward compatibility with Game Boy games |
+| GameCube | Nintendo GameCube | 2001 | Nintendo | $150-200 | Compact disc-based system, handle for portability, innovative controller design |
+| Xbox | Xbox (Various) | 2001-Present | Microsoft | $300-500 | Including original Xbox, 360, One, and Series X/S |
+| DS | Nintendo DS | 2004 | Nintendo | $80-100 | Dual screens with bottom touchscreen, innovative game design |
+| PSP | PlayStation Portable | 2004 | Sony | $150-180 | First major Sony handheld, UMD discs, multimedia capabilities |
+| PS3 | PlayStation 3 | 2006 | Sony | $800-900 | Blu-ray player, Cell processor, free online gaming |
+| Wii | Nintendo Wii | 2006 | Nintendo | $150-200 | Motion controls, broad casual gaming appeal, backward compatibility |
+| 3DS | Nintendo 3DS | 2011 | Nintendo | $100-130 | Glasses-free 3D display, dual screens, backward compatibility with DS games |
+| PS Vita | PlayStation Vita | 2011 | Sony | $180-220 | Advanced handheld with OLED screen, dual analog sticks |
+| Wii U | Nintendo Wii U | 2012 | Nintendo | $300-350 | Tablet-style GamePad controller, HD graphics, backward compatibility |
+| PS4 | PlayStation 4 | 2013 | Sony | $380-400 | Enhanced social features, Share button, remote play |
+| Switch | Nintendo Switch | 2017 | Nintendo | $260-300 | Hybrid console/handheld, detachable Joy-Con controllers |
+| PS5 | PlayStation 5 | 2020 | Sony | $450-500 | SSD storage, ray tracing, haptic feedback controllers |
+| Steam Deck | Steam Deck | 2022 | Valve | $350-400 | Handheld gaming PC, runs SteamOS/Linux, portable PC gaming |
+| Switch 2 | Nintendo Switch 2 | 2025 | Nintendo | $300-400 (Est.) | Next-generation Switch with enhanced graphics and performance |
+| Mobile | Mobile Devices | Various | Various | $50-500+ | iOS and Android smartphones and tablets |
+| PC | Personal Computer | Various | Various | $200-2000+ | PC gaming can include any variety of PC with any operating system (Windows, MacOS, Linux, etc.) |
+| Windows | Microsoft Windows | Various | Microsoft | N/A (OS) | Primary PC operating system for gaming |
+| macOS | Apple macOS | Various | Apple | N/A (OS) | Apple's desktop operating system |
 
 ## Usage Notes
 
@@ -106,7 +107,7 @@ Below is a reference table for all gaming platforms and devices used in the data
 - **Manufacturer**: Company that developed/published the platform
 - **Details**: Key features, specifications, or historical significance
 
-This reference table can be used to decode device values in your dataset and provide context about each gaming platform's capabilities and market position.
+This reference table can be used to decode device values in the dataset and provide context about each gaming platform's capabilities and market position.
 
 ---
 

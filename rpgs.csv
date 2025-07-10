@@ -1,25 +1,25 @@
 title,publisher,description,device,director,playtime
-.hack//G.U. Vol.1//Rebirth,CyberConnect2,Second generation trilogy begins,"PS2,PS4,PC,Switch",Hiroshi Matsuyama,30
-.hack//G.U. Vol.2//Reminisce,CyberConnect2,Haseo's continued revenge quest,"PS2,PS4,PC,Switch",Hiroshi Matsuyama,35
-.hack//G.U. Vol.3//Redemption,CyberConnect2,Trilogy conclusion with AIDA threat,"PS2,PS4,PC,Switch",Hiroshi Matsuyama,40
+.hack//G.U. Vol.1//Rebirth,CyberConnect2,Second generation trilogy begins,"PS2,PS4,Windows,Switch",Hiroshi Matsuyama,30
+.hack//G.U. Vol.2//Reminisce,CyberConnect2,Haseo's continued revenge quest,"PS2,PS4,Windows,Switch",Hiroshi Matsuyama,35
+.hack//G.U. Vol.3//Redemption,CyberConnect2,Trilogy conclusion with AIDA threat,"PS2,PS4,Windows,Switch",Hiroshi Matsuyama,40
 .hack//INFECTION,CyberConnect2,Simulated MMO experience part 1,PS2,Koichi Mashimo,20
 .hack//MUTATION,CyberConnect2,The World mystery continues part 2,PS2,Koichi Mashimo,20
 .hack//OUTBREAK,CyberConnect2,Data corruption spreads part 3,PS2,Koichi Mashimo,20
 .hack//QUARANTINE,CyberConnect2,Epic conclusion part 4,PS2,Koichi Mashimo,25
 13 Sentinels: Aegis Rim,Atlus,Time-traveling mech defense game with deep RPG storytelling,"PS4,Switch",George Kamitani,30
 7th Saga,Enix,Notoriously difficult RPG with seven playable characters,SNES,Yoji Shinkawa,40
-Across the Obelisk,Dreamsite Games,Roguelike deck-building RPG,PC,Gonzalo Varela,20
+Across the Obelisk,Dreamsite Games,Roguelike deck-building RPG,Windows,Gonzalo Varela,20
 ActRaiser,Enix,Unique blend of action-platformer and city simulation,"SNES,Mobile,Switch",Yoshihide Nagamine,8
 Advance Wars,Nintendo,Turn-based military strategy without RPG elements but tactical depth,GBA,Kentaro Nishimura,25
 Advance Wars 1+2: Re-Boot Camp,Nintendo,Remake of first two games with updated graphics and features,Switch,Kentaro Nishimura,40
 Advance Wars 2: Black Hole Rising,Nintendo,Sequel with more COs and expanded Black Hole storyline,GBA,Kentaro Nishimura,30
 Advance Wars: Days of Ruin,Nintendo,Post-apocalyptic setting with darker tone and new mechanics,DS,Kentaro Nishimura,30
 Advance Wars: Dual Strike,Nintendo,Dual-screen battles with tag team CO powers,DS,Kentaro Nishimura,35
-Age of Decadence,Iron Tower Studio,Choice-heavy Roman-inspired RPG with consequence focus,PC,Matt Caporelli,25
+Age of Decadence,Iron Tower Studio,Choice-heavy Roman-inspired RPG with consequence focus,Windows,Matt Caporelli,25
 Albert Odyssey,Sunsoft,Traditional JRPG with Working Designs localization,Saturn,Kenichi Kanemaki,40
 Alundra,Matrix Software,Action RPG with nightmare themes and puzzles,PS1,Masanobu Suzui,25
-American Truck Simulator,SCS Software,Long-haul trucking across America with company building,PC,Pavel Šebor,200
-Another Crab's Treasure,Aggro Crab,Soulslike adventure as a hermit crab,PC,Nick Kaman,15
+American Truck Simulator,SCS Software,Long-haul trucking across America with company building,Windows,Pavel Šebor,200
+Another Crab's Treasure,Aggro Crab,Soulslike adventure as a hermit crab,Windows,Nick Kaman,15
 Ar tonelico II: Melody of Metafalica,Gust,Sequel with dual Reyvateil system,PS2,Hiroshi Kawamoto,60
 Ar tonelico: Melody of Elemia,Gust,Song magic RPG with Reyvateil companions,PS2,Hiroshi Kawamoto,50
 Arc the Lad,G-Craft,Strategic RPG trilogy with connected storylines,"PS1,PS2,PSP",Kenichi Arakawa,25
@@ -30,7 +30,7 @@ Armored Core 2: Another Age,From Software,Prequel with enhanced AI and mission v
 Armored Core 3,From Software,Layered colony world with underground exploration themes,"PS2,PSP",Hidetaka Miyazaki,20
 Armored Core 4,From Software,Series reboot with faster combat and energy management,"PS3,Xbox",Hidetaka Miyazaki,12
 Armored Core V,From Software,Team-based online focus with territory control mechanics,"PS3,Xbox",Hidetaka Miyazaki,20
-Armored Core VI: Fires of Rubicon,From Software,Modern reboot with Souls-influenced boss design,"PC,PS4,PS5,Xbox",Hidetaka Miyazaki,20
+Armored Core VI: Fires of Rubicon,From Software,Modern reboot with Souls-influenced boss design,"Windows,PS4,PS5,Xbox",Hidetaka Miyazaki,20
 Armored Core: For Answer,From Software,Massive scale battles with Arms Forts and destruction,"PS3,Xbox",Hidetaka Miyazaki,15
 Armored Core: Formula Front,From Software,AI programming focus with automated mech battles,"PS2,PSP",Hidetaka Miyazaki,25
 Armored Core: Last Raven,From Software,Apocalyptic finale to original timeline with multiple endings,"PS2,PSP",Hidetaka Miyazaki,25
@@ -43,29 +43,29 @@ Armored Core: Verdict Day,From Software,Enhanced online warfare with faction sys
 Atelier Iris 2: The Azoth of Destiny,Gust,Dual world exploration with alchemy focus,PS2,Toshihiro Kawamoto,45
 Atelier Iris 3: Grand Phantasm,Gust,MMORPG-inspired with raid boss battles,PS2,Toshihiro Kawamoto,50
 Atelier Iris: Eternal Mana,Gust,Alchemy-based RPG with item synthesis,PS2,Toshihiro Kawamoto,40
-Atom RPG,AtomTeam,Soviet post-apocalyptic Fallout homage,PC,Konstantin Dedyukhina,40
+Atom RPG,AtomTeam,Soviet post-apocalyptic Fallout homage,Windows,Konstantin Dedyukhina,40
 Bahamut Lagoon,Square,A tactical RPG with turn-based battles and dragon-raising mechanics set in a floating continent torn by war,SNES,Tatsuya Yasuda,25
-Baldur's Gate,BioWare,Bhaalspawn saga beginning in Sword Coast,"PC,Mobile,Switch",Ray Muzyka,60
-Baldur's Gate II,BioWare,Epic sequel with Irenicus storyline,"PC,Mobile,Switch",Ray Muzyka,80
-Baldur's Gate III,Larian Studios,Modern D&D 5e with exceptional cinematic presentation and storytelling,"PC,PS5,Xbox",Swen Vincke,100
-Bastion,Supergiant Games,Isometric action RPG with dynamic narration system,"PC,Xbox,PS4,Switch,Mobile",Greg Kasavin,6
+Baldur's Gate,BioWare,Bhaalspawn saga beginning in Sword Coast,"Windows,Mobile,Switch",Ray Muzyka,60
+Baldur's Gate II,BioWare,Epic sequel with Irenicus storyline,"Windows,Mobile,Switch",Ray Muzyka,80
+Baldur's Gate III,Larian Studios,Modern D&D 5e with exceptional cinematic presentation and storytelling,"Windows,PS5,Xbox",Swen Vincke,100
+Bastion,Supergiant Games,Isometric action RPG with dynamic narration system,"Windows,Xbox,PS4,Switch,Mobile",Greg Kasavin,6
 Baten Kaitos Origins,Namco,Prequel with improved card mechanics,GameCube,Masanobu Suzui,70
 Baten Kaitos: Eternal Wings,Namco,Card-based combat in floating world,GameCube,Masanobu Suzui,60
-Beyond Divinity,Larian Studios,Soul-forged partnership sequel,PC,Swend Vincke,60
-Black Myth: Wukong,Game Science,Action‑RPG adaptation of Journey to the West with Souls‑like combat on Unreal Engine 5,"PC,PS5,Xbox Series X,S",Du Qiang,40
+Beyond Divinity,Larian Studios,Soul-forged partnership sequel,Windows,Swend Vincke,60
+Black Myth: Wukong,Game Science,Action‑RPG adaptation of Journey to the West with Souls‑like combat on Unreal Engine 5,"Windows,PS5,Xbox Series X,S",Du Qiang,40
 Bloodborne,From Software,Gothic horror with aggressive combat rewarding offense,"PS4,PS5",Hidetaka Miyazaki,30
-Borderlands,2K Games,Cel-shaded looter shooter with RPG elements,PC,Matthew Armstrong,22
-Borderlands 2,2K Games,Psycho-filled sequel with improved mechanics,PC,Paul Hellquist,30
-Borderlands 3,2K Games,Multiplanet adventure with new Vault Hunters,PC,Paul Sage,25
-Borderlands: The Pre-Sequel,2K Games,Moon-based prequel with low gravity,PC,Anthony Burch,18
+Borderlands,2K Games,Cel-shaded looter shooter with RPG elements,Windows,Matthew Armstrong,22
+Borderlands 2,2K Games,Psycho-filled sequel with improved mechanics,Windows,Paul Hellquist,30
+Borderlands 3,2K Games,Multiplanet adventure with new Vault Hunters,Windows,Paul Sage,25
+Borderlands: The Pre-Sequel,2K Games,Moon-based prequel with low gravity,Windows,Anthony Burch,18
 Bravely Default,Square Enix,Modern turn-based JRPG with job system and Brave/Default mechanics,3DS,Tomoya Asano,50
 Bravely Second: End Layer,Square Enix,Sequel refining job-based combat and storytelling,3DS,Tomoya Asano,50
-Breath of Fire,Capcom,Dragon transformation hero with fishing mini-games,"SNES,GBA",Makoto Ikehara,30
-Breath of Fire II,Capcom,Darker religious themes with town building,"SNES,GBA",Makoto Ikehara,40
-Breath of Fire III,Capcom,Dragon gene storyline with fishing and fairy village,"PS1,PSP,PC",Makoto Ikehara,50
-Breath of Fire IV,Capcom,Dual protagonist story with hex-based combat,"PS1,PC",Makoto Ikehara,40
-Bug Fables: The Everlasting Sapling,Moonsprout Games,Paper Mario spiritual successor with bug-themed heroes,"PC,Switch,PS4,Xbox",Josef Ferraz,30
-Car Mechanic Simulator 2021,Red Dot Games,Auto repair simulation with business progression,"PC,PS4,PS5,Xbox One,Xbox Series,Switch",Dariusz Klimczak,60
+Breath of Fire,CaWindowsom,Dragon transformation hero with fishing mini-games,"SNES,GBA",Makoto Ikehara,30
+Breath of Fire II,CaWindowsom,Darker religious themes with town building,"SNES,GBA",Makoto Ikehara,40
+Breath of Fire III,CaWindowsom,Dragon gene storyline with fishing and fairy village,"PS1,PSP,Windows",Makoto Ikehara,50
+Breath of Fire IV,CaWindowsom,Dual protagonist story with hex-based combat,"PS1,Windows",Makoto Ikehara,40
+Bug Fables: The Everlasting Sapling,Moonsprout Games,Paper Mario spiritual successor with bug-themed heroes,"Windows,Switch,PS4,Xbox",Josef Ferraz,30
+Car Mechanic Simulator 2021,Red Dot Games,Auto repair simulation with business progression,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch",Dariusz Klimczak,60
 Castlevania,Konami,Original vampire-hunting platformer,NES,Hitoshi Akamatsu,6
 Castlevania II: Simon's Quest,Konami,RPG-influenced sequel with day/night cycle,NES,Hitoshi Akamatsu,8
 Castlevania III: Dracula's Curse,Konami,Multi-character prequel,NES,Hitoshi Akamatsu,10
@@ -77,42 +77,42 @@ Castlevania: Harmony of Dissonance,Konami,GBA sequel with dual castle,GBA,Koji I
 Castlevania: Lords of Shadow,Konami,3D reboot with God of War-style combat,PS3,Dave Cox,20
 Castlevania: Order of Ecclesia,Konami,Final DS Metroidvania,Nintendo DS,Koji Igarashi,12
 Castlevania: Portrait of Ruin,Konami,Dual-character DS adventure,Nintendo DS,Koji Igarashi,15
-Castlevania: Rondo of Blood,Konami,CD-based adventure with multiple paths,PC Engine,Toru Hagihara,6
+Castlevania: Rondo of Blood,Konami,CD-based adventure with multiple paths,Windows Engine,Toru Hagihara,6
 Castlevania: Symphony of the Night,Konami,Metroidvania masterpiece,PS1,Koji Igarashi,12
-Chained Echoes,Matthias Linda,Indie JRPG love letter with mech battles and rich story,"PC,PS4,PS5,Switch,Xbox",Matthias Linda,40
-Children of Morta,Dead Mage,Family-focused action RPG with generational storytelling,"PC,PS4,Switch,Xbox",Amir Rao,12
-Chrono Cross,Square,Dimensional adventure with 40+ party members,"PS1,PC,Switch",Yasunori Mitsuda,40
-Chrono Trigger,Square,Time-traveling masterpiece with multiple endings,"SNES,PS1,DS,PC,Mobile",Yasunori Mitsuda,22
-Cities: Skylines,Colossal Order,City building simulation with progression unlocks,"PC,PS4,PS5,Xbox One,Xbox Series,Switch",Mariina Hallikainen,80
-Citizen Sleeper,Jump Over The Age,Narrative RPG about identity and survival,PC,Gareth Damian Martin,12
-Clair Obscur: Expedition 33,Kepler Interactive/ Sandfall Interactive,Turn‑based RPG with real‑time combat elements set in Belle Époque France featuring emotional storytelling deep character relationships and post‑game content like Endless Tower and Flying Manor,"PC,PS5,Xbox Series X,S",Guillaume Broche,40
+Chained Echoes,Matthias Linda,Indie JRPG love letter with mech battles and rich story,"Windows,PS4,PS5,Switch,Xbox",Matthias Linda,40
+Children of Morta,Dead Mage,Family-focused action RPG with generational storytelling,"Windows,PS4,Switch,Xbox",Amir Rao,12
+Chrono Cross,Square,Dimensional adventure with 40+ party members,"PS1,Windows,Switch",Yasunori Mitsuda,40
+Chrono Trigger,Square,Time-traveling masterpiece with multiple endings,"SNES,PS1,DS,Windows,Mobile",Yasunori Mitsuda,22
+Cities: Skylines,Colossal Order,City building simulation with progression unlocks,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch",Mariina Hallikainen,80
+Citizen Sleeper,Jump Over The Age,Narrative RPG about identity and survival,Windows,Gareth Damian Martin,12
+Clair Obscur: Expedition 33,Kepler Interactive/ Sandfall Interactive,Turn‑based RPG with real‑time combat elements set in Belle Époque France featuring emotional storytelling deep character relationships and post‑game content like Endless Tower and Flying Manor,"Windows,PS5,Xbox Series X,S",Guillaume Broche,40
 Class of Heroes,Acquire,Dungeon crawler RPG with limited custom dungeon creation,PSP,Kazutaka Inoue,40
-Core Keeper,Pugstorm,Top-down mining adventure with RPG progression,"PC,PS4,PS5,Xbox One,Xbox Series,Switch",Fredrik Präntare,40
+Core Keeper,Pugstorm,Top-down mining adventure with RPG progression,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch",Fredrik Präntare,40
 Crimson Shroud,Level-5/Tabletop Games,Tabletop-inspired digital RPG with dice mechanics,3DS,Akihiro Hino,10
-CrossCode,Radical Fish Games,Retro-inspired action RPG with puzzle mechanics and fast combat,"PC,Switch,PS4,Xbox",Radical Fish Games Team,35
-Cyberpunk 2077,CD Projekt,Futuristic open-world RPG in Night City,PC,Adam Badowski,25
+CrossCode,Radical Fish Games,Retro-inspired action RPG with puzzle mechanics and fast combat,"Windows,Switch,PS4,Xbox",Radical Fish Games Team,35
+Cyberpunk 2077,CD Projekt,Futuristic open-world RPG in Night City,Windows,Adam Badowski,25
 Danball Senki,Level-5,Mecha action RPG featuring customizable robots called LBX,PSP,Akihiro Hino,20
 Danball Senki Boost,Level-5,Enhanced version of Danball Senki with additional content,PSP,Akihiro Hino,25
 Danball Senki W,Level-5,Sequel to Danball Senki with new story and LBX models,PSP,Akihiro Hino,25
 Dark Cloud,Level-5,Dungeon crawling with town rebuilding,PS2,Yoshifumi Hashimoto,40
 Dark Cloud 2,Level-5,Time-traveling sequel with invention system,PS2,Yoshifumi Hashimoto,80
-Dark Souls,From Software,Interconnected world design with challenging combat,"PC,PS3,Xbox,Switch",Hidetaka Miyazaki,50
-Dark Souls III,From Software,Series finale with refined mechanics and boss design,"PC,PS4,Xbox",Hidetaka Miyazaki,35
-Dead Cells,Motion Twin,Metroidvania roguelike with fluid combat progression,"PC,PS4,Switch,Xbox,Mobile",Motion Twin,25
+Dark Souls,From Software,Interconnected world design with challenging combat,"Windows,PS3,Xbox,Switch",Hidetaka Miyazaki,50
+Dark Souls III,From Software,Series finale with refined mechanics and boss design,"Windows,PS4,Xbox",Hidetaka Miyazaki,35
+Dead Cells,Motion Twin,Metroidvania roguelike with fluid combat progression,"Windows,PS4,Switch,Xbox,Mobile",Motion Twin,25
 Demon's Souls,From Software,Punishing action RPG that birthed Souls formula,"PS3,PS5",Hidetaka Miyazaki,40
-Deus Ex,Ion Storm,Cyberpunk conspiracy with player choice,PC,Warren Spector,25
-Deus Ex: Human Revolution,Eidos Montreal,Prequel exploring transhumanism,"PC,PS3,Xbox,Wii U",Jean-François Dugas,25
-Deus Ex: Invisible War,Ion Storm,Sequel with unified ammo system,"PC,Xbox",Warren Spector,15
-Deus Ex: Mankind Divided,Eidos Montreal,Augmented apartheid themes,"PC,PS4,Xbox",Nicolas Cantin,30
+Deus Ex,Ion Storm,Cyberpunk conspiracy with player choice,Windows,Warren Spector,25
+Deus Ex: Human Revolution,Eidos Montreal,Prequel exploring transhumanism,"Windows,PS3,Xbox,Wii U",Jean-François Dugas,25
+Deus Ex: Invisible War,Ion Storm,Sequel with unified ammo system,"Windows,Xbox",Warren Spector,15
+Deus Ex: Mankind Divided,Eidos Montreal,Augmented apartheid themes,"Windows,PS4,Xbox",Nicolas Cantin,30
 Devil Summoner: Raidou Kuzunoha,Atlus,1920s Japan detective with demons,PS2,Shinichiro Takada,30
-Diablo II,Blizzard North,Legendary sequel with five acts and online play,"PC,Mac",David Brevik,30
-Diablo II: Lord of Destruction,Blizzard North,Essential expansion adding two classes and Act V,"PC,Mac",David Brevik,40
-Diablo II: Resurrected,Blizzard,Modern remaster with updated graphics and quality improvements,"PC,PS4,PS5,Switch,Xbox",David Brevik,40
-Diablo III,Blizzard,Controversial sequel with auction house and simplified mechanics,"PC,Mac,PS3,PS4,Xbox,Switch",Jay Wilson,25
-Diablo III: Reaper of Souls,Blizzard,Major expansion fixing core issues with Adventure Mode,"PC,Mac,PS4,Xbox,Switch",Jay Wilson,50
-Diablo Immortal,Blizzard,Mobile entry with MMO elements and controversial monetization,"Mobile,PC",Blizzard Team,100
-Diablo IV,Blizzard,Return to dark atmosphere with open world elements,"PC,PS4,PS5,Xbox",Luis Barriga,45
-DIG: Deep In Galaxies,4Divinity,Space mining and exploration adventure,PC,4Divinity Team,12
+Diablo II,Blizzard North,Legendary sequel with five acts and online play,"Windows,Mac",David Brevik,30
+Diablo II: Lord of Destruction,Blizzard North,Essential expansion adding two classes and Act V,"Windows,Mac",David Brevik,40
+Diablo II: Resurrected,Blizzard,Modern remaster with updated graphics and quality improvements,"Windows,PS4,PS5,Switch,Xbox",David Brevik,40
+Diablo III,Blizzard,Controversial sequel with auction house and simplified mechanics,"Windows,Mac,PS3,PS4,Xbox,Switch",Jay Wilson,25
+Diablo III: Reaper of Souls,Blizzard,Major expansion fixing core issues with Adventure Mode,"Windows,Mac,PS4,Xbox,Switch",Jay Wilson,50
+Diablo Immortal,Blizzard,Mobile entry with MMO elements and controversial monetization,"Mobile,Windows",Blizzard Team,100
+Diablo IV,Blizzard,Return to dark atmosphere with open world elements,"Windows,PS4,PS5,Xbox",Luis Barriga,45
+DIG: Deep In Galaxies,4Divinity,Space mining and exploration adventure,Windows,4Divinity Team,12
 Digimon Story: Cyber Sleuth,Bandai Namco,Modern RPG with digital detective story,"PS4,PS Vita",Kenji Watanabe,50
 Digimon Story: Cyber Sleuth – Hacker's Memory,Bandai Namco,Sequel expanding Cyber Sleuth's story,"PS4,PS Vita",Kenji Watanabe,45
 Digimon Survive,Bandai Namco,Visual novel and tactical RPG hybrid with dark story,"PS4,PS5,Switch",Kazumasa Habu,40
@@ -122,100 +122,100 @@ Digimon World 3,Bandai,Traditional JRPG style with Digimon partners,PS1,Akihiro 
 Digimon World 4,Bandai,Action RPG with cooperative multiplayer,"PS2,Xbox,GameCube",Kenji Watanabe,20
 Digimon World: Next Order,Bandai Namco,Life simulation RPG with two Digimon partners,PS4,Kenji Watanabe,60
 Digital Devil Saga,Atlus,Post-apocalyptic demon transformation duology,PS2,Kazuyuki Yamai,40
-Disco Elysium,ZA/UM,Dialogue-heavy detective RPG with skill-based personality system,"PC,PS4,PS5,Switch,Xbox",Robert Kurvitz,25
-Disco Elysium,ZA/UM,Narrative-heavy detective RPG with no combat,PC,Robert Kurvitz,25
-Disgaea 2: Cursed Memories,Nippon Ichi,Sequel with Adell's quest to save mother,"PS2,PSP,PC",Takehito Harada,80
+Disco Elysium,ZA/UM,Dialogue-heavy detective RPG with skill-based personality system,"Windows,PS4,PS5,Switch,Xbox",Robert Kurvitz,25
+Disco Elysium,ZA/UM,Narrative-heavy detective RPG with no combat,Windows,Robert Kurvitz,25
+Disgaea 2: Cursed Memories,Nippon Ichi,Sequel with Adell's quest to save mother,"PS2,PSP,Windows",Takehito Harada,80
 Disgaea 3: Absence of Justice,Nippon Ichi,Academy-themed tactical RPG with Mao's rebellion,"PS3,Vita",Takehito Harada,80
-Disgaea 4: A Promise Unforgotten,Nippon Ichi,Sardines-powered Valvatorez leads rebellion,"PS3,Vita,PS4,Switch,PC",Takehito Harada,80
-Disgaea 5: Alliance of Vengeance,Nippon Ichi,Killia assembles army against Overlord Void Dark,"PS4,Switch,PC",Takehito Harada,80
-Disgaea 6: Defiance of Destiny,Nippon Ichi,Zed's quest for revenge with auto-battle features,"Switch,PS4,PS5,PC",Takehito Harada,80
-Disgaea 7: Vows of the Virtueless,Nippon Ichi,Fuji and Pirilika's adventure in Hinomoto Netherworld,"Switch,PS4,PS5,PC",Takehito Harada,80
-Disgaea: Hour of Darkness,Nippon Ichi,Over-the-top tactical RPG with level 9999,"PS2,PSP,DS,PC,Switch",Takehito Harada,80
-Dishonored,Bethesda,Stealth-action revenge tale with supernatural powers,PC,Harvey Smith,12
-Dishonored 2,Bethesda,Dual-protagonist stealth adventure,PC,Harvey Smith,15
-Dishonored: Death of the Outsider,Bethesda,Standalone expansion following Billie Lurk,PC,Harvey Smith,8
-Divine Divinity,Larian Studios,Isometric fantasy with freedom exploration,PC,Swen Vincke,100
-Divinity II: The Dragon Knight Saga,Larian Studios,Dragon transformation with mind reading,"PC,Xbox",Swen Vincke,80
-Divinity: Original Sin,Larian Studios,Turn-based tactical with environmental combat,"PC,PS4,Xbox,Switch",Swen Vincke,60
-Divinity: Original Sin 2,Larian Studios,Enhanced sequel with Origin characters,"PC,PS4,Xbox,Switch",Swen Vincke,80
-Divinity: Original Sin Enhanced Edition,Larian Studios,Environmental interaction tactical RPG with co-op storytelling,"PC,PS4,Xbox,Switch",Swen Vincke,60
-Dragon Age II,BioWare,Personal rise to power in Kirkwall,"PC,Xbox,PS3",Mike Laidlaw,35
-Dragon Age: Inquisition,BioWare,Inquisition formation against Breach crisis,"PC,PS3,PS4,Xbox",Mike Laidlaw,90
-Dragon Age: Origins,BioWare,Dark fantasy with origin story system,"PC,Xbox,PS3",David Gaider,50
+Disgaea 4: A Promise Unforgotten,Nippon Ichi,Sardines-powered Valvatorez leads rebellion,"PS3,Vita,PS4,Switch,Windows",Takehito Harada,80
+Disgaea 5: Alliance of Vengeance,Nippon Ichi,Killia assembles army against Overlord Void Dark,"PS4,Switch,Windows",Takehito Harada,80
+Disgaea 6: Defiance of Destiny,Nippon Ichi,Zed's quest for revenge with auto-battle features,"Switch,PS4,PS5,Windows",Takehito Harada,80
+Disgaea 7: Vows of the Virtueless,Nippon Ichi,Fuji and Pirilika's adventure in Hinomoto Netherworld,"Switch,PS4,PS5,Windows",Takehito Harada,80
+Disgaea: Hour of Darkness,Nippon Ichi,Over-the-top tactical RPG with level 9999,"PS2,PSP,DS,Windows,Switch",Takehito Harada,80
+Dishonored,Bethesda,Stealth-action revenge tale with supernatural powers,Windows,Harvey Smith,12
+Dishonored 2,Bethesda,Dual-protagonist stealth adventure,Windows,Harvey Smith,15
+Dishonored: Death of the Outsider,Bethesda,Standalone expansion following Billie Lurk,Windows,Harvey Smith,8
+Divine Divinity,Larian Studios,Isometric fantasy with freedom exploration,Windows,Swen Vincke,100
+Divinity II: The Dragon Knight Saga,Larian Studios,Dragon transformation with mind reading,"Windows,Xbox",Swen Vincke,80
+Divinity: Original Sin,Larian Studios,Turn-based tactical with environmental combat,"Windows,PS4,Xbox,Switch",Swen Vincke,60
+Divinity: Original Sin 2,Larian Studios,Enhanced sequel with Origin characters,"Windows,PS4,Xbox,Switch",Swen Vincke,80
+Divinity: Original Sin Enhanced Edition,Larian Studios,Environmental interaction tactical RPG with co-op storytelling,"Windows,PS4,Xbox,Switch",Swen Vincke,60
+Dragon Age II,BioWare,Personal rise to power in Kirkwall,"Windows,Xbox,PS3",Mike Laidlaw,35
+Dragon Age: Inquisition,BioWare,Inquisition formation against Breach crisis,"Windows,PS3,PS4,Xbox",Mike Laidlaw,90
+Dragon Age: Origins,BioWare,Dark fantasy with origin story system,"Windows,Xbox,PS3",David Gaider,50
 Dragon Force,J-Force,Large-scale tactical RPG with kingdom conquest,Saturn,Shinji Hosoe,60
-Dragon Quest Builders,Square Enix,Sandbox RPG blending building and dungeon exploration,"PS4,PS3,Switch,PC,Mobile",Kensuke Nakahara,60
+Dragon Quest Builders,Square Enix,Sandbox RPG blending building and dungeon exploration,"PS4,PS3,Switch,Windows,Mobile",Kensuke Nakahara,60
 Dragon Quest VIII,Square Enix,3D cel-shaded traditional JRPG,"PS2,3DS,Mobile",Yuji Horii,80
 Dragon Warrior,Enix,Original Dragon Quest that started the JRPG genre in the West,"NES,GBC,Mobile",Yuji Horii,8
 Dragon Warrior II,Enix,First party-based Dragon Quest with multiple party members,"NES,GBC,Mobile",Yuji Horii,12
 Dragon Warrior III,Enix,Job system introduction with Erdrick's legendary adventure,"NES,GBC,SNES,Mobile",Yuji Horii,25
 Dragon Warrior IV,Enix,Chapter-based storytelling with Chosen One prophecy,"NES,PS1,DS,Mobile",Yuji Horii,30
-Dragon's Dogma,Capcom,Climbing large monsters with pawn companion system,"PC,PS3,PS4,Xbox,Switch",Hideaki Itsuno,40
-Dragon's Dogma 2,Capcom,Sequel built on RE Engine featuring enhanced AI companions open-world design and deep vocation-based combat,"PC,PS5,Xbox Series X",Hideaki Itsuno,50
-Dragon's Dogma: Dark Arisen,Capcom,Expanded version of the original game with new content areas and performance improvements,"PC,PS4,Xbox One,Switch",Hideaki Itsuno,50
-Dungeon Keeper,Electronic Arts,Strategy RPG where you build and defend your own dungeon,PC,Peter Molyneux,50
+Dragon's Dogma,CaWindowsom,Climbing large monsters with pawn companion system,"Windows,PS3,PS4,Xbox,Switch",Hideaki Itsuno,40
+Dragon's Dogma 2,CaWindowsom,Sequel built on RE Engine featuring enhanced AI companions open-world design and deep vocation-based combat,"Windows,PS5,Xbox Series X",Hideaki Itsuno,50
+Dragon's Dogma: Dark Arisen,CaWindowsom,Expanded version of the original game with new content areas and performance improvements,"Windows,PS4,Xbox One,Switch",Hideaki Itsuno,50
+Dungeon Keeper,Electronic Arts,Strategy RPG where you build and defend your own dungeon,Windows,Peter Molyneux,50
 Dungeon Maker,Agetec,Dungeon-building RPG focused on designing dungeons and managing adventurers,PSP,Kenji Eno,30
 Dynasty Warriors,Koei,Original fighting game based on Romance of the Three Kingdoms,PS1,Keiichiro Toyama,5
 Dynasty Warriors 2,Koei,First musou-style hack and slash gameplay,PS2,Toshihiro Nagoshi,15
-Dynasty Warriors 3,Koei,Expanded roster and refined musou mechanics,"PS2,Xbox,PC",Toshihiro Nagoshi,20
-Dynasty Warriors 4,Koei,Added more characters and weapon systems,"PS2,Xbox,PC",Toshihiro Nagoshi,25
-Dynasty Warriors 4: Empires,Koei,Strategic empire building variant,"PS2,Xbox,PC",Toshihiro Nagoshi,30
-Dynasty Warriors 4: Xtreme Legends,Koei,Expansion with new modes and characters,"PS2,Xbox,PC",Toshihiro Nagoshi,15
-Dynasty Warriors 5,Koei,Visual overhaul with new combo system,"PS2,Xbox,PSP,PC",Toshihiro Nagoshi,25
-Dynasty Warriors 5: Empires,Koei,Empire mode with enhanced strategy elements,"PS2,Xbox,PSP,PC",Toshihiro Nagoshi,35
-Dynasty Warriors 5: Xtreme Legends,Koei,Expansion adding new storylines,"PS2,Xbox,PSP,PC",Toshihiro Nagoshi,15
-Dynasty Warriors 6,Koei,Renbu system and swimming mechanics,"PS3,Xbox 360,PC,PS2",Toshihiro Nagoshi,20
-Dynasty Warriors 6: Empires,Koei,Strategic conquest with new politics system,"PS3,Xbox 360,PC",Toshihiro Nagoshi,30
-Dynasty Warriors 7,Koei,Story mode restructure with weapon switching,"PS3,Xbox 360,PC",Toshihiro Nagoshi,35
-Dynasty Warriors 7: Empires,Koei,Enhanced empire building with character creation,"PS3,Xbox 360,PC",Toshihiro Nagoshi,40
-Dynasty Warriors 7: Xtreme Legends,Koei,Additional kingdoms and characters,"PS3,Xbox 360,PC,PSP,Vita",Toshihiro Nagoshi,20
-Dynasty Warriors 8,Koei,Hypothetical scenarios and largest character roster,"PS3,PS4,Xbox 360,Xbox One,PC,Vita,PSP",Toshihiro Nagoshi,40
-Dynasty Warriors 8: Empires,Koei,Marriage system and advanced empire mode,"PS3,PS4,Xbox One,PC,Vita",Toshihiro Nagoshi,45
-Dynasty Warriors 8: Xtreme Legends,Koei,Lu Bu storyline and additional content,"PS3,PS4,Xbox One,PC,Vita",Toshihiro Nagoshi,25
-Dynasty Warriors 9,Koei Tecmo,Open world exploration with weapon crafting,"PS4,Xbox One,PC,Switch",Toshihiro Nagoshi,50
-Dynasty Warriors 9: Empires,Koei Tecmo,Open world empire building,"PS4,PS5,Xbox One,PC,Switch",Toshihiro Nagoshi,55
+Dynasty Warriors 3,Koei,Expanded roster and refined musou mechanics,"PS2,Xbox,Windows",Toshihiro Nagoshi,20
+Dynasty Warriors 4,Koei,Added more characters and weapon systems,"PS2,Xbox,Windows",Toshihiro Nagoshi,25
+Dynasty Warriors 4: Empires,Koei,Strategic empire building variant,"PS2,Xbox,Windows",Toshihiro Nagoshi,30
+Dynasty Warriors 4: Xtreme Legends,Koei,Expansion with new modes and characters,"PS2,Xbox,Windows",Toshihiro Nagoshi,15
+Dynasty Warriors 5,Koei,Visual overhaul with new combo system,"PS2,Xbox,PSP,Windows",Toshihiro Nagoshi,25
+Dynasty Warriors 5: Empires,Koei,Empire mode with enhanced strategy elements,"PS2,Xbox,PSP,Windows",Toshihiro Nagoshi,35
+Dynasty Warriors 5: Xtreme Legends,Koei,Expansion adding new storylines,"PS2,Xbox,PSP,Windows",Toshihiro Nagoshi,15
+Dynasty Warriors 6,Koei,Renbu system and swimming mechanics,"PS3,Xbox 360,Windows,PS2",Toshihiro Nagoshi,20
+Dynasty Warriors 6: Empires,Koei,Strategic conquest with new politics system,"PS3,Xbox 360,Windows",Toshihiro Nagoshi,30
+Dynasty Warriors 7,Koei,Story mode restructure with weapon switching,"PS3,Xbox 360,Windows",Toshihiro Nagoshi,35
+Dynasty Warriors 7: Empires,Koei,Enhanced empire building with character creation,"PS3,Xbox 360,Windows",Toshihiro Nagoshi,40
+Dynasty Warriors 7: Xtreme Legends,Koei,Additional kingdoms and characters,"PS3,Xbox 360,Windows,PSP,Vita",Toshihiro Nagoshi,20
+Dynasty Warriors 8,Koei,Hypothetical scenarios and largest character roster,"PS3,PS4,Xbox 360,Xbox One,Windows,Vita,PSP",Toshihiro Nagoshi,40
+Dynasty Warriors 8: Empires,Koei,Marriage system and advanced empire mode,"PS3,PS4,Xbox One,Windows,Vita",Toshihiro Nagoshi,45
+Dynasty Warriors 8: Xtreme Legends,Koei,Lu Bu storyline and additional content,"PS3,PS4,Xbox One,Windows,Vita",Toshihiro Nagoshi,25
+Dynasty Warriors 9,Koei Tecmo,Open world exploration with weapon crafting,"PS4,Xbox One,Windows,Switch",Toshihiro Nagoshi,50
+Dynasty Warriors 9: Empires,Koei Tecmo,Open world empire building,"PS4,PS5,Xbox One,Windows,Switch",Toshihiro Nagoshi,55
 Dynasty Warriors: Gundam,Koei,Crossover featuring Mobile Suit Gundam series,"PS3,Xbox 360",Toshihiro Nagoshi,15
 Dynasty Warriors: Gundam 2,Koei,Expanded Gundam roster and new modes,"PS3,Xbox 360",Toshihiro Nagoshi,20
 Dynasty Warriors: Gundam 3,Koei,Third Gundam crossover with enhanced graphics,PS3,Toshihiro Nagoshi,25
 Dynasty Warriors: Gundam Reborn,Koei Tecmo,Fourth Gundam entry with space battles,PS3,Toshihiro Nagoshi,30
 EarthBound,Nintendo,Quirky modern-day RPG with psychic powers,"SNES,GBA,3DS,Switch",Shigesato Itoi,30
-Eastern Exorcist,Wildfire Game,Side-scrolling action RPG with Eastern mythology,PC,Wildfire Team,15
-Eastward,Pixpil,Post-apocalyptic pixel-art RPG with emotional storytelling,"PC,Switch",Mike Ahn,25
-Elden Ring,From Software,Open-world Souls with George R.R. Martin collaboration,"PC,PS4,PS5,Xbox",Hidetaka Miyazaki,70
-Elona,Nogame,Indie roguelike RPG with dungeon modifications and trap creation,PC,No specific director,50
-Encased,Dark Crystal Games,Retro sci-fi isometric RPG inspired by Fallout,PC,Dan Iliev,50
+Eastern Exorcist,Wildfire Game,Side-scrolling action RPG with Eastern mythology,Windows,Wildfire Team,15
+Eastward,Pixpil,Post-apocalyptic pixel-art RPG with emotional storytelling,"Windows,Switch",Mike Ahn,25
+Elden Ring,From Software,Open-world Souls with George R.R. Martin collaboration,"Windows,PS4,PS5,Xbox",Hidetaka Miyazaki,70
+Elona,Nogame,Indie roguelike RPG with dungeon modifications and trap creation,Windows,No specific director,50
+Encased,Dark Crystal Games,Retro sci-fi isometric RPG inspired by Fallout,Windows,Dan Iliev,50
 Etrian Odyssey,Atlus,Hardcore dungeon crawler with player-drawn mapping,DS,Mitsutoshi Kaneda,50
-Euro Truck Simulator 2,SCS Software,Trucking simulation with business management and skill progression,PC,Pavel Šebor,200
+Euro Truck Simulator 2,SCS Software,Trucking simulation with business management and skill progression,Windows,Pavel Šebor,200
 Evolution: The World of Sacred Device,Sting,Dungeon-crawling RPG with relic hunting,Dreamcast,Shinji Hosoe,40
-Expeditions: Viking,Logic Artists,Historical RPG with tactical combat and exploration,PC,Jonas Wåhlin,35
-Fable,Lionhead Studios,Moral choice system with aging hero,"PC,Xbox",Peter Molyneux,25
+Expeditions: Viking,Logic Artists,Historical RPG with tactical combat and exploration,Windows,Jonas Wåhlin,35
+Fable,Lionhead Studios,Moral choice system with aging hero,"Windows,Xbox",Peter Molyneux,25
 Fable II,Lionhead Studios,Dog companion with expression system,Xbox 360,Peter Molyneux,30
-Fable III,Lionhead Studios,Industrial revolution with kingdom rule,"PC,Xbox 360",Peter Molyneux,25
-Fallout 3,Bethesda,Post-nuclear Capital Wasteland exploration,"PC,Xbox,PS3",Todd Howard,50
-Fallout 4,Bethesda,Settlement building in post-war Boston,"PC,PS4,Xbox One",Todd Howard,80
-Fallout: New Vegas,Obsidian,Western post-apocalyptic with faction warfare,"PC,Xbox,PS3",Josh Sawyer,60
+Fable III,Lionhead Studios,Industrial revolution with kingdom rule,"Windows,Xbox 360",Peter Molyneux,25
+Fallout 3,Bethesda,Post-nuclear Capital Wasteland exploration,"Windows,Xbox,PS3",Todd Howard,50
+Fallout 4,Bethesda,Settlement building in post-war Boston,"Windows,PS4,Xbox One",Todd Howard,80
+Fallout: New Vegas,Obsidian,Western post-apocalyptic with faction warfare,"Windows,Xbox,PS3",Josh Sawyer,60
 Fantasy Life,Nintendo,Life simulation RPG where players can choose from various jobs and lifestyles,3DS,Akihiro Hino,50
-Farming Simulator 22,Giants Software,Realistic farming simulation with career progression,"PC,PS4,PS5,Xbox One,Xbox Series",Christian Ammann,150
+Farming Simulator 22,Giants Software,Realistic farming simulation with career progression,"Windows,PS4,PS5,Xbox One,Xbox Series",Christian Ammann,150
 Final Fantasy,Square,Four Warriors of Light save the world from Garland and Chaos,"NES,PSP,GBA,Mobile",Hironobu Sakaguchi,12
 Final Fantasy II,Square,Stat growth through usage system with rebel alliance story,"NES,PSP,GBA,Mobile",Hironobu Sakaguchi,25
-Final Fantasy III,Square,Original job system with Onion Knights and floating continent,"NES,DS,PSP,PC,Mobile",Hironobu Sakaguchi,25
-Final Fantasy IV,Square,Cecil's redemption story with Active Time Battle system,"SNES,PS1,GBA,DS,PSP,PC",Hironobu Sakaguchi,25
-Final Fantasy IX,Square,Return to fantasy roots with existential themes,"PS1,PC,PS4,Switch,Xbox",Hironobu Sakaguchi,40
+Final Fantasy III,Square,Original job system with Onion Knights and floating continent,"NES,DS,PSP,Windows,Mobile",Hironobu Sakaguchi,25
+Final Fantasy IV,Square,Cecil's redemption story with Active Time Battle system,"SNES,PS1,GBA,DS,PSP,Windows",Hironobu Sakaguchi,25
+Final Fantasy IX,Square,Return to fantasy roots with existential themes,"PS1,Windows,PS4,Switch,Xbox",Hironobu Sakaguchi,40
 Final Fantasy Tactics,Square,Political intrigue tactical masterpiece with job system depth,"PS1,PSP,Mobile,Switch",Yasumi Matsuno,60
 Final Fantasy Tactics A2: Grimoire of the Rift,Square Enix,Enhanced sequel with expanded job system and quest-based gameplay,DS,Takashi Tokita,60
 Final Fantasy Tactics Advance,Square Enix,Tactical RPG set in magical Ivalice with clan-based gameplay,GBA,Takashi Tokita,50
-Final Fantasy V,Square,Job system perfection with Bartz and crystal shard adventure,"SNES,PS1,GBA,PC,Mobile",Hironobu Sakaguchi,30
-Final Fantasy VI,Square,Ensemble cast epic with Kefka's world destruction,"SNES,PS1,GBA,PC,Mobile",Hironobu Sakaguchi,35
-Final Fantasy VII,Square,3D JRPG revolution with Cloud vs Sephiroth,"PS1,PC,Switch,PS4,Xbox",Yoshinori Kitase,40
-Final Fantasy VIII,Square,Junction system with SeeD academy and time compression,"PS1,PC,PS4,Switch,Xbox",Yoshinori Kitase,50
-Final Fantasy X,Square,First fully voiced FF with Sphere Grid system,"PS2,PS3,PS4,PC,Switch,Vita",Motomu Toriyama,45
-Final Fantasy X-2,Square,Yuna's sequel with job-changing Dresspheres,"PS2,PS3,PS4,PC,Switch,Vita",Motomu Toriyama,30
-Final Fantasy XI,Square Enix,First MMO Final Fantasy with persistent online world,"PS2,PC,Xbox 360",Hiromichi Tanaka,200
-Final Fantasy XII,Square Enix,Political fantasy with Gambit system,"PS2,PS4,PC,Switch,Xbox",Hiroyuki Ito,60
-Final Fantasy XIII,Square Enix,Linear narrative with Paradigm Shift combat system,"PS3,Xbox 360,PC,Mobile",Motomu Toriyama,50
-Final Fantasy XIII-2,Square Enix,Time-traveling sequel with monster recruitment,"PS3,Xbox 360,PC,Mobile",Motomu Toriyama,35
-Final Fantasy XIV,Square Enix,Reborn MMO with rich story and social features,"PS3,PS4,PS5,PC,Mac",Naoki Yoshida,300
-Final Fantasy XV,Square Enix,Road trip fantasy with real-time combat,"PS4,Xbox One,PC,Mobile",Hajime Tabata,28
-Final Fantasy XVI,Square Enix,Medieval fantasy with Eikon summons and action combat,"PS5,PC",Hiroshi Takai,35
+Final Fantasy V,Square,Job system perfection with Bartz and crystal shard adventure,"SNES,PS1,GBA,Windows,Mobile",Hironobu Sakaguchi,30
+Final Fantasy VI,Square,Ensemble cast epic with Kefka's world destruction,"SNES,PS1,GBA,Windows,Mobile",Hironobu Sakaguchi,35
+Final Fantasy VII,Square,3D JRPG revolution with Cloud vs Sephiroth,"PS1,Windows,Switch,PS4,Xbox",Yoshinori Kitase,40
+Final Fantasy VIII,Square,Junction system with SeeD academy and time compression,"PS1,Windows,PS4,Switch,Xbox",Yoshinori Kitase,50
+Final Fantasy X,Square,First fully voiced FF with Sphere Grid system,"PS2,PS3,PS4,Windows,Switch,Vita",Motomu Toriyama,45
+Final Fantasy X-2,Square,Yuna's sequel with job-changing Dresspheres,"PS2,PS3,PS4,Windows,Switch,Vita",Motomu Toriyama,30
+Final Fantasy XI,Square Enix,First MMO Final Fantasy with persistent online world,"PS2,Windows,Xbox 360",Hiromichi Tanaka,200
+Final Fantasy XII,Square Enix,Political fantasy with Gambit system,"PS2,PS4,Windows,Switch,Xbox",Hiroyuki Ito,60
+Final Fantasy XIII,Square Enix,Linear narrative with Paradigm Shift combat system,"PS3,Xbox 360,Windows,Mobile",Motomu Toriyama,50
+Final Fantasy XIII-2,Square Enix,Time-traveling sequel with monster recruitment,"PS3,Xbox 360,Windows,Mobile",Motomu Toriyama,35
+Final Fantasy XIV,Square Enix,Reborn MMO with rich story and social features,"PS3,PS4,PS5,Windows,Mac",Naoki Yoshida,300
+Final Fantasy XV,Square Enix,Road trip fantasy with real-time combat,"PS4,Xbox One,Windows,Mobile",Hajime Tabata,28
+Final Fantasy XVI,Square Enix,Medieval fantasy with Eikon summons and action combat,"PS5,Windows",Hiroshi Takai,35
 Fire Emblem Engage,Nintendo,Anniversary title featuring heroes from past games,Switch,Takahiro Fujioka,60
 Fire Emblem Fates: Birthright,Nintendo,Accessible route with defensive missions,"3DS,Switch",Masahiro Higuchi,40
 Fire Emblem Fates: Conquest,Nintendo,Challenging route with complex objectives,"3DS,Switch",Masahiro Higuchi,40
@@ -238,76 +238,76 @@ Fire Emblem: The Sacred Stones,Nintendo,Standalone story with branching promotio
 Fire Emblem: Thracia 776,Nintendo,Challenging interquel with capture mechanics,Super Famicom,Toshiyuki Kusakihara,35
 Fire Emblem: Three Houses,Nintendo,Academy life simulation meets strategic warfare,Switch,Takahiro Fujioka,80
 Front Mission,Square,Tactical mecha RPG with political intrigue and customizable Wanzers,"SNES,DS,PSP,PS1",Yoshifumi Hasegawa,30
-Front Mission 1st: Remake,Square Enix,Modern remake with updated visuals and quality improvements,"Switch,PC,PS4,PS5",Hiroshi Tamada,30
+Front Mission 1st: Remake,Square Enix,Modern remake with updated visuals and quality improvements,"Switch,Windows,PS4,PS5",Hiroshi Tamada,30
 Front Mission 2089-II: Neo,Square Enix,Mobile sequel with enhanced graphics and systems,Mobile,Kenji Tokuda,18
 Front Mission 2089: Border of Madness,Square Enix,Mobile entry with simplified tactical gameplay,Mobile,Kenji Tokuda,15
 Front Mission 2: Replica Keepers,Square,Prequel with improved mechanics and deeper customization,PS1,Yoshifumi Hasegawa,35
 Front Mission 3,Square,Dual scenario paths with internet simulation and Emma storyline,"PS1,PSP",Yoshifumi Hasegawa,50
 Front Mission 4,Square Enix,Dual protagonist story across Venezuela and Europe conflicts,PS2,Yoshifumi Hasegawa,45
 Front Mission 5: Scars of the War,Square Enix,Japan-exclusive entry with refined tactical combat,PS2,Yoshifumi Hasegawa,40
-Front Mission Alternative,Square,Real-time strategy spin-off focusing on large-scale battles,PC,Yoshifumi Hasegawa,20
-Front Mission Evolved,Square Enix,Third-person action reboot departing from tactical roots,"PC,PS3,Xbox",Yoshifumi Hasegawa,8
-Front Mission Online,Square Enix,Massively multiplayer tactical combat with persistent world,PC,Yoshifumi Hasegawa,100
+Front Mission Alternative,Square,Real-time strategy spin-off focusing on large-scale battles,Windows,Yoshifumi Hasegawa,20
+Front Mission Evolved,Square Enix,Third-person action reboot departing from tactical roots,"Windows,PS3,Xbox",Yoshifumi Hasegawa,8
+Front Mission Online,Square Enix,Massively multiplayer tactical combat with persistent world,Windows,Yoshifumi Hasegawa,100
 Front Mission: Gun Hazard,Square,Side-scrolling action RPG spin-off with real-time mecha combat,SNES,Kenji Tokuda,12
 Front Mission: The First,Square Enix,Enhanced remake of original with voice acting,DS,Hiroshi Tamada,30
-FTL: Faster Than Light,Subset Games,Spaceship management roguelike with crew permadeath,"PC,Mobile",Justin Ma,20
+FTL: Faster Than Light,Subset Games,Spaceship management roguelike with crew permadeath,"Windows,Mobile",Justin Ma,20
 Ghost of Tsushima,Sucker Punch Productions / Sony,Open-world samurai action-adventure set during the Mongol invasion of Tsushima blending stealth and cinematic swordplay,"PS4,PS5",Nate Fox,25
 Golden Sun,Camelot,Puzzle-heavy adventure JRPG with Djinn summoning system,GBA,Shugo Takahashi,30
 Golden Sun: Dark Dawn,Camelot,Next generation sequel with touch screen puzzle mechanics,DS,Shugo Takahashi,35
 Golden Sun: The Lost Age,Camelot,Epic sequel doubling world size with ship exploration,GBA,Shugo Takahashi,40
-Gothic,Piranha Bytes,Immersive prison colony atmosphere,PC,Michael Hoge,60
-Gothic II,Piranha Bytes,Expanded world with improved systems,PC,Michael Hoge,80
-Gothic III,Piranha Bytes,Large-scale sequel with technical issues,PC,Michael Hoge,100
-Grandia,Game Arts,Coming-of-age adventure with innovative combat timing,"PS1,Saturn,PC,Switch",Masashi Matsumoto,50
-Grandia II,Game Arts,Religious themes with Ryudo's cynical journey,"Dreamcast,PS2,PC",Masashi Matsumoto,40
+Gothic,Piranha Bytes,Immersive prison colony atmosphere,Windows,Michael Hoge,60
+Gothic II,Piranha Bytes,Expanded world with improved systems,Windows,Michael Hoge,80
+Gothic III,Piranha Bytes,Large-scale sequel with technical issues,Windows,Michael Hoge,100
+Grandia,Game Arts,Coming-of-age adventure with innovative combat timing,"PS1,Saturn,Windows,Switch",Masashi Matsumoto,50
+Grandia II,Game Arts,Religious themes with Ryudo's cynical journey,"Dreamcast,PS2,Windows",Masashi Matsumoto,40
 Grandia III,Game Arts,Aerial adventure with refined combat system,PS2,Masashi Matsumoto,60
 Grandia Xtreme,Game Arts,Dungeon-focused entry with extreme combat,PS2,Masashi Matsumoto,40
 GrimGrimoire,Vanillaware,Real-time strategy RPG with magic academy setting,PS2,Yukio Futatsugi,25
-Grounded,Obsidian Entertainment,Honey I Shrunk the Kids survival with RPG elements,"PC,Xbox One,Xbox Series",Adam Brennecke,30
-Hades,Supergiant Games,Narrative roguelike with Greek mythology and relationship building,"PC,PS4,PS5,Switch,Xbox",Greg Kasavin,30
-Hades II,Supergiant Games,Sequel to Hades featuring Melinoë in early access,"PC,PS5,Xbox Series X/S",Greg Kasavin,30
-Hollow Knight,Team Cherry,Metroidvania with challenging combat and atmospheric exploration,"PC,PS4,Switch,Xbox",William Pellen,30
-Honkai: Star Rail,HoYoverse,Turn-based space RPG with gacha elements,PC,Da Wei,100
+Grounded,Obsidian Entertainment,Honey I Shrunk the Kids survival with RPG elements,"Windows,Xbox One,Xbox Series",Adam Brennecke,30
+Hades,Supergiant Games,Narrative roguelike with Greek mythology and relationship building,"Windows,PS4,PS5,Switch,Xbox",Greg Kasavin,30
+Hades II,Supergiant Games,Sequel to Hades featuring Melinoë in early access,"Windows,PS5,Xbox Series X/S",Greg Kasavin,30
+Hollow Knight,Team Cherry,Metroidvania with challenging combat and atmospheric exploration,"Windows,PS4,Switch,Xbox",William Pellen,30
+Honkai: Star Rail,HoYoverse,Turn-based space RPG with gacha elements,Windows,Da Wei,100
 Horizon Call of the Mountain,Sony,VR adventure featuring climbing and archery,PS VR2,Mathijs de Jonge,8
 Horizon Forbidden West,Sony,Western expansion with new machine types,PS5,Mathijs de Jonge,30
 Horizon Forbidden West: Burning Shores,Sony,Sky Islands DLC expansion,PS5,Mathijs de Jonge,6
 Horizon Zero Dawn,Sony,Post-apocalyptic robot hunting adventure,PS4,Mathijs de Jonge,25
 Horizon Zero Dawn: The Frozen Wilds,Sony,DLC expansion with new region and machines,PS4,Mathijs de Jonge,8
-House Flipper,Empyrean,House renovation simulation with skill progression,"PC,PS4,PS5,Xbox One,Xbox Series,Switch",Michał Śmigiel,40
-Hyper Light Drifter,Heart Machine,Pixel-art action RPG with wordless storytelling,"PC,PS4,Switch,Xbox,Vita,Mobile",Alex Preston,8
+House Flipper,Empyrean,House renovation simulation with skill progression,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch",Michał Śmigiel,40
+Hyper Light Drifter,Heart Machine,Pixel-art action RPG with wordless storytelling,"Windows,PS4,Switch,Xbox,Vita,Mobile",Alex Preston,8
 Hyrule Warriors,Koei Tecmo,Legend of Zelda crossover with musou gameplay,"Wii U,3DS,Switch",Takashi Morimoto,25
-Icewind Dale,Black Isle,Combat-focused D&D in frozen north,"PC,Mobile,Switch",Brian Fargo,40
-Icewind Dale II,Black Isle,3rd edition D&D sequel,PC,Brian Fargo,50
+Icewind Dale,Black Isle,Combat-focused D&D in frozen north,"Windows,Mobile,Switch",Brian Fargo,40
+Icewind Dale II,Black Isle,3rd edition D&D sequel,Windows,Brian Fargo,50
 ICO,Sony,Atmospheric puzzle-platformer focused on the bond between a boy and a mysterious girl as they escape a castle,"PS2,PS3",Fumito Ueda,6
 Illusion of Gaia,Enix,Adventure RPG with real-world locations and ancient mysteries,SNES,Yoshinori Kobayashi,20
-In Stars and Time,insertdisc5,Time-loop RPG about friendship and identity,PC,Adrienne Bazir,25
-Jade Empire,BioWare,Martial arts fantasy in mythical China,"PC,Xbox",Ray Muzyka,25
+In Stars and Time,insertdisc5,Time-loop RPG about friendship and identity,Windows,Adrienne Bazir,25
+Jade Empire,BioWare,Martial arts fantasy in mythical China,"Windows,Xbox",Ray Muzyka,25
 Jeanne d'Arc,Sony Computer Entertainment,Tactical RPG reimagining Joan of Arc's story with fantasy elements and grid-based combat,PSP,Akihiro Hino,40
-King of Dragon Pass,A Sharp,Tribal management RPG with narrative choices,"PC,Mobile",D. D. R. Sharp,30
-Kingdom Come: Deliverance,Warhorse Studios,Realistic medieval Bohemia,"PC,PS4,Xbox,Switch",Daniel Vávra,60
-Kingdom Hearts,Square,Disney crossover action RPG,"PS2,PS3,PS4,Xbox,PC",Tetsuya Nomura,35
-Kingdom Hearts 3D: Dream Drop Distance,Square Enix,Dual reality system with dream worlds,"3DS,PS4,Xbox,PC",Tetsuya Nomura,30
-Kingdom Hearts II,Square Enix,Organization XIII storyline with improved combat,"PS2,PS3,PS4,Xbox,PC",Tetsuya Nomura,40
-Kingdom Hearts III,Square Enix,Long-awaited conclusion to Dark Seeker Saga,"PS4,Xbox,PC",Tetsuya Nomura,35
-Kingdom Hearts: Birth by Sleep,Square Enix,Prequel with three protagonists,"PSP,PS3,PS4,Xbox,PC",Tetsuya Nomura,35
+King of Dragon Pass,A Sharp,Tribal management RPG with narrative choices,"Windows,Mobile",D. D. R. Sharp,30
+Kingdom Come: Deliverance,Warhorse Studios,Realistic medieval Bohemia,"Windows,PS4,Xbox,Switch",Daniel Vávra,60
+Kingdom Hearts,Square,Disney crossover action RPG,"PS2,PS3,PS4,Xbox,Windows",Tetsuya Nomura,35
+Kingdom Hearts 3D: Dream Drop Distance,Square Enix,Dual reality system with dream worlds,"3DS,PS4,Xbox,Windows",Tetsuya Nomura,30
+Kingdom Hearts II,Square Enix,Organization XIII storyline with improved combat,"PS2,PS3,PS4,Xbox,Windows",Tetsuya Nomura,40
+Kingdom Hearts III,Square Enix,Long-awaited conclusion to Dark Seeker Saga,"PS4,Xbox,Windows",Tetsuya Nomura,35
+Kingdom Hearts: Birth by Sleep,Square Enix,Prequel with three protagonists,"PSP,PS3,PS4,Xbox,Windows",Tetsuya Nomura,35
 Kingdom Hearts: Chain of Memories,Square Enix,Card-based combat system sequel,"GBA,PS2,PS3,PS4",Tetsuya Nomura,25
 La Pucelle: Tactics,Nippon Ichi,Tactical RPG with demon purification theme,"PS2,PSP",Masahiro Yamamoto,60
 Legend of Legaia,Sony,Martial arts combat with symbiotic creature system,PS1,Kiyoshi Yoshii,45
-Legend of Mana,Square,Non-linear Mana series entry with land creation,"PS1,PS4,Switch,PC",Koichi Ishii,25
-Lego Horizon Adventures,Sony,Family-friendly Lego adaptation of Zero Dawn,PC,James Windeler,7
-Lies of P,NEOWIZ / Round8 Studio,Souls-like action RPG inspired by the story of Pinocchio featuring dark steampunk aesthetics weapon customization and branching narratives,"PC,PS4,PS5,Xbox",Neowiz Round8 Team,30
-Lightning Returns: Final Fantasy XIII,Square Enix,Time-limit conclusion with solo Lightning gameplay,"PS3,Xbox 360,PC",Motomu Toriyama,25
+Legend of Mana,Square,Non-linear Mana series entry with land creation,"PS1,PS4,Switch,Windows",Koichi Ishii,25
+Lego Horizon Adventures,Sony,Family-friendly Lego adaptation of Zero Dawn,Windows,James Windeler,7
+Lies of P,NEOWIZ / Round8 Studio,Souls-like action RPG inspired by the story of Pinocchio featuring dark steampunk aesthetics weapon customization and branching narratives,"Windows,PS4,PS5,Xbox",Neowiz Round8 Team,30
+Lightning Returns: Final Fantasy XIII,Square Enix,Time-limit conclusion with solo Lightning gameplay,"PS3,Xbox 360,Windows",Motomu Toriyama,25
 Like a Dragon: Infinite Wealth,Sega,Hawaiian adventure continuing Ichiban's story,PS5,Ryu Ga Gotoku Studio,50
-Lisa: The Painful,Dingaling Productions,Post-apocalyptic RPG with sacrifice-based choices,"PC,Switch",Dingaling Team,15
+Lisa: The Painful,Dingaling Productions,Post-apocalyptic RPG with sacrifice-based choices,"Windows,Switch",Dingaling Team,15
 Live A Live,Square,Anthology RPG across multiple time periods,"SNES,Switch",Takashi Tokita,25
 Lufia & The Fortress of Doom,Taito,Traditional JRPG with puzzle dungeons,SNES,Kazuyuki Yamai,25
 Lufia II: Rise of the Sinistrals,Taito,Prequel with improved mechanics and Ancient Cave,"SNES,GBA,DS",Kazuyuki Yamai,35
-Makai Kingdom,Nippon Ichi,Vehicle-based tactical RPG with overlord theme,"PS2,PSP,PC,Switch",Masahiro Yamamoto,40
+Makai Kingdom,Nippon Ichi,Vehicle-based tactical RPG with overlord theme,"PS2,PSP,Windows,Switch",Masahiro Yamamoto,40
 Mario & Luigi: Superstar Saga,Nintendo,Comedic action RPG with timed button mechanics,"GBA,3DS",Yoshihiko Maekawa,20
-Mass Effect,BioWare,Space opera beginning Shepard's journey,"PC,Xbox,PS3",Casey Hudson,20
-Mass Effect 2,BioWare,Suicide mission with character focus,"PC,Xbox,PS3",Casey Hudson,30
-Mass Effect 3,BioWare,Reaper invasion trilogy conclusion,"PC,Xbox,PS3,Wii U",Casey Hudson,25
-Mass Effect: Andromeda,BioWare,New galaxy exploration adventure,"PC,PS4,Xbox One",Casey Hudson,60
+Mass Effect,BioWare,Space opera beginning Shepard's journey,"Windows,Xbox,PS3",Casey Hudson,20
+Mass Effect 2,BioWare,Suicide mission with character focus,"Windows,Xbox,PS3",Casey Hudson,30
+Mass Effect 3,BioWare,Reaper invasion trilogy conclusion,"Windows,Xbox,PS3,Wii U",Casey Hudson,25
+Mass Effect: Andromeda,BioWare,New galaxy exploration adventure,"Windows,PS4,Xbox One",Casey Hudson,60
 Medabots AX: Metabee and Rokusho,Natsume Inc.,Side‑view fighting platformer spin‑off with basic RPG elements,GBA,Katsuhiro Harada,6
 Medabots Infinity,Natsume Inc.,3D action‑RPG with multiplayer and link-up features,GameCube,Katsuhiro Harada,10
 Medabots: Metabee and Rokusho (Medarot 2 remake),Imagineer/Natsume,GBA RPG remake of Medarot 2 featuring Metabee and Rokusho,"GBA,Wii U",Katsuhiro Harada,25
@@ -320,39 +320,39 @@ Medarot DS (Kabuto/Kuwagata),Rocket Company,Return to the numbered RPG series wi
 Medarot Dual (Kabuto/Kuwagata),Rocket Company,Real-time 3D arena battler with action combat and upgrades,3DS,Kenji Matsubara,8
 Medarot Girls Mission,Rocket Company,Character-based combat game with school setting and fanservice tone,3DS,Kenji Matsubara,10
 Medarot S: Unlimited Nova,Rocket Company,Free-to-play mobile RPG with gacha mechanics and online battles,Mobile,Kenji Matsubara,60
-Mega Man Battle Network,Capcom,Real-time grid combat RPG with virus deletion and chip system,GBA,Keiji Inafune,20
-Mega Man Battle Network 2,Capcom,Style Change system with improved NetNavi customization,GBA,Keiji Inafune,25
-Mega Man Battle Network 3: Blue,Capcom,NaviCust system introduction with exclusive Navis and chips,GBA,Keiji Inafune,30
-Mega Man Battle Network 3: White,Capcom,NaviCust system introduction with dual version differences,GBA,Keiji Inafune,30
-Mega Man Battle Network 4: Blue Moon,Capcom,Tournament arc with exclusive souls and different storyline,GBA,Keiji Inafune,25
-Mega Man Battle Network 4: Red Sun,Capcom,Tournament arc with Double Soul transformation system,GBA,Keiji Inafune,25
-Mega Man Battle Network 5: Team Colonel,Capcom,Liberation missions with different team members and Navis,"GBA,DS",Keiji Inafune,30
-Mega Man Battle Network 5: Team Protoman,Capcom,Liberation missions with team-based tactical gameplay,"GBA,DS",Keiji Inafune,30
-Mega Man Battle Network 6: Cybeast Falzar,Capcom,Beast Out system with Falzar fusion and link battles,GBA,Keiji Inafune,35
-Mega Man Battle Network 6: Cybeast Gregar,Capcom,Beast Out system with Gregar fusion abilities,GBA,Keiji Inafune,35
-Mega Man Legends,Capcom,3D action-adventure reboot of Mega Man,PS1,Keiji Inafune,8
-Mega Man Legends 2,Capcom,Sequel continuing the Legends storyline,PS1,Keiji Inafune,10
+Mega Man Battle Network,CaWindowsom,Real-time grid combat RPG with virus deletion and chip system,GBA,Keiji Inafune,20
+Mega Man Battle Network 2,CaWindowsom,Style Change system with improved NetNavi customization,GBA,Keiji Inafune,25
+Mega Man Battle Network 3: Blue,CaWindowsom,NaviCust system introduction with exclusive Navis and chips,GBA,Keiji Inafune,30
+Mega Man Battle Network 3: White,CaWindowsom,NaviCust system introduction with dual version differences,GBA,Keiji Inafune,30
+Mega Man Battle Network 4: Blue Moon,CaWindowsom,Tournament arc with exclusive souls and different storyline,GBA,Keiji Inafune,25
+Mega Man Battle Network 4: Red Sun,CaWindowsom,Tournament arc with Double Soul transformation system,GBA,Keiji Inafune,25
+Mega Man Battle Network 5: Team Colonel,CaWindowsom,Liberation missions with different team members and Navis,"GBA,DS",Keiji Inafune,30
+Mega Man Battle Network 5: Team Protoman,CaWindowsom,Liberation missions with team-based tactical gameplay,"GBA,DS",Keiji Inafune,30
+Mega Man Battle Network 6: Cybeast Falzar,CaWindowsom,Beast Out system with Falzar fusion and link battles,GBA,Keiji Inafune,35
+Mega Man Battle Network 6: Cybeast Gregar,CaWindowsom,Beast Out system with Gregar fusion abilities,GBA,Keiji Inafune,35
+Mega Man Legends,CaWindowsom,3D action-adventure reboot of Mega Man,PS1,Keiji Inafune,8
+Mega Man Legends 2,CaWindowsom,Sequel continuing the Legends storyline,PS1,Keiji Inafune,10
 Megami Ibunroku Persona,Atlus,Original psychological horror RPG with demon summoning,PS1,Kazunari Suzuki,40
 Metaphor: ReFantazio,Atlus,Fantasy RPG from the Persona team,PS5,Katsura Hashino,80
-Monster Hunter,Capcom,Original hunting action RPG,PS2,Kaname Fujioka,40
-Monster Hunter 3 Ultimate,Capcom,Definitive version of Tri,Wii U,Kaname Fujioka,70
-Monster Hunter 4,Capcom,Vertical hunting with mounting,3DS,Kaname Fujioka,65
-Monster Hunter 4 Ultimate,Capcom,Expanded version with G-Rank,3DS,Kaname Fujioka,80
-Monster Hunter Freedom,Capcom,Portable version with additional content,PSP,Kaname Fujioka,50
-Monster Hunter Freedom 2,Capcom,Expanded portable hunting experience,PSP,Kaname Fujioka,60
-Monster Hunter Freedom Unite,Capcom,Ultimate portable Monster Hunter experience,PSP,Kaname Fujioka,80
-Monster Hunter Generations,Capcom,Style-focused hunting with nostalgia,3DS,Kaname Fujioka,75
-Monster Hunter Generations Ultimate,Capcom,Ultimate version with Brave Style,Nintendo Switch,Kaname Fujioka,90
-Monster Hunter Portable 3rd,Capcom,Japan-exclusive portable entry,PSP,Kaname Fujioka,70
-Monster Hunter Rise,Capcom,Verticality-focused hunting with Wirebugs,Nintendo Switch,Yasunori Ichinose,40
-Monster Hunter Rise: Sunbreak,Capcom,Western-themed expansion,Nintendo Switch,Yasunori Ichinose,35
-Monster Hunter Stories,Capcom,Turn-based monster collecting in Monster Hunter universe,"3DS,Mobile,PC,Switch",Kaname Fujioka,50
-Monster Hunter Tri,Capcom,Underwater hunting innovation,Wii,Kaname Fujioka,50
-Monster Hunter Wilds,Capcom,Next-generation hunting with weather systems,PS5,Yuya Tokuda,40
-Monster Hunter World: Iceborne,Capcom,Massive expansion with Master Rank,PC,Yuya Tokuda,40
-Monster Hunter: World,Capcom,Ecosystem-focused hunting in the New World,PC,Yuya Tokuda,50
+Monster Hunter,CaWindowsom,Original hunting action RPG,PS2,Kaname Fujioka,40
+Monster Hunter 3 Ultimate,CaWindowsom,Definitive version of Tri,Wii U,Kaname Fujioka,70
+Monster Hunter 4,CaWindowsom,Vertical hunting with mounting,3DS,Kaname Fujioka,65
+Monster Hunter 4 Ultimate,CaWindowsom,Expanded version with G-Rank,3DS,Kaname Fujioka,80
+Monster Hunter Freedom,CaWindowsom,Portable version with additional content,PSP,Kaname Fujioka,50
+Monster Hunter Freedom 2,CaWindowsom,Expanded portable hunting experience,PSP,Kaname Fujioka,60
+Monster Hunter Freedom Unite,CaWindowsom,Ultimate portable Monster Hunter experience,PSP,Kaname Fujioka,80
+Monster Hunter Generations,CaWindowsom,Style-focused hunting with nostalgia,3DS,Kaname Fujioka,75
+Monster Hunter Generations Ultimate,CaWindowsom,Ultimate version with Brave Style,Nintendo Switch,Kaname Fujioka,90
+Monster Hunter Portable 3rd,CaWindowsom,Japan-exclusive portable entry,PSP,Kaname Fujioka,70
+Monster Hunter Rise,CaWindowsom,Verticality-focused hunting with Wirebugs,Nintendo Switch,Yasunori Ichinose,40
+Monster Hunter Rise: Sunbreak,CaWindowsom,Western-themed expansion,Nintendo Switch,Yasunori Ichinose,35
+Monster Hunter Stories,CaWindowsom,Turn-based monster collecting in Monster Hunter universe,"3DS,Mobile,Windows,Switch",Kaname Fujioka,50
+Monster Hunter Tri,CaWindowsom,Underwater hunting innovation,Wii,Kaname Fujioka,50
+Monster Hunter Wilds,CaWindowsom,Next-generation hunting with weather systems,PS5,Yuya Tokuda,40
+Monster Hunter World: Iceborne,CaWindowsom,Massive expansion with Master Rank,Windows,Yuya Tokuda,40
+Monster Hunter: World,CaWindowsom,Ecosystem-focused hunting in the New World,Windows,Yuya Tokuda,50
 Monster Rancher,Tecmo,Life simulation RPG where players raise and train monsters using CDs to generate creatures,PS,Kazuyuki Tsuchiya,60
-Monster Rancher 1 & 2 DX,Koei Tecmo,HD remaster collection of the first two games for modern platforms,"Switch,PC,iOS",Kazuyuki Tsuchiya,100
+Monster Rancher 1 & 2 DX,Koei Tecmo,HD remaster collection of the first two games for modern platforms,"Switch,Windows,iOS",Kazuyuki Tsuchiya,100
 Monster Rancher 2,Tecmo,Enhanced sequel with improved graphics and more monster types and breeding options,PS,Kazuyuki Tsuchiya,80
 Monster Rancher 3,Tecmo,Third entry featuring 3D graphics and new training systems,PS2,Kazuyuki Tsuchiya,60
 Monster Rancher 4,Tecmo,Fourth main game with enhanced monster AI and battle systems,PS2,Kazuyuki Tsuchiya,60
@@ -362,61 +362,61 @@ Monster Rancher DS,Tecmo,DS version using the console's unique features for mons
 Monster Rancher EVO,Tecmo,Circus-themed Monster Rancher with performance-based gameplay,PS2,Kazuyuki Tsuchiya,50
 Mother,Nintendo,Quirky modern RPG predecessor to EarthBound,"NES,GBA",Shigesato Itoi,15
 Mother 3,Nintendo,Emotional finale with rhythm-based combat system,GBA,Shigesato Itoi,25
-Muv-Luv Alternative,Age,Epic conclusion featuring full-scale mech warfare with TSFs,"PC,Vita,PS3",Takayuki Sugawara,50
-Muv-Luv Alternative: Total Eclipse,Age,Side story focusing on test pilot perspectives,PC,Takayuki Sugawara,35
-Muv-Luv Extra,Age,First part of visual novel series introducing characters and world,PC,Takayuki Sugawara,15
-Muv-Luv photonflowers*,Age,Fan disc with additional stories and character routes,PC,Takayuki Sugawara,10
-Muv-Luv photonmelodies♮,Age,Second fan disc with more side stories,PC,Takayuki Sugawara,8
-Muv-Luv Unlimited,Age,Alternate timeline visual novel with mech combat elements,PC,Takayuki Sugawara,20
-Muv-Luv Unlimited: The Day After,Age,Post-Alternative story episodes,"PC,Vita",Takayuki Sugawara,25
-My Time at Portia,Pathea Games,Farming and crafting simulation with RPG progression,"PC,PS4,Xbox One,Switch",Zifei Wu,60
-My Time at Sandrock,Pathea Games,Desert town crafting simulation with RPG elements,"PC,PS4,PS5,Xbox One,Xbox Series",Zifei Wu,80
+Muv-Luv Alternative,Age,Epic conclusion featuring full-scale mech warfare with TSFs,"Windows,Vita,PS3",Takayuki Sugawara,50
+Muv-Luv Alternative: Total Eclipse,Age,Side story focusing on test pilot perspectives,Windows,Takayuki Sugawara,35
+Muv-Luv Extra,Age,First part of visual novel series introducing characters and world,Windows,Takayuki Sugawara,15
+Muv-Luv photonflowers*,Age,Fan disc with additional stories and character routes,Windows,Takayuki Sugawara,10
+Muv-Luv photonmelodies♮,Age,Second fan disc with more side stories,Windows,Takayuki Sugawara,8
+Muv-Luv Unlimited,Age,Alternate timeline visual novel with mech combat elements,Windows,Takayuki Sugawara,20
+Muv-Luv Unlimited: The Day After,Age,Post-Alternative story episodes,"Windows,Vita",Takayuki Sugawara,25
+My Time at Portia,Pathea Games,Farming and crafting simulation with RPG progression,"Windows,PS4,Xbox One,Switch",Zifei Wu,60
+My Time at Sandrock,Pathea Games,Desert town crafting simulation with RPG elements,"Windows,PS4,PS5,Xbox One,Xbox Series",Zifei Wu,80
 Mystic Quest Legend,Square,Beginner-friendly Final Fantasy with simplified mechanics,"SNES,GBC",Hironobu Sakaguchi,12
-Neverwinter Nights,BioWare,D&D with extensive modding tools,"PC,Mobile,Switch",Ray Muzyka,40
-Neverwinter Nights 2,Obsidian,Enhanced sequel with party focus,PC,Josh Sawyer,60
+Neverwinter Nights,BioWare,D&D with extensive modding tools,"Windows,Mobile,Switch",Ray Muzyka,40
+Neverwinter Nights 2,Obsidian,Enhanced sequel with party focus,Windows,Josh Sawyer,60
 Ni no Kuni II: Revenant Kingdom,Level-5,Kingdom-building fantasy adventure,PS4,Akihiro Hino,40
-Ni No Kuni: Wrath of the White Witch,Level-5,Studio Ghibli animated JRPG with familiar collection,"PS3,PS4,PC,Switch",Yoshiyuki Momose,45
-Nioh,Koei Tecmo / Team Ninja,Action RPG set in Sengoku-era Japan with supernatural Yokai enemies and fast-paced Souls-like combat,"PC,PS4,PS5",Fumihiko Yasuda,40
-Nioh 2,Koei Tecmo / Team Ninja,Prequel and expansion of the original with character customization new weapons and deeper Yokai mechanics,"PC,PS4,PS5",Fumihiko Yasuda,50
-Nioh 3,Koei Tecmo,Latest dark samurai action RPG with open field exploration,"PS5,PC",Fumihiko Yasuda,0
+Ni No Kuni: Wrath of the White Witch,Level-5,Studio Ghibli animated JRPG with familiar collection,"PS3,PS4,Windows,Switch",Yoshiyuki Momose,45
+Nioh,Koei Tecmo / Team Ninja,Action RPG set in Sengoku-era Japan with supernatural Yokai enemies and fast-paced Souls-like combat,"Windows,PS4,PS5",Fumihiko Yasuda,40
+Nioh 2,Koei Tecmo / Team Ninja,Prequel and expansion of the original with character customization new weapons and deeper Yokai mechanics,"Windows,PS4,PS5",Fumihiko Yasuda,50
+Nioh 3,Koei Tecmo,Latest dark samurai action RPG with open field exploration,"PS5,Windows",Fumihiko Yasuda,0
 Nioh Collection,Koei Tecmo / Team Ninja,Remastered bundle including Nioh and Nioh 2 with all DLCs for PS5,PS5,Fumihiko Yasuda,90
-No Man's Sky,Hello Games,Space exploration with crafting and base building,"PC,PS4,PS5,Xbox One,Xbox Series,Switch",Sean Murray,60
-Octopath Traveler,Square Enix,HD-2D visuals with eight intertwining character paths,"Switch,PC,PS4,Xbox",Masashi Takahashi,50
-Octopath Traveler II,Square Enix,Standalone sequel with refined mechanics and story,"Switch,PC,PS5",Masashi Takahashi,60
+No Man's Sky,Hello Games,Space exploration with crafting and base building,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch",Sean Murray,60
+Octopath Traveler,Square Enix,HD-2D visuals with eight intertwining character paths,"Switch,Windows,PS4,Xbox",Masashi Takahashi,50
+Octopath Traveler II,Square Enix,Standalone sequel with refined mechanics and story,"Switch,Windows,PS5",Masashi Takahashi,60
 Odin Sphere,Vanillaware,Hand-drawn action RPG with fairy tale stories,"PS2,PS3,PS4,Vita",George Kamitani,40
 Ogre Battle: March of the Black Queen,Quest,Real-time strategy RPG with reputation system,"SNES,Saturn,PS1,N64",Kazunari Yonemitsu,50
-OMORI,OMOCAT,Psychological horror RPG exploring trauma and friendship,"PC,Switch,PS4,Xbox",OMOCAT,25
-OneShot,Dingaling Productions,Meta-narrative puzzle RPG breaking fourth wall,"PC,Switch",Eliza Velasquez,5
-Outward,Nine Dots Studio,Survival RPG with magic and exploration focus,"PC,PS4,Xbox One",Guillaume Boucher-Vidal,40
+OMORI,OMOCAT,Psychological horror RPG exploring trauma and friendship,"Windows,Switch,PS4,Xbox",OMOCAT,25
+OneShot,Dingaling Productions,Meta-narrative puzzle RPG breaking fourth wall,"Windows,Switch",Eliza Velasquez,5
+Outward,Nine Dots Studio,Survival RPG with magic and exploration focus,"Windows,PS4,Xbox One",Guillaume Boucher-Vidal,40
 Panzer Dragoon Saga,Team Andromeda,Rail-shooter RPG hybrid masterpiece,Saturn,Yukio Futatsugi,20
 Paper Mario,Nintendo,Flat aesthetic with creative battle system,"N64,Switch",Yoshiaki Koizumi,15
 Paper Mario: The Thousand-Year Door,Nintendo,Badge system perfection with partner abilities,GameCube,Yoshiaki Koizumi,25
 Parasite Eve,Square,Horror action RPG set in modern New York,"PS1,PSP",Hideki Kamiya,12
 Parasite Eve II,Square,Survival horror sequel with RPG elements,PS1,Hideki Kamiya,15
-Pathfinder: Kingmaker,Owlcat Games,Kingdom management with complex systems,"PC,PS4,Xbox,Switch",Josh Sawyer,100
-Pathfinder: Wrath of the Righteous,Owlcat Games,Mythic paths with crusade management,"PC,PS4,Xbox,Switch",Josh Sawyer,120
+Pathfinder: Kingmaker,Owlcat Games,Kingdom management with complex systems,"Windows,PS4,Xbox,Switch",Josh Sawyer,100
+Pathfinder: Wrath of the Righteous,Owlcat Games,Mythic paths with crusade management,"Windows,PS4,Xbox,Switch",Josh Sawyer,120
 Persona 2: Eternal Punishment,Atlus,Second half of duology with adult protagonists,PS1,Kazunari Suzuki,45
 Persona 2: Innocent Sin,Atlus,First half of duology about rumors becoming reality,PS1,Kazunari Suzuki,50
 Persona 3,Atlus,Dark tower-climbing with social simulation,PS2,Katsura Hashino,80
 Persona 3 FES,Atlus,Expanded version with The Answer epilogue,PS2,Katsura Hashino,100
-Persona 3 Portable,Atlus,Portable version with female protagonist option,"PSP,PC,Switch",Katsura Hashino,75
-Persona 3 Reload,Atlus,Full remake with modern graphics and mechanics,"PS4,PS5,PC,Xbox",Kazuhisa Wada,70
+Persona 3 Portable,Atlus,Portable version with female protagonist option,"PSP,Windows,Switch",Katsura Hashino,75
+Persona 3 Reload,Atlus,Full remake with modern graphics and mechanics,"PS4,PS5,Windows,Xbox",Kazuhisa Wada,70
 Persona 4,Atlus,Murder mystery in rural Japan,PS2,Katsura Hashino,70
-Persona 4 Golden,Atlus,Enhanced version with new content,"PS Vita,PC,Switch",Katsura Hashino,80
+Persona 4 Golden,Atlus,Enhanced version with new content,"PS Vita,Windows,Switch",Katsura Hashino,80
 Persona 5,Atlus,Phantom thief stylish adventure,"PS3,PS4",Katsura Hashino,100
-Persona 5 Royal,Atlus,Definitive edition with new semester and characters,"PS4,PS5,PC,Switch,Xbox",Katsura Hashino,120
-Persona 5 Strikers,Koei Tecmo,Musou-style action RPG sequel,"PS4,PS5,PC,Switch",Daisuke Kaneda,50
+Persona 5 Royal,Atlus,Definitive edition with new semester and characters,"PS4,PS5,Windows,Switch,Xbox",Katsura Hashino,120
+Persona 5 Strikers,Koei Tecmo,Musou-style action RPG sequel,"PS4,PS5,Windows,Switch",Daisuke Kaneda,50
 Persona Q2: New Cinema Labyrinth,Atlus,Crossover dungeon crawler with P3/P4/P5 characters,3DS,Jun Kumagai,50
 Persona Q: Shadow of the Labyrinth,Atlus,Crossover dungeon crawler mixing Persona 3 and 4 characters,3DS,Jun Kumagai,45
 Phantasy Star,Sega,Sci-fi RPG with 3D dungeons and space travel,"Master System,PS2,GBA",Yuji Naka,15
-Phantasy Star II,Sega,Dark sequel with environmental themes and tragic ending,"Genesis,PS2,PC",Yuji Naka,25
-Phantasy Star III,Sega,Generational saga spanning three time periods,"Genesis,PS2,PC",Yuji Naka,35
-Phantasy Star IV,Sega,Epic conclusion with manga-style presentation,"Genesis,PS2,PC,Switch",Yuji Naka,35
-Phantom Brave,Nippon Ichi,Tactical RPG with phantom summoning system,"PS2,PSP,Wii,PC,Switch",Masahiro Yamamoto,50
-Pillars of Eternity,Obsidian,Infinity Engine spiritual successor,"PC,PS4,Xbox,Switch",Josh Sawyer,80
-Pillars of Eternity II: Deadfire,Obsidian,Naval exploration with multiclassing,"PC,PS4,Xbox,Switch",Josh Sawyer,70
-Planescape: Torment,Black Isle,Philosophical dialogue-heavy masterpiece,"PC,Mobile,Switch",Chris Avellone,50
-Planet Coaster,Frontier Developments,Theme park building with management elements,"PC,PS4,PS5,Xbox One,Xbox Series",Jonny Watts,100
+Phantasy Star II,Sega,Dark sequel with environmental themes and tragic ending,"Genesis,PS2,Windows",Yuji Naka,25
+Phantasy Star III,Sega,Generational saga spanning three time periods,"Genesis,PS2,Windows",Yuji Naka,35
+Phantasy Star IV,Sega,Epic conclusion with manga-style presentation,"Genesis,PS2,Windows,Switch",Yuji Naka,35
+Phantom Brave,Nippon Ichi,Tactical RPG with phantom summoning system,"PS2,PSP,Wii,Windows,Switch",Masahiro Yamamoto,50
+Pillars of Eternity,Obsidian,Infinity Engine spiritual successor,"Windows,PS4,Xbox,Switch",Josh Sawyer,80
+Pillars of Eternity II: Deadfire,Obsidian,Naval exploration with multiclassing,"Windows,PS4,Xbox,Switch",Josh Sawyer,70
+Planescape: Torment,Black Isle,Philosophical dialogue-heavy masterpiece,"Windows,Mobile,Switch",Chris Avellone,50
+Planet Coaster,Frontier Developments,Theme park building with management elements,"Windows,PS4,PS5,Xbox One,Xbox Series",Jonny Watts,100
 Pokemon Gold/Silver,Game Freak,Day/night cycles with breeding and legendary expansion,"GBC,3DS",Junichi Masuda,40
 Pokemon Red/Blue,Game Freak,Monster collecting phenomenon that defined portable RPGs,"GB,3DS",Junichi Masuda,30
 Pokémon Black 2/White 2,Game Freak,Direct sequels to Black/White with expanded story and new areas,"Nintendo DS,3DS",Junichi Masuda,40
@@ -443,45 +443,45 @@ Pokémon Sword/Shield,Game Freak,Eighth-generation RPG with new region Galar and
 Pokémon Ultra Sun/Ultra Moon,Game Freak,Expanded versions of Sun/Moon with new story and features,"Nintendo DS,3DS",Junichi Masuda,40
 Pokémon X/Y,Game Freak,Sixth-generation RPG with 3D graphics and new Fairy type,"Nintendo DS,3DS",Junichi Masuda,35
 Pokémon XD: Gale of Darkness,Genius Sonority,Sequel to Colosseum with more Shadow Pokémon and expanded story,GameCube,Junichi Masuda,30
-Pyre,Supergiant Games,Mystical sports RPG with liberation themes,"PC,PS4",Greg Kasavin,7
+Pyre,Supergiant Games,Mystical sports RPG with liberation themes,"Windows,PS4",Greg Kasavin,7
 Radiant Historia,Atlus,Time manipulation tactical RPG with grid-based combat,DS,Toshifumi Nabeshima,35
 Radiant Historia: Perfect Chronology,Atlus,Time-travel JRPG with alternate timeline navigation,3DS,Toshifumi Nabeshima,40
 Radiata Stories,Square Enix,200+ recruitable characters in whimsical world,PS2,Yasunori Mitsuda,50
-Raji: An Ancient Epic,Nodding Heads Games,Mythology-inspired action adventure with divine weapons and Indian art style,"PS5,PS4,PC,Switch,Xbox",Nodding Heads Team,7
-Risen,Piranha Bytes,Spiritual Gothic successor on tropical island,"PC,Xbox,PS4",Michael Hoge,40
-Risen 2: Dark Waters,Piranha Bytes,Pirate-themed sequel with firearms,"PC,Xbox,PS3",Michael Hoge,35
-Risen 3: Titan Lords,Piranha Bytes,Multiple islands with Titan threat,"PC,Xbox,PS3",Michael Hoge,40
+Raji: An Ancient Epic,Nodding Heads Games,Mythology-inspired action adventure with divine weapons and Indian art style,"PS5,PS4,Windows,Switch,Xbox",Nodding Heads Team,7
+Risen,Piranha Bytes,Spiritual Gothic successor on tropical island,"Windows,Xbox,PS4",Michael Hoge,40
+Risen 2: Dark Waters,Piranha Bytes,Pirate-themed sequel with firearms,"Windows,Xbox,PS3",Michael Hoge,35
+Risen 3: Titan Lords,Piranha Bytes,Multiple islands with Titan threat,"Windows,Xbox,PS3",Michael Hoge,40
 Robopon 2 Cross Version,Atlus,Enhanced sequel with new robopon and features,GBA,Kenji Terada,30
 Robopon 2 Ring Version,Atlus,Companion version to Cross with alternate robopon,GBA,Kenji Terada,30
 Robopon 3,Atlus,Third installment continuing robopon battles and story,GBA,Kenji Terada,35
 Robopon Star Version,Atlantis Interactive,Sequel with expanded robopon and story,GBC,Kenji Terada,25
 Robopon Sun Version,Atlantis Interactive,Monster collecting RPG with unique robopon customization,GBC,Kenji Terada,20
 Rogue Galaxy,Level-5,Space pirate adventure with real-time combat,PS2,Yoshifumi Hashimoto,60
-Rogue Legacy,Cellar Door Games,Genealogical platformer-RPG with trait inheritance,"PC,PS3,PS4,Vita,Switch,Xbox",Jeremy Schneiderman,15
-Romancing SaGa: Minstrel Song,Square Enix,Non-linear adventure with multiple quest paths,"PS2,PS4,Switch,PC",Akitoshi Kawazu,50
-Sacred,Ascaron,Diablo-style action RPG with large world,PC,Martin Wein,60
-Sacred 2: Fallen Angel,Ascaron,Expanded sequel with light/shadow campaigns,"PC,Xbox,PS3",Martin Wein,100
-SaGa Frontier,Square,Seven character scenarios with unique mechanics,"PS1,Switch,PC,Mobile",Akitoshi Kawazu,40
+Rogue Legacy,Cellar Door Games,Genealogical platformer-RPG with trait inheritance,"Windows,PS3,PS4,Vita,Switch,Xbox",Jeremy Schneiderman,15
+Romancing SaGa: Minstrel Song,Square Enix,Non-linear adventure with multiple quest paths,"PS2,PS4,Switch,Windows",Akitoshi Kawazu,50
+Sacred,Ascaron,Diablo-style action RPG with large world,Windows,Martin Wein,60
+Sacred 2: Fallen Angel,Ascaron,Expanded sequel with light/shadow campaigns,"Windows,Xbox,PS3",Martin Wein,100
+SaGa Frontier,Square,Seven character scenarios with unique mechanics,"PS1,Switch,Windows,Mobile",Akitoshi Kawazu,40
 SaGa Frontier 2,Square,Watercolor art style with dual storylines,PS1,Akitoshi Kawazu,35
-Salt and Sanctuary,Ska Studios,2D Souls-like with deep RPG customization,"PC,PS4,Switch,Xbox,Vita",Derek Yu,20
-Samurai Warriors,Koei,Sengoku period spin-off with Japanese warriors,"PS2,Xbox,PC",Keiji Fujiwara,20
-Samurai Warriors 2,Koei,Expanded Sengoku storylines,"PS2,Xbox 360,PC,PSP",Keiji Fujiwara,25
-Samurai Warriors 2: Empires,Koei,Strategic Sengoku conquest,"PS2,Xbox 360,PC",Keiji Fujiwara,30
-Samurai Warriors 2: Xtreme Legends,Koei,Additional characters and survival mode,"PS2,PC",Keiji Fujiwara,15
+Salt and Sanctuary,Ska Studios,2D Souls-like with deep RPG customization,"Windows,PS4,Switch,Xbox,Vita",Derek Yu,20
+Samurai Warriors,Koei,Sengoku period spin-off with Japanese warriors,"PS2,Xbox,Windows",Keiji Fujiwara,20
+Samurai Warriors 2,Koei,Expanded Sengoku storylines,"PS2,Xbox 360,Windows,PSP",Keiji Fujiwara,25
+Samurai Warriors 2: Empires,Koei,Strategic Sengoku conquest,"PS2,Xbox 360,Windows",Keiji Fujiwara,30
+Samurai Warriors 2: Xtreme Legends,Koei,Additional characters and survival mode,"PS2,Windows",Keiji Fujiwara,15
 Samurai Warriors 3,Koei,Wii-exclusive with motion controls,Wii,Keiji Fujiwara,20
 Samurai Warriors 3Z,Koei,Enhanced PS3 version with additional content,PS3,Keiji Fujiwara,25
-Samurai Warriors 4,Koei Tecmo,Return to core gameplay with Chronicle Mode,"PS3,PS4,Xbox One,PC,Vita,Switch",Keiji Fujiwara,35
-Samurai Warriors 4-II,Koei Tecmo,Enhanced version focusing on character stories,"PS3,PS4,Xbox One,PC,Vita,Switch",Keiji Fujiwara,30
-Samurai Warriors 4: Empires,Koei Tecmo,Strategic conquest with relationship system,"PS3,PS4,Xbox One,PC,Vita",Keiji Fujiwara,40
-Samurai Warriors 5,Koei Tecmo,Reimagined series focusing on Nobunaga and Mitsuhide,"PS4,Xbox One,PC,Switch",Keiji Fujiwara,25
+Samurai Warriors 4,Koei Tecmo,Return to core gameplay with Chronicle Mode,"PS3,PS4,Xbox One,Windows,Vita,Switch",Keiji Fujiwara,35
+Samurai Warriors 4-II,Koei Tecmo,Enhanced version focusing on character stories,"PS3,PS4,Xbox One,Windows,Vita,Switch",Keiji Fujiwara,30
+Samurai Warriors 4: Empires,Koei Tecmo,Strategic conquest with relationship system,"PS3,PS4,Xbox One,Windows,Vita",Keiji Fujiwara,40
+Samurai Warriors 5,Koei Tecmo,Reimagined series focusing on Nobunaga and Mitsuhide,"PS4,Xbox One,Windows,Switch",Keiji Fujiwara,25
 Samurai Warriors: Chronicles,Koei,3DS launch title with custom character,"3DS,",Keiji Fujiwara,15
-Schwarzesmarken,Age,Prequel visual novel set in Cold War era with TSF combat,PC,Takayuki Sugawara,40
-Sea of Stars,Sabotage Studio,Turn-based RPG homage to Chrono Trigger,PC,Thierry Boulanger,25
+Schwarzesmarken,Age,Prequel visual novel set in Cold War era with TSF combat,Windows,Takayuki Sugawara,40
+Sea of Stars,Sabotage Studio,Turn-based RPG homage to Chrono Trigger,Windows,Thierry Boulanger,25
 Secret of Evermore,Square,American-developed Square RPG with alchemy system,SNES,Chris Taylor,30
-Secret of Mana,Square,Real-time action RPG with Ring Command system,"SNES,PS4,PC,Switch,Vita",Koichi Ishii,25
-Seiken Densetsu 3,Square,Action RPG with multiple character combinations,"SNES,Switch,PC",Koichi Ishii,30
-Sekiro: Shadows Die Twice,From Software,Shinobi action with parry-focused sword combat,"PC,PS4,Xbox",Hidetaka Miyazaki,25
-Serpent in the Staglands,Whalenought Studios,Old-school CRPG with no hand-holding approach,PC,Joseph Wade,40
+Secret of Mana,Square,Real-time action RPG with Ring Command system,"SNES,PS4,Windows,Switch,Vita",Koichi Ishii,25
+Seiken Densetsu 3,Square,Action RPG with multiple character combinations,"SNES,Switch,Windows",Koichi Ishii,30
+Sekiro: Shadows Die Twice,From Software,Shinobi action with parry-focused sword combat,"Windows,PS4,Xbox",Hidetaka Miyazaki,25
+Serpent in the Staglands,Whalenought Studios,Old-school CRPG with no hand-holding approach,Windows,Joseph Wade,40
 Shadow Hearts,Sacnoth,Alternate history horror RPG with Judgment Ring,PS2,Yasuhiro Kawasaki,40
 Shadow Hearts: Covenant,Nautilius,WWI sequel with improved mechanics,PS2,Yasuhiro Kawasaki,50
 Shadow Hearts: From the New World,Nautilius,Americas-set finale with Native American themes,PS2,Yasuhiro Kawasaki,45
@@ -489,12 +489,12 @@ Shadow of the Colossus (2005),Sony,Action-adventure about slaying giant colossi 
 Shadow of the Colossus (2011 HD Remaster),Bluepoint Games / Sony,Remastered version with improved resolution and frame rate,PS3,Fumito Ueda,8
 Shadow of the Colossus (2018 Remake),Bluepoint Games / Sony,Ground-up visual remake with modern controls and performance improvements,PS4,Fumito Ueda,8
 Shadowrun,Beam Software,Cyberpunk RPG based on tabletop game,"SNES,Genesis",Jordan Weisman,15
-Shadowrun Returns,Harebrained Schemes,Cyberpunk tactical RPG revival,"PC,Mobile",Jordan Weisman,12
-Shadowrun: Dragonfall,Harebrained Schemes,Berlin-set expansion standalone,"PC,Mobile",Jordan Weisman,20
-Shadowrun: Hong Kong,Harebrained Schemes,Asian setting with improved mechanics,"PC,Mobile",Jordan Weisman,25
-Shenmue,Sega,Life simulation RPG in 1980s Japan,"Dreamcast,PS4,Xbox,PC",Yu Suzuki,15
-Shenmue II,Sega,Hong Kong continuation of Ryo's quest,"Dreamcast,Xbox,PS4,PC",Yu Suzuki,30
-Shin Megami Tensei III: Nocturne,Atlus,Post-apocalyptic demon recruitment,"PS2,PS3,PS4,PC,Switch",Kazuyuki Yamai,60
+Shadowrun Returns,Harebrained Schemes,Cyberpunk tactical RPG revival,"Windows,Mobile",Jordan Weisman,12
+Shadowrun: Dragonfall,Harebrained Schemes,Berlin-set expansion standalone,"Windows,Mobile",Jordan Weisman,20
+Shadowrun: Hong Kong,Harebrained Schemes,Asian setting with improved mechanics,"Windows,Mobile",Jordan Weisman,25
+Shenmue,Sega,Life simulation RPG in 1980s Japan,"Dreamcast,PS4,Xbox,Windows",Yu Suzuki,15
+Shenmue II,Sega,Hong Kong continuation of Ryo's quest,"Dreamcast,Xbox,PS4,Windows",Yu Suzuki,30
+Shin Megami Tensei III: Nocturne,Atlus,Post-apocalyptic demon recruitment,"PS2,PS3,PS4,Windows,Switch",Kazuyuki Yamai,60
 Shin Megami Tensei: Devil Children - Black Book,Atlus,Demon-collecting RPG for younger audiences,GBC,Kazuma Kaneko,30
 Shin Megami Tensei: Devil Children - Red Book,Atlus,Demon-collecting RPG with different story path,GBC,Kazuma Kaneko,30
 Shin Megami Tensei: Strange Journey,Atlus,Dungeon crawler with environmental themes in Antarctica,DS,Kazuyuki Yamai,60
@@ -506,32 +506,40 @@ Shining Force Gaiden: Final Conflict,Sega,Game Gear tactical RPG linking SF1 and
 Shining Force II,Sega,Longer tactical RPG sequel with free roaming exploration,Genesis,Hiroyuki Takahashi,40
 Shining Force III,Camelot,Three-scenario tactical RPG epic,Saturn,Shugo Takahashi,120
 Shining in the Darkness,Sega,First-person dungeon crawler RPG that started the Shining series,Genesis,Hiroyuki Takahashi,20
+Shovel Knight,Yacht Club Games,2D action-platformer with retro NES-inspired gameplay and knight adventures,"Windows,PS3,PS4,PS5,Xbox One,Xbox Series,Switch,Wii U,3DS,Vita",Sean Velasco,8
+Shovel Knight Dig,Yacht Club Games,Roguelike platformer with procedurally generated levels,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch",Sean Velasco,15
+Shovel Knight Showdown,Yacht Club Games,Fighting game spin-off featuring Shovel Knight characters,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch,3DS,Vita",Sean Velasco,10
+Shovel Knight: King of Cards,Yacht Club Games,Final campaign as King Knight with card game mechanics,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch,3DS,Vita",Sean Velasco,8
+Shovel Knight: Plague of Shadows,Yacht Club Games,DLC campaign playing as Plague Knight with alchemy-based gameplay,"Windows,PS3,PS4,PS5,Xbox One,Xbox Series,Switch,Wii U,3DS,Vita",Sean Velasco,6
+Shovel Knight: Pocket Dungeon,Yacht Club Games,Puzzle-RPG hybrid with dungeon crawling mechanics,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch",Sean Velasco,12
+Shovel Knight: Specter of Torment,Yacht Club Games,Prequel campaign as Specter Knight with wall-climbing mechanics,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch,3DS,Vita",Sean Velasco,6
+Shovel Knight: Treasure Trove,Yacht Club Games,Complete collection including all campaigns and Showdown,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch,3DS,Vita",Sean Velasco,30
 Skies of Arcadia,Sega,Sky pirate adventure with ship exploration,"Dreamcast,GameCube",Rieko Kodama,50
-Snowrunner,Saber Interactive,Off-road trucking with vehicle progression,"PC,PS4,PS5,Xbox One,Xbox Series,Switch",Pavel Zagrebelny,80
-Solasta: Crown of the Magister,Tactical Adventures,Faithful D&D 5e implementation with verticality focus,PC,Marc-Antoine Larouche,40
+Snowrunner,Saber Interactive,Off-road trucking with vehicle progression,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch",Pavel Zagrebelny,80
+Solasta: Crown of the Magister,Tactical Adventures,Faithful D&D 5e implementation with verticality focus,Windows,Marc-Antoine Larouche,40
 Soul Blazer,Enix,Action RPG about recreating world and its inhabitants,SNES,Yoshio Sakamoto,15
-South Park: Snow Day!,THQ Nordic / Question Games,3D co-op action brawler set during a snow day in South Park with roguelike elements and real-time combat,"PC,PS5,Xbox Series X,S,Switch",South Park Digital Studios,8
-South Park: The Fractured But Whole,Ubisoft / South Park Digital Studios,Superhero-themed sequel with tactical combat deeper class systems and expanded town exploration,"PC,PS4,Xbox One,Switch",South Park Digital Studios,15
-South Park: The Stick of Truth,Ubisoft / Obsidian Entertainment,Turn-based RPG styled after the animated show where you play as the New Kid battling in a fantasy-themed conflict,"PC,PS3,PS4,Xbox 360,Xbox One,Switch",Obsidian Entertainment,12
-Spelunky,Mossmouth,Platformer with RPG progression and procedural cave generation,"PC,PS3,PS4,Xbox,Switch,Vita",Derek Yu,30
-Spiritfarer,Thunder Lotus Games,Cozy management sim about death and letting go,"PC,PS4,PS5,Xbox One,Xbox Series,Switch",Nicolas Guérin,30
+South Park: Snow Day!,THQ Nordic / Question Games,3D co-op action brawler set during a snow day in South Park with roguelike elements and real-time combat,"Windows,PS5,Xbox Series X,S,Switch",South Park Digital Studios,8
+South Park: The Fractured But Whole,Ubisoft / South Park Digital Studios,Superhero-themed sequel with tactical combat deeper class systems and expanded town exploration,"Windows,PS4,Xbox One,Switch",South Park Digital Studios,15
+South Park: The Stick of Truth,Ubisoft / Obsidian Entertainment,Turn-based RPG styled after the animated show where you play as the New Kid battling in a fantasy-themed conflict,"Windows,PS3,PS4,Xbox 360,Xbox One,Switch",Obsidian Entertainment,12
+Spelunky,Mossmouth,Platformer with RPG progression and procedural cave generation,"Windows,PS3,PS4,Xbox,Switch,Vita",Derek Yu,30
+Spiritfarer,Thunder Lotus Games,Cozy management sim about death and letting go,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch",Nicolas Guérin,30
 Star Ocean,Enix,Space-fantasy JRPG debut with time travel and skill crafting system,Super Famicom,Yoshinori Yamagishi,25
 Star Ocean: Blue Sphere,Enix,GBC sequel featuring Claude and Rena,GBC,Yoshinori Yamagishi,20
 Star Ocean: First Departure,Square Enix,Enhanced PSP remake of the original Star Ocean,PSP,Yoshinori Yamagishi,30
-Star Ocean: Integrity and Faithlessness,Square Enix,Real-time combat with seamless battle transitions,"PS4,PC",Hiroshi Ogawa,25
+Star Ocean: Integrity and Faithlessness,Square Enix,Real-time combat with seamless battle transitions,"PS4,Windows",Hiroshi Ogawa,25
 Star Ocean: Second Evolution,Square Enix,Enhanced PSP remake of The Second Story,PSP,Yoshinori Yamagishi,45
-Star Ocean: The Divine Force,Square Enix,Latest entry with enhanced mobility and exploration,"PS4,PS5,Xbox,PC,Switch",Katsuhiko Arimoto,35
-Star Ocean: The Last Hope,Square Enix,Prequel exploring the origins of space exploration,"Xbox 360,PS3,PC",Yoshinori Yamagishi,50
-Star Ocean: The Second Story,Enix,Space-fantasy with skill system and private actions,"PS1,PSP,PC,Switch",Yoshinori Yamagishi,40
-Star Ocean: The Second Story R,Square Enix,Modern remake with 2.5D graphics and voice acting,"PS4,PS5,Xbox,PC,Switch",Yuichiro Kitao,45
+Star Ocean: The Divine Force,Square Enix,Latest entry with enhanced mobility and exploration,"PS4,PS5,Xbox,Windows,Switch",Katsuhiko Arimoto,35
+Star Ocean: The Last Hope,Square Enix,Prequel exploring the origins of space exploration,"Xbox 360,PS3,Windows",Yoshinori Yamagishi,50
+Star Ocean: The Second Story,Enix,Space-fantasy with skill system and private actions,"PS1,PSP,Windows,Switch",Yoshinori Yamagishi,40
+Star Ocean: The Second Story R,Square Enix,Modern remake with 2.5D graphics and voice acting,"PS4,PS5,Xbox,Windows,Switch",Yuichiro Kitao,45
 Star Ocean: Till the End of Time,Square Enix,Reality-bending plot with controversial twist,PS2,Yoshinori Yamagishi,90
-Star Wars: Knights of the Old Republic,BioWare,Old Republic era with moral choices,"PC,Xbox,Mobile,Switch",Casey Hudson,40
-Star Wars: Knights of the Old Republic II,Obsidian,Darker Jedi philosophy exploration,"PC,Xbox,Mobile,Switch",Chris Avellone,35
-Stardew Valley,ConcernedApe,Open-ended farming simulation RPG where you build relationships grow crops explore caves and restore your grandfather's farm,"PC,PS4,PS5,Switch,Xbox,Mobile",Eric Barone,100
-Stardew Valley,ConcernedApe,Farming simulation with RPG mechanics and social elements,"PC,PS4,PS5,Xbox One,Xbox Series,Switch,Mobile",Eric Barone,80
-Subnautica,Unknown Worlds Entertainment,Underwater survival with story-driven exploration,"PC,PS4,PS5,Xbox One,Xbox Series,Switch",Charlie Cleveland,25
-Suikoden,Konami,108 Stars of Destiny political RPG,"PS1,Saturn,PC",Takashi Tokita,25
-Suikoden II,Konami,Friendship and betrayal masterpiece,"PS1,PC",Takashi Tokita,35
+Star Wars: Knights of the Old Republic,BioWare,Old Republic era with moral choices,"Windows,Xbox,Mobile,Switch",Casey Hudson,40
+Star Wars: Knights of the Old Republic II,Obsidian,Darker Jedi philosophy exploration,"Windows,Xbox,Mobile,Switch",Chris Avellone,35
+Stardew Valley,ConcernedApe,Open-ended farming simulation RPG where you build relationships grow crops explore caves and restore your grandfather's farm,"Windows,PS4,PS5,Switch,Xbox,Mobile",Eric Barone,100
+Stardew Valley,ConcernedApe,Farming simulation with RPG mechanics and social elements,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch,Mobile",Eric Barone,80
+Subnautica,Unknown Worlds Entertainment,Underwater survival with story-driven exploration,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch",Charlie Cleveland,25
+Suikoden,Konami,108 Stars of Destiny political RPG,"PS1,Saturn,Windows",Takashi Tokita,25
+Suikoden II,Konami,Friendship and betrayal masterpiece,"PS1,Windows",Takashi Tokita,35
 Suikoden III,Konami,Trinity Sight system with three perspectives,PS2,Keiji Okayasu,50
 Suikoden IV,Konami,Naval exploration with Island Nations,PS2,Keiji Okayasu,35
 Suikoden V,Konami,Return to political intrigue form,PS2,Keiji Okayasu,60
@@ -541,7 +549,7 @@ Super Mario RPG,Nintendo/Square,Mario's first RPG with timed button mechanics,"S
 Super Robot Taisen,Banpresto,Original crossover tactical RPG featuring mecha anime series,GBA,Takahiro Suzuki,25
 Super Robot Taisen 2,Banpresto,Second entry expanding roster of mecha series,SNES,Takahiro Suzuki,30
 Super Robot Taisen 3,Banpresto,Third classic entry with improved mechanics,SNES,Takahiro Suzuki,35
-Super Robot Taisen 30,Banpresto,30th anniversary celebration with massive roster,"PS4,Switch,PC",Takahiro Suzuki,90
+Super Robot Taisen 30,Banpresto,30th anniversary celebration with massive roster,"PS4,Switch,Windows",Takahiro Suzuki,90
 Super Robot Taisen 4,Banpresto,Fourth main entry with enhanced graphics and story,SNES,Takahiro Suzuki,45
 Super Robot Taisen A Portable,Banpresto,PSP port of GBA title,PSP,Takahiro Suzuki,35
 Super Robot Taisen Alpha,Banpresto,Beginning of Alpha series with 3D battle animations,PS1,Takahiro Suzuki,60
@@ -569,23 +577,23 @@ Super Robot Taisen Original Generation Gaiden,Banpresto,Side story in OG univers
 Super Robot Taisen Original Generations,Banpresto,Compilation of first two OG games for PlayStation 2,PS2,Takahiro Suzuki,80
 Super Robot Taisen R,Banpresto,GBA entry with original storyline,GBA,Takahiro Suzuki,25
 Super Robot Taisen Scramble Commander,Banpresto,Real-time strategy departure from turn-based gameplay,PS2,Takahiro Suzuki,25
-Super Robot Taisen T,Banpresto,Third PS4 mainline entry,"PS4,Switch,PC",Takahiro Suzuki,80
+Super Robot Taisen T,Banpresto,Third PS4 mainline entry,"PS4,Switch,Windows",Takahiro Suzuki,80
 Super Robot Taisen UX,Banpresto,3DS entry featuring unique anime selection,3DS,Takahiro Suzuki,50
-Super Robot Taisen V,Banpresto,First mainline entry for PlayStation 4,"PS4,Vita,Switch,PC",Takahiro Suzuki,70
+Super Robot Taisen V,Banpresto,First mainline entry for PlayStation 4,"PS4,Vita,Switch,Windows",Takahiro Suzuki,70
 Super Robot Taisen W,Banpresto,Nintendo DS debut with stylus controls,DS,Takahiro Suzuki,40
-Super Robot Taisen X,Banpresto,Second PS4 mainline entry with multiverse theme,"PS4,Vita,Switch,PC",Takahiro Suzuki,75
+Super Robot Taisen X,Banpresto,Second PS4 mainline entry with multiverse theme,"PS4,Vita,Switch,Windows",Takahiro Suzuki,75
 Super Robot Taisen XO,Banpresto,Xbox 360 HD remake of Alpha Gaiden,Xbox 360,Takahiro Suzuki,45
 Super Robot Taisen Z,Banpresto,Beginning of Z series with multi-dimensional storyline,PS2,Takahiro Suzuki,60
 Super Robot Taisen Z2 Hakai-hen,Banpresto,First part of Z2 duology,PSP,Takahiro Suzuki,55
 Super Robot Taisen Z2 Saisei-hen,Banpresto,Second part of Z2 storyline,PSP,Takahiro Suzuki,60
 Super Robot Taisen Z3 Jigoku-hen,Banpresto,First part of Z3 storyline,PS3,Takahiro Suzuki,65
 Super Robot Taisen Z3 Tengoku-hen,Banpresto,Epic conclusion to entire Z series,PS3,Takahiro Suzuki,70
-System Shock,Looking Glass Studios,Cyberpunk horror with SHODAN AI,PC,Warren Spector,15
-System Shock 2,Irrational Games,Sci-fi horror masterpiece,PC,Ken Levine,20
-Tactics Ogre: Let Us Cling Together,Quest,Branching political narrative with consequence system,"SNES,PS1,PSP,PC",Toshiyuki Kubooka,80
+System Shock,Looking Glass Studios,Cyberpunk horror with SHODAN AI,Windows,Warren Spector,15
+System Shock 2,Irrational Games,Sci-fi horror masterpiece,Windows,Ken Levine,20
+Tactics Ogre: Let Us Cling Together,Quest,Branching political narrative with consequence system,"SNES,PS1,PSP,Windows",Toshiyuki Kubooka,80
 Tactics Ogre: The Knight of Lodis,Quest,Portable tactical RPG with moral choices,GBA,Toshiyuki Kubooka,35
-Tales of Arise,Namco,Series evolution with stunning visuals and combat,"PS4,PS5,Xbox One,Xbox Series,PC",Yusuke Tomizawa,50
-Tales of Berseria,Namco,Velvet's revenge story with darker themes,"PS3,PS4,PC",Yusuke Tomizawa,60
+Tales of Arise,Namco,Series evolution with stunning visuals and combat,"PS4,PS5,Xbox One,Xbox Series,Windows",Yusuke Tomizawa,50
+Tales of Berseria,Namco,Velvet's revenge story with darker themes,"PS3,PS4,Windows",Yusuke Tomizawa,60
 Tales of Destiny,Namco,Swordian weapon spirits with real-time combat,"PS1,PS2",Yoshito Higuchi,40
 Tales of Eternia,Namco,Bridge between worlds with excellent development,"PS1,PSP",Yoshito Higuchi,45
 Tales of Graces,Namco,Friendship themes with refined battle system,"Wii,PS3",Naoto Miyadera,50
@@ -593,26 +601,26 @@ Tales of Hearts,Namco,Emotion-based storyline with Spiria mechanics,"DS,Vita",Na
 Tales of Legendia,Namco,Character-focused storytelling with unique art style,PS2,Toshihiro Kondo,50
 Tales of Phantasia,Namco,First Tales with voice acting and real-time combat,"SNES,PS1,GBA,PSP,iOS",Yoshito Higuchi,40
 Tales of Rebirth,Namco,Force system with unique battle mechanics,"PS2,PSP",Naoto Miyadera,45
-Tales of Symphonia,Namco,GameCube exclusive with world regeneration themes,"GameCube,PS2,PS3,PC",Eiji Kikuchi,60
+Tales of Symphonia,Namco,GameCube exclusive with world regeneration themes,"GameCube,PS2,PS3,Windows",Eiji Kikuchi,60
 Tales of the Abyss,Namco,Identity crisis themes with replica storyline,"PS2,3DS",Toshihiro Kondo,70
-Tales of Vesperia,Namco,Yuri's vigilante justice with beautiful cel-shading,"Xbox 360,PS3,PC,Switch",Eiji Kikuchi,60
-Tales of Xillia,Namco,Dual protagonists exploring world of spirits,"PS3,PC",Toshihiro Kondo,45
-Tales of Xillia 2,Namco,Sequel with debt management and multiple endings,"PS3,PC",Toshihiro Kondo,55
-Tales of Zestiria,Namco,Sorey's journey as Shepherd with camera issues,"PS3,PS4,PC",Yusuke Tomizawa,50
+Tales of Vesperia,Namco,Yuri's vigilante justice with beautiful cel-shading,"Xbox 360,PS3,Windows,Switch",Eiji Kikuchi,60
+Tales of Xillia,Namco,Dual protagonists exploring world of spirits,"PS3,Windows",Toshihiro Kondo,45
+Tales of Xillia 2,Namco,Sequel with debt management and multiple endings,"PS3,Windows",Toshihiro Kondo,55
+Tales of Zestiria,Namco,Sorey's journey as Shepherd with camera issues,"PS3,PS4,Windows",Yusuke Tomizawa,50
 Terranigma,Enix,Philosophical action RPG about world and humanity creation,SNES,Yoji Horii,40
-Terraria,Re-Logic,2D sandbox adventure with RPG progression and boss battles,"PC,PS4,PS5,Xbox One,Xbox Series,Switch,Mobile",Andrew Spinks,100
+Terraria,Re-Logic,2D sandbox adventure with RPG progression and boss battles,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch,Mobile",Andrew Spinks,100
 The Alliance Alive,FuRyu,Spiritual successor to classic JRPG design,3DS,Masataka Matsuura,35
-The Banner Saga,Stoic Studio,Tactical RPG with Viking mythology and hand-drawn animation,"PC,Mac,PS4,Xbox One,Switch,iOS,Android",Alex Thomas,12
-The Banner Saga 2,Stoic Studio,Continuation of the Viking saga with expanded tactical combat,"PC,Mac,PS4,Xbox One,Switch,iOS,Android",Alex Thomas,12
-The Banner Saga 3,Stoic Studio,Epic conclusion to the Viking trilogy with final battle against darkness,"PC,Mac,PS4,Xbox One,Switch,iOS,Android",Alex Thomas,12
-The Binding of Isaac,Edmund McMillen,Dark roguelike with religious symbolism and item synergies,"PC,PS4,Switch,Vita,3DS",Edmund McMillen,50
-The Elder Scrolls III: Morrowind,Bethesda,Alien fantasy world with deep lore,"PC,Xbox",Todd Howard,100
-The Elder Scrolls IV: Oblivion,Bethesda,Guild-focused fantasy with dynamic NPCs,"PC,Xbox,PS3",Todd Howard,80
-The Elder Scrolls V: Skyrim,Bethesda,Dragon-born adventure with extensive modding,"PC,Xbox,PS3,PS4,Switch",Todd Howard,100
+The Banner Saga,Stoic Studio,Tactical RPG with Viking mythology and hand-drawn animation,"Windows,Mac,PS4,Xbox One,Switch,iOS,Android",Alex Thomas,12
+The Banner Saga 2,Stoic Studio,Continuation of the Viking saga with expanded tactical combat,"Windows,Mac,PS4,Xbox One,Switch,iOS,Android",Alex Thomas,12
+The Banner Saga 3,Stoic Studio,Epic conclusion to the Viking trilogy with final battle against darkness,"Windows,Mac,PS4,Xbox One,Switch,iOS,Android",Alex Thomas,12
+The Binding of Isaac,Edmund McMillen,Dark roguelike with religious symbolism and item synergies,"Windows,PS4,Switch,Vita,3DS",Edmund McMillen,50
+The Elder Scrolls III: Morrowind,Bethesda,Alien fantasy world with deep lore,"Windows,Xbox",Todd Howard,100
+The Elder Scrolls IV: Oblivion,Bethesda,Guild-focused fantasy with dynamic NWindowss,"Windows,Xbox,PS3",Todd Howard,80
+The Elder Scrolls V: Skyrim,Bethesda,Dragon-born adventure with extensive modding,"Windows,Xbox,PS3,PS4,Switch",Todd Howard,100
 The Last Guardian,Sony,Spiritual successor featuring a boy and his creature companion Trico solving physics-based puzzles,PS4,Fumito Ueda,12
 The Legend of Dragoon,Sony, A turn-based JRPG following Dart and his companions as they awaken the powers of ancient Dragoons to stop a world-ending threat. Features a unique 'Additions' combat system and cinematic story,"PS1,PSP",Kazuki Kurashima,60
-The Legend of Heroes: Trails in the Sky,Falcom,Deep worldbuilding and character-driven turn-based RPG,"PSP,PC",Toshihiro Kondo,50
-The Legend of Heroes: Trails in the Sky SC,Falcom,Sequel continuing Estelle and Joshua’s journey,"PSP,PC",Toshihiro Kondo,60
+The Legend of Heroes: Trails in the Sky,Falcom,Deep worldbuilding and character-driven turn-based RPG,"PSP,Windows",Toshihiro Kondo,50
+The Legend of Heroes: Trails in the Sky SC,Falcom,Sequel continuing Estelle and Joshua’s journey,"PSP,Windows",Toshihiro Kondo,60
 The Legend of Zelda,Nintendo,Original adventure that started the legendary series,NES,Shigeru Miyamoto,8
 The Legend of Zelda: A Link Between Worlds,Nintendo,Wall-merging adventure sequel to A Link to the Past,3DS,Hidemaro Fujibayashi,20
 The Legend of Zelda: A Link to the Past,Nintendo,Classic top-down adventure introducing the Master Sword,SNES,Shigeru Miyamoto,15
@@ -628,53 +636,53 @@ The Legend of Zelda: Skyward Sword,Nintendo,Origin story with motion controls,Wi
 The Legend of Zelda: Spirit Tracks,Nintendo,Train-traveling adventure with Zelda as companion,Nintendo DS,Eiji Aonuma,25
 The Legend of Zelda: Tears of the Kingdom,Nintendo,Building-focused sequel to Breath of the Wild,Switch,Hidemaro Fujibayashi,70
 The Legend of Zelda: The Adventure of Link,Nintendo,Side-scrolling sequel with RPG elements,NES,Shigeru Miyamoto,12
-The Legend of Zelda: The Minish Cap,Nintendo,Shrinking adventure with Capcom development,GBA,Hidemaro Fujibayashi,15
+The Legend of Zelda: The Minish Cap,Nintendo,Shrinking adventure with CaWindowsom development,GBA,Hidemaro Fujibayashi,15
 The Legend of Zelda: The Wind Waker,Nintendo,Cel-shaded ocean adventure with sailing,GameCube,Eiji Aonuma,30
 The Legend of Zelda: Tri Force Heroes,Nintendo,Multiplayer adventure with costume mechanics,3DS,Hidemaro Fujibayashi,15
 The Legend of Zelda: Twilight Princess,Nintendo,Darker adventure with wolf transformation,Wii,Eiji Aonuma,35
-The Outer Worlds,Obsidian,Sci-fi corporate dystopia with humor,"PC,PS4,Xbox,Switch",Tim Cain,25
-The Witcher,CD Projekt RED,Adult fantasy based on Polish novels,PC,Adam Badowski,50
-The Witcher 2: Assassins of Kings,CD Projekt RED,Political intrigue with branching paths,"PC,Xbox",Adam Badowski,35
-The Witcher 3: Wild Hunt,CD Projekt RED,Open-world masterpiece with exceptional quests,"PC,PS4,Xbox,Switch",Adam Badowski,100
+The Outer Worlds,Obsidian,Sci-fi corporate dystopia with humor,"Windows,PS4,Xbox,Switch",Tim Cain,25
+The Witcher,CD Projekt RED,Adult fantasy based on Polish novels,Windows,Adam Badowski,50
+The Witcher 2: Assassins of Kings,CD Projekt RED,Political intrigue with branching paths,"Windows,Xbox",Adam Badowski,35
+The Witcher 3: Wild Hunt,CD Projekt RED,Open-world masterpiece with exceptional quests,"Windows,PS4,Xbox,Switch",Adam Badowski,100
 The World Ends With You,Square Enix,Modern Shibuya setting with dual-screen combat innovation,"DS,Switch,Mobile",Tatsuya Kando,25
 Thousand Arms,Atlus,Dating sim mixed with traditional JRPG,PS1,Kazutoshi Iida,40
-Torment: Tides of Numenera,inXile Entertainment,Planescape spiritual successor,"PC,PS4,Xbox,Switch",Kevin Saunders,35
-Train Sim World 3,Dovetail Games,Realistic train simulation with career progression,"PC,PS4,PS5,Xbox One,Xbox Series",Matt Peddlesden,100
-Transistor,Supergiant Games,Sci-fi action RPG with turn-based planning mode,"PC,PS4,Switch,Mobile",Greg Kasavin,8
-Triangle Strategy,Square Enix,Tactical RPG with political branching paths and pixel visuals,"Switch,PC",Masaru Oyamada,40
-Two Point Hospital,Two Point Studios,Hospital management with humor and progression,"PC,PS4,PS5,Xbox One,Xbox Series,Switch",Gary Carr,40
-Two Worlds,Reality Pump,Open-world fantasy with weapon stacking,"PC,Xbox",Daniel Dumont,60
-Two Worlds II,Reality Pump,Improved sequel with magic system,"PC,Xbox,PS3",Daniel Dumont,40
-Tyranny,Obsidian,Evil has won premise with Kyros Empire,PC,Josh Sawyer,30
-Ultima III: Exodus,Origin Systems,Early party-based RPG with virtue system origins,"NES,PC,C64",Richard Garriott,40
-Ultima IV: Quest of the Avatar,Origin Systems,Revolutionary RPG focusing on virtue rather than defeating evil,"NES,PC,C64",Richard Garriott,50
-Ultima V: Warriors of Destiny,Origin Systems,Dark sequel dealing with corrupted virtue system,"PC,NES,C64",Richard Garriott,60
-Ultima VI: The False Prophet,Origin Systems,Unified world design with gargoyle perspective story,"PC,SNES,C64",Richard Garriott,40
-Ultima VII: The Black Gate,Origin Systems,Open-world masterpiece with Fellowship cult investigation,PC,Richard Garriott,80
-Ultima VIII: Pagan,Origin Systems,Action-oriented entry with elemental magic system,PC,Richard Garriott,30
-UnderRail,Stygian Software,Metro-tunnels isometric RPG with deep character building,PC,Stygian Software Team,60
-Undertale,Toby Fox,Indie RPG that subverts expectations with pacifism and humor,"PC,Switch,PS4,Xbox",Toby Fox,6
+Torment: Tides of Numenera,inXile Entertainment,Planescape spiritual successor,"Windows,PS4,Xbox,Switch",Kevin Saunders,35
+Train Sim World 3,Dovetail Games,Realistic train simulation with career progression,"Windows,PS4,PS5,Xbox One,Xbox Series",Matt Peddlesden,100
+Transistor,Supergiant Games,Sci-fi action RPG with turn-based planning mode,"Windows,PS4,Switch,Mobile",Greg Kasavin,8
+Triangle Strategy,Square Enix,Tactical RPG with political branching paths and pixel visuals,"Switch,Windows",Masaru Oyamada,40
+Two Point Hospital,Two Point Studios,Hospital management with humor and progression,"Windows,PS4,PS5,Xbox One,Xbox Series,Switch",Gary Carr,40
+Two Worlds,Reality Pump,Open-world fantasy with weapon stacking,"Windows,Xbox",Daniel Dumont,60
+Two Worlds II,Reality Pump,Improved sequel with magic system,"Windows,Xbox,PS3",Daniel Dumont,40
+Tyranny,Obsidian,Evil has won premise with Kyros Empire,Windows,Josh Sawyer,30
+Ultima III: Exodus,Origin Systems,Early party-based RPG with virtue system origins,"NES,Windows,C64",Richard Garriott,40
+Ultima IV: Quest of the Avatar,Origin Systems,Revolutionary RPG focusing on virtue rather than defeating evil,"NES,Windows,C64",Richard Garriott,50
+Ultima V: Warriors of Destiny,Origin Systems,Dark sequel dealing with corrupted virtue system,"Windows,NES,C64",Richard Garriott,60
+Ultima VI: The False Prophet,Origin Systems,Unified world design with gargoyle perspective story,"Windows,SNES,C64",Richard Garriott,40
+Ultima VII: The Black Gate,Origin Systems,Open-world masterpiece with Fellowship cult investigation,Windows,Richard Garriott,80
+Ultima VIII: Pagan,Origin Systems,Action-oriented entry with elemental magic system,Windows,Richard Garriott,30
+UnderRail,Stygian Software,Metro-tunnels isometric RPG with deep character building,Windows,Stygian Software Team,60
+Undertale,Toby Fox,Indie RPG that subverts expectations with pacifism and humor,"Windows,Switch,PS4,Xbox",Toby Fox,6
 Vagrant Story,Square,Dark mature action RPG with weapon crafting,"PS1,PSP",Tetsuya Takahashi,40
 Valkyrie Profile,Enix,Norse mythology with side-scrolling exploration,"PS1,PSP,Mobile",Masaki Norimoto,35
 Valkyrie Profile 2: Silmeria,Square Enix,Norse mythology prequel with improved systems,PS2,Tetsuya Takahashi,60
-Vampire: The Masquerade - Bloodlines,Troika Games,Gothic modern vampire clans,PC,Jason Anderson,30
+Vampire: The Masquerade - Bloodlines,Troika Games,Gothic modern vampire clans,Windows,Jason Anderson,30
 Vanguard Bandits,Human Entertainment,Mecha tactical RPG with branching paths,PS1,Masami Satou,30
-Warriors Orochi,Koei,Crossover combining Dynasty and Samurai Warriors,"PS2,Xbox 360,PC,PSP",Toshihiro Nagoshi,30
-Warriors Orochi 2,Koei,Expanded crossover with new storyline,"PS2,Xbox 360,PC,PSP",Toshihiro Nagoshi,35
+Warriors Orochi,Koei,Crossover combining Dynasty and Samurai Warriors,"PS2,Xbox 360,Windows,PSP",Toshihiro Nagoshi,30
+Warriors Orochi 2,Koei,Expanded crossover with new storyline,"PS2,Xbox 360,Windows,PSP",Toshihiro Nagoshi,35
 Warriors Orochi 3,Koei,Time travel plot with largest character roster,"PS3,Xbox 360,PSP,Vita,Wii U",Toshihiro Nagoshi,40
-Warriors Orochi 3 Ultimate,Koei Tecmo,Definitive version with additional content,"PS3,PS4,Xbox One,PC,Vita",Toshihiro Nagoshi,45
-Warriors Orochi 4,Koei Tecmo,Deification system with Greek mythology elements,"PS4,Xbox One,PC,Switch",Toshihiro Nagoshi,50
-Warriors Orochi 4 Ultimate,Koei Tecmo,Enhanced version with new characters and story,"PS4,Xbox One,PC,Switch",Toshihiro Nagoshi,55
-Wasteland 2,inXile Entertainment,Post-apocalyptic tactical revival,"PC,PS4,Xbox,Switch",Brian Fargo,50
-Wasteland 3,inXile Entertainment,Colorado-set with co-op campaign,"PC,PS4,Xbox,Switch",Brian Fargo,40
+Warriors Orochi 3 Ultimate,Koei Tecmo,Definitive version with additional content,"PS3,PS4,Xbox One,Windows,Vita",Toshihiro Nagoshi,45
+Warriors Orochi 4,Koei Tecmo,Deification system with Greek mythology elements,"PS4,Xbox One,Windows,Switch",Toshihiro Nagoshi,50
+Warriors Orochi 4 Ultimate,Koei Tecmo,Enhanced version with new characters and story,"PS4,Xbox One,Windows,Switch",Toshihiro Nagoshi,55
+Wasteland 2,inXile Entertainment,Post-apocalyptic tactical revival,"Windows,PS4,Xbox,Switch",Brian Fargo,50
+Wasteland 3,inXile Entertainment,Colorado-set with co-op campaign,"Windows,PS4,Xbox,Switch",Brian Fargo,40
 Wild Arms,Sony,Western-themed fantasy with puzzle-solving tools,"PS1,PS2",Akifumi Kaneko,45
 Wild Arms 2,Sony,Environmental themes with ARMS technology,"PS1,PS2",Akifumi Kaneko,60
 Wild Arms 3,Sony,Western themes with environmental restoration,PS2,Akifumi Kaneko,55
 Wild Arms 4,Sony,Hex-based combat with young protagonist,PS2,Akifumi Kaneko,45
 Wild Arms 5,Sony,Final numbered entry with customizable HEX system,PS2,Akifumi Kaneko,50
-Wild Hearts,Electronic Arts,Hunting game with ancient technology against nature-infused beasts,"PC,PS5,Xbox Series X/S",Omega Force,45
-Wild Hearts S,Koei Tecmo,Enhanced Switch 2 version with 4-player multiplayer,Nintendo Switch 2,Omega Force,45
-Wo Long: Fallen Dynasty,Koei Tecmo,Dark fantasy action RPG set in Three Kingdoms period with demons,"PS4,PS5,Xbox One,Xbox Series X/S,PC",Fumihiko Yasuda,40
+Wild Hearts,Electronic Arts,Hunting game with ancient technology against nature-infused beasts,"Windows,PS5,Xbox Series X/S",Omega Force,45
+Wild Hearts S,Koei Tecmo,Enhanced Switch 2 version with 4-player multiplayer,Switch 2,Omega Force,45
+Wo Long: Fallen Dynasty,Koei Tecmo,Dark fantasy action RPG set in Three Kingdoms period with demons,"PS4,PS5,Xbox One,Xbox Series X/S,Windows",Fumihiko Yasuda,40
 Xenoblade Chronicles,Nintendo,Expansive world exploration with real-time combat,Wii,Tetsuya Takahashi,52
 Xenoblade Chronicles 2,Nintendo,Blade system with deep story and expansive world,Switch,Tetsuya Takahashi,65
 Xenoblade Chronicles 2: Torna - The Golden Country,Nintendo,Prequel expansion focusing on the Aegis War,Switch,Tetsuya Takahashi,25
@@ -689,6 +697,6 @@ Xenosaga Episode I,Namco,Sci-fi opera beginning KOS-MOS saga,PS2,Tetsuya Takahas
 Xenosaga Episode II,Namco,Darker middle chapter with new art style,PS2,Tetsuya Takahashi,35
 Xenosaga Episode III,Namco,Epic space opera conclusion,PS2,Tetsuya Takahashi,50
 Yu-Gi-Oh! Dungeon Dice Monsters,Konami,Tactical RPG with dice-based combat and monster summoning,GBA,Shun Nakamura,15
-Zone of the Enders,Konami,Fast-paced mecha action with Orbital Frame Jehuty,"PS2,PS3,Xbox,PC",Hideo Kojima,6
-Zone of the Enders: The 2nd Runner,Konami,High-speed sequel with enhanced combat and Anubis storyline,"PS2,PS3,PS4,Xbox,PC",Hideo Kojima,8
+Zone of the Enders,Konami,Fast-paced mecha action with Orbital Frame Jehuty,"PS2,PS3,Xbox,Windows",Hideo Kojima,6
+Zone of the Enders: The 2nd Runner,Konami,High-speed sequel with enhanced combat and Anubis storyline,"PS2,PS3,PS4,Xbox,Windows",Hideo Kojima,8
 Zone of the Enders: The Fist of Mars,Konami,Tactical RPG spin-off with strategy elements on Mars,GBA,Hideo Kojima,25

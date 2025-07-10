@@ -1,6 +1,6 @@
 # RPGs 
 
-![Total Estimated Playtime](https://img.shields.io/badge/Total%20Estimated%20Playtime-28033%20hours-blueviolet)
+![Total Estimated Playtime](https://img.shields.io/badge/Total%20Estimated%20Playtime-28128%20hours-blueviolet)
 
 An ever-expanding list of **RPGs** spanning all subgenres and platforms. This project includes iconic titles and hidden gems across the genre: 
 
@@ -59,6 +59,54 @@ So if you got that itch to play an RPG, but don't have the time to scratch it, o
 
 You can import this list into your spreadsheet software or even through Notion, maybe a similar Open Source Alternative, to sort, filter, and extend the games based on your preferences. 
 
+
+### Device Reference
+
+# Gaming Platform Reference Table
+
+Below is a reference table for all gaming platforms and devices used in the dataset. The table includes the abbreviated value used in the data, the full name of the device, its release year, manufacturer, and notable features or specifications:
+
+| Value | Full Name | Release | Manufacturer | Details |
+|-------|------------|---------|--------------|---------|
+| 3DS | Nintendo 3DS | 2011 | Nintendo | Glasses-free 3D display, dual screens, backward compatibility with DS games |
+| DS | Nintendo DS | 2004 | Nintendo | Dual screens with bottom touchscreen, innovative game design |
+| Dreamcast | Sega Dreamcast | 1998 | Sega | First 128-bit console, online gaming pioneer, VMU memory card with LCD screen |
+| GB | Game Boy | 1989 | Nintendo | Revolutionary handheld console, long battery life, durable design |
+| GBC | Game Boy Color | 1998 | Nintendo | Color screen, backward compatibility with Game Boy games, infrared port |
+| GBA | Nintendo Game Boy Advance | 2001 | Nintendo | 32-bit handheld, backward compatibility with Game Boy games |
+| GameCube | Nintendo GameCube | 2001 | Nintendo | Compact disc-based system, handle for portability, innovative controller design |
+| Genesis | Sega Genesis/Mega Drive | 1988 | Sega | 16-bit console, known as Mega Drive outside North America |
+| Master System | Sega Master System | 1985 | Sega | 8-bit console, built-in game capability in some models |
+| Mobile | Mobile Devices | Various | Various | iOS and Android smartphones and tablets |
+| N64 | Nintendo 64 | 1996 | Nintendo | 64-bit console, pioneered analog stick controller, cartridge-based |
+| NES | Nintendo Entertainment System | 1983 | Nintendo | 8-bit console that revitalized the gaming industry |
+| PC | Personal Computer | Various | Various | PC gaming can include any variety of PC (Windows, MacOS, Linux) |
+| PS Vita | PlayStation Vita | 2011 | Sony | Advanced handheld with OLED screen, dual analog sticks |
+| PS1 | PlayStation | 1994 | Sony | First PlayStation console, pioneered CD-ROM gaming |
+| PS2 | PlayStation 2 | 2000 | Sony | Best-selling console of all time, DVD playback capability |
+| PS3 | PlayStation 3 | 2006 | Sony | Blu-ray player, Cell processor, free online gaming |
+| PS4 | PlayStation 4 | 2013 | Sony | Enhanced social features, Share button, remote play |
+| PS5 | PlayStation 5 | 2020 | Sony | SSD storage, ray tracing, haptic feedback controllers |
+| PSP | PlayStation Portable | 2004 | Sony | First major Sony handheld, UMD discs, multimedia capabilities |
+| Saturn | Sega Saturn | 1994 | Sega | 32-bit console, dual CPU architecture, strong 2D capabilities |
+| SNES | Super Nintendo Entertainment System | 1990 | Nintendo | 16-bit console, Mode 7 graphics, iconic controller design |
+| Switch | Nintendo Switch | 2017 | Nintendo | Hybrid console/handheld, detachable Joy-Con controllers |
+| Switch 2 | Nintendo Switch 2 | 2025 | Nintendo | Next-generation Switch with enhanced graphics and performance |
+| Wii | Nintendo Wii | 2006 | Nintendo | Motion controls, broad casual gaming appeal, backward compatibility |
+| Wii U | Nintendo Wii U | 2012 | Nintendo | Tablet-style GamePad controller, HD graphics, backward compatibility |
+| Windows | Microsoft Windows | Various | Microsoft | Primary PC operating system for gaming |
+| Xbox | Xbox (Various) | 2001-Present | Microsoft | Including original Xbox, 360, One, and Series X/S |
+| macOS | Apple macOS | Various | Apple | Apple's desktop operating system |
+
+## Usage Notes
+
+- **Value column**: Contains the abbreviated codes used in your dataset
+- **Full Name**: Complete official product name
+- **Release**: Year of initial release (or "Various" for platforms with multiple versions)
+- **Manufacturer**: Company that developed/published the platform
+- **Details**: Key features, specifications, or historical significance
+
+This reference table can be used to decode device values in your dataset and provide context about each gaming platform's capabilities and market position.
 
 ---
 

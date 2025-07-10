@@ -68,6 +68,14 @@ Below is a reference table for all gaming platforms and devices used in the data
 
 | Value | Full Name | Release | Manufacturer | Manufacturing Cost (Est.) | Details |
 |-------|------------|---------|--------------|---------------------------|---------|
+| Magnavox Odyssey | Magnavox Odyssey | 1972 | Magnavox | $50-75 | First commercial home video game console, no sound, simple graphics |
+| Pong | Pong (Home) | 1975 | Atari | $30-50 | Dedicated Pong console, simple paddle-based gameplay |
+| Fairchild Channel F | Fairchild Channel F | 1976 | Fairchild | $60-100 | First programmable ROM cartridge-based console |
+| Atari 2600 | Atari 2600 | 1977 | Atari | $80-120 | 8-bit console, joystick controller, massive game library |
+| Magnavox Odyssey² | Magnavox Odyssey² | 1978 | Magnavox | $70-100 | Enhanced version with membrane keyboard, voice synthesis |
+| Intellivision | Intellivision | 1979 | Mattel | $100-150 | Superior graphics for its time, disc-shaped controller |
+| Atari 5200 | Atari 5200 | 1982 | Atari | $120-180 | Advanced graphics, analog joystick, poor controller reliability |
+| ColecoVision | ColecoVision | 1982 | Coleco | $100-150 | Arcade-quality graphics, came bundled with Donkey Kong |
 | NES | Nintendo Entertainment System | 1983 | Nintendo | $40-80 | 8-bit console that revitalized the gaming industry |
 | Master System | Sega Master System | 1985 | Sega | $80-120 | 8-bit console, built-in game capability in some models |
 | Genesis | Sega Genesis/Mega Drive | 1988 | Sega | $100-150 | 16-bit console, known as Mega Drive outside North America |
@@ -108,9 +116,15 @@ Below is a reference table for all gaming platforms and devices used in the data
 - **Full Name**: Complete official product name
 - **Release**: Year of initial release (or "Various" for platforms with multiple versions)
 - **Manufacturer**: Company that developed/published the platform
+- **Manufacturing Cost (Est.)**: Estimated manufacturing costs based on industry analyses and teardown reports. These are approximations and costs varied over product lifecycles
 - **Details**: Key features, specifications, or historical significance
 
-This reference table can be used to decode device values in the dataset and provide context about each gaming platform's capabilities and market position.
+**Note on Manufacturing Costs**: 
+
+These estimates are based on industry teardown analyses, component cost breakdowns, and leaked reports derived from data collected by LLMs to create the financial estimation. Actual manufacturing costs varies significantly based on production volume, component prices at time of manufacture, and regional differences. Costs typically decreased over a product's lifecycle as manufacturing processes improved and component costs fell.
+
+This reference table can be used to decode device values in your dataset and provide context about each gaming platform's capabilities and market position.
+
 
 ---
 

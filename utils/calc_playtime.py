@@ -4,8 +4,8 @@ import pandas as pd
 def calculate_total_playtime():
     """Calculate total playtime hours from rpgs.csv"""
     df = pd.read_csv('rpgs.csv')
-    total_hours = df['playtime'].sum()
-    return total_hours
+    total_hours = pd.to_numeric(df['playtime'], errors='coerce').sum()
+    return int(total_hours)
 
 def generate_shield_badge():
     """Generate a shields.io badge URL with total playtime"""

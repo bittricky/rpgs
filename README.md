@@ -81,17 +81,20 @@ Below is a reference table for all gaming platforms and devices used in the data
 | PS2 | PlayStation 2 | 2000 | Sony | $200-300 | Best-selling console of all time, DVD playback capability |
 | GBA | Nintendo Game Boy Advance | 2001 | Nintendo | $60-80 | 32-bit handheld, backward compatibility with Game Boy games |
 | GameCube | Nintendo GameCube | 2001 | Nintendo | $150-200 | Compact disc-based system, handle for portability, innovative controller design |
-| Xbox | Xbox (Various) | 2001-Present | Microsoft | $300-500 | Including original Xbox, 360, One, and Series X/S |
+| Xbox | Xbox | 2001 | Microsoft | $299 | First Microsoft console, built-in hard drive, DirectX-based architecture |
 | DS | Nintendo DS | 2004 | Nintendo | $80-100 | Dual screens with bottom touchscreen, innovative game design |
 | PSP | PlayStation Portable | 2004 | Sony | $150-180 | First major Sony handheld, UMD discs, multimedia capabilities |
+| Xbox 360 | Xbox 360 | 2005 | Microsoft | $299-399 | HD gaming, Xbox Live integration, Kinect support |
 | PS3 | PlayStation 3 | 2006 | Sony | $800-900 | Blu-ray player, Cell processor, free online gaming |
 | Wii | Nintendo Wii | 2006 | Nintendo | $150-200 | Motion controls, broad casual gaming appeal, backward compatibility |
 | 3DS | Nintendo 3DS | 2011 | Nintendo | $100-130 | Glasses-free 3D display, dual screens, backward compatibility with DS games |
 | PS Vita | PlayStation Vita | 2011 | Sony | $180-220 | Advanced handheld with OLED screen, dual analog sticks |
 | Wii U | Nintendo Wii U | 2012 | Nintendo | $300-350 | Tablet-style GamePad controller, HD graphics, backward compatibility |
 | PS4 | PlayStation 4 | 2013 | Sony | $380-400 | Enhanced social features, Share button, remote play |
+| Xbox One | Xbox One | 2013 | Microsoft | $499 | All-in-one entertainment focus, Kinect 2.0, cloud computing |
 | Switch | Nintendo Switch | 2017 | Nintendo | $260-300 | Hybrid console/handheld, detachable Joy-Con controllers |
 | PS5 | PlayStation 5 | 2020 | Sony | $450-500 | SSD storage, ray tracing, haptic feedback controllers |
+| Xbox Series X/S | Xbox Series X/S | 2020 | Microsoft | $299-499 | Quick Resume, ray tracing, Smart Delivery, backward compatibility |
 | Steam Deck | Steam Deck | 2022 | Valve | $350-400 | Handheld gaming PC, runs SteamOS/Linux, portable PC gaming |
 | Switch 2 | Nintendo Switch 2 | 2025 | Nintendo | $300-400 (Est.) | Next-generation Switch with enhanced graphics and performance |
 | Mobile | Mobile Devices | Various | Various | $50-500+ | iOS and Android smartphones and tablets |

@@ -16,15 +16,15 @@ An ever-expanding list of **RPGs** spanning all subgenres and platforms. This pr
 - **Indie RPGs**
 
 
-Whether you’re new to the genre or delving into its hidden gems, this list lets you explore immersive gaming **experiences that rival traditional cinematic storytelling**, complete with key details at a glance. Just as modern cinema reinvented traditional forms of literature,**gaming is completely redefining the art of cinema and the way stories can be told**.
+Whether you’re new to the genre or delving into its hidden gems, this list lets you explore immersive gaming **experiences that rival traditional cinematic storytelling**, complete with key details at a glance. Just as modern cinema reinvented traditional forms of literature, **gaming is completely redefining the art of cinema and the way stories can be told**.
 
 ### Columns
 
 - **title**: The name of the game.
-- **publisher**: The publisher or studio responsible for the game.
+- **publisher**: The publisher or studio behind the game.
 - **description**: A short summary highlighting the game's premise, mechanics, or impact.
 - **device**: Platforms the game was released on (e.g. SNES, PC, Switch).
-- **director**: Games are often developed collaboratively by a group of individuals, but the director or creative lead is the person who holds the responsibility for the manifestation of the game.
+- **director**: Games are often developed collaboratively by a group of individuals, but the director or creative lead is the person who holds the responsibility for manifesting the game.
 - **playtime**: Approximate main story playtime in hours.
 
 ### Purpose

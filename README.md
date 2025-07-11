@@ -35,7 +35,7 @@ This project aims to:
 - Include games across **mainstream and niche subgenres**.
 - Offer **playtime estimates** to help with planning.
 
-Providing a comprehensive list of games to play that can introduce newcomers to the genre and give them the ability to cultivate new experiences. 
+Providing a comprehensive list of games to play that can introduce newcomers to the genre(s) and give them the ability to cultivate new experiences. 
 
 Contributions and suggestions are welcome!
 
@@ -53,27 +53,33 @@ This literary movement began to take shape in the early 2000s with works like th
 
 ## The Literary Foundation
 
-As both gaming and fiction continue to evolve towards more interactive, character-centric experiences, LitRPG, which some may call a form of power fantasy, serves as a literary complement to what RPGs have always offered: the vicarious experience of character progression and world-building, though ultimately through reading rather than direct interaction. In LitRPG, game-like elements form an essential part of the story, and visible RPG statistics (for example strength, intelligence, damage) are a significant part of the reading experience.
+As both gaming and fiction continue to evolve towards more interactive, character-centric experiences, LitRPG, which some may call a form of power fantasy, serves as a literary complement to what RPGs have always offered: the vicarious experience of character progression and world-building, though ultimately through reading rather than direct interaction. In LitRPG, game-like elements form an essential part of the story, and visible RPG statistics (for example strength, intelligence, damage) are a significant part of the reading experience as the character encounters challenges to overcome and progress through the story.
 
 ## Cross-Media Expansion
 
 ### Beyond Literature
 
-This genre of storytelling has transcended literary boundaries and flourished across multiple other media formats, particularly in Korean manhwa, webtoons, and their recent anime adaptations being produced well established platforms such as Crunchyroll and Netflix, even Amazon Prime Video. The expansion represents a significant shift in how gaming-inspired narratives are consumed and are being adapted across different cultural contexts to bring a vibrant and immersive experience to audiences around the world.
+This genre of storytelling has transcended literary boundaries and flourished across multiple other media formats, particularly in South Korean manhwa, webtoons, and their recent anime adaptations being produced by well established streaming media platforms such as [Crunchyroll](https://en.wikipedia.org/wiki/Crunchyroll), [Netflix](https://en.wikipedia.org/wiki/Netflix), and [Amazon Prime Video](https://en.wikipedia.org/wiki/Amazon_Prime_Video). The expansion represents a significant shift in how gaming-inspired narratives are consumed and are being adapted across different cultural contexts to bring a vibrant and immersive experience to audiences around the world.
 
-### The Korean Wave in Animation
+### The South Korean Wave in Animation
 
-As of 2025, The surge in South Korean-originated content has been particularly notable in recent years. [Solo Leveling](https://en.wikipedia.org/wiki/Solo_Leveling), which premiered as an anime in January 2024, became a landmark success that opened doors for numerous other adaptations from the vast amount of stories that have been created to this date. [Tower of God](https://en.wikipedia.org/wiki/Tower_of_God_(anime)), which received its anime adaptation in 2020, was one of the earlier pioneers in this space, demonstrating the viability of manhwa-to-anime adaptations competing against other animated series of its category.
+As of 2025, the surge in South Korean-originated content has been particularly notable in recent years. The outsourcing of animation production to South Korea has played a significant role in this success, as studios there have developed a reputation for producing high-quality, visually striking work. South Korean animators bring a unique blend of technical skill and artistic innovation, which has elevated the quality and distinctiveness of manhwa-based anime adaptations.
+
+A prime example is *[Solo Leveling](https://en.wikipedia.org/wiki/Solo_Leveling)*, which premiered as an anime in January 2024 and became a landmark success. Its polished animation, dynamic action sequences, and faithful art style resonated with global audiences, opening doors for numerous other adaptations from the vast library of South Korean stories.
+
+Earlier pioneers like *[Tower of God](https://en.wikipedia.org/wiki/Tower_of_God_(anime))*, which received its anime adaptation in 2020, demonstrated the viability of manhwa-to-anime adaptations competing with established animated series worldwide. The show’s unique art direction and fluid animation helped establish South Korean content as a competitive force in the global animation market.
+
+Overall, the delegation of artistic work to South Korea and in-house development of animation to South Korea has not only reduced production costs but also resulted in a distinctive, vibrant, and high-quality unique art style that continues to attract international fans and elevate the global profile of manhwa adaptations and their stories outside just the genre of LitRPG.
 
 ### Industry Growth and Statistics
 
-The momentum behind manhwa and webtoon adaptations has reached unprecedented levels. The digital comics and webtoon industry is undergoing rapid expansion worldwide, reshaping how visual storytelling is created, consumed, and monetized. Originating in South Korea, webtoons have evolved from a **regional phenomenon into a global entertainment powerhouse**, driven by **advances in mobile technology, shifting consumer habits, and the rise of digital platforms**.
+The momentum behind manhwa and webtoon adaptations has reached unprecedented levels. The digital comics and webtoon industry is undergoing rapid expansion worldwide, reshaping how visual storytelling is created, consumed, and monetized. Originating in South Korea, webtoons have evolved from a **regional phenomenon into a global entertainment powerhouse**, driven by **advances in mobile technology, shifting consumer habits, and the rise of digital media platforms**.
 
-The industry’s revenue exceeded $8 billion USD in 2023, fueled by subscription models, advertising, microtransactions, and content licensing. Forecasts predict a compound annual growth rate (CAGR) near 27% through 2030, with the market valuation expected to surpass $60 billion. This explosive growth is powered by increasing smartphone penetration, improved internet infrastructure, and expanding middle-class populations in Asia, North America, Europe, and emerging markets.
+**The industry’s revenue exceeded $8 billion USD in 2023**, fueled by subscription models, advertising, microtransactions, and content licensing. [Forecasts predict a compound annual growth rate (CAGR) near 27% through 2030](https://www.mordorintelligence.com/industry-reports/webtoons-market), with the market valuation expected to surpass $60 billion. This explosive growth is powered by increasing smartphone penetration, improved internet infrastructure, and expanding middle-class populations in Asia, North America, Europe, and emerging markets.
 
 ### Cultural Parallels: South Korean and Japanese Movements
 
-This surge in South Korean-originated content mirrors [Japan's isekai literary movement](https://en.wikipedia.org/wiki/Isekai) that has become widely popular for decades, with both genres often overlapping with LitRPG elements and sharing similar themes of character progression and world-building. The cross-pollination between these cultural movements has created a rich ecosystem of content that spans comics, graphic novels, manhwa, manhua, webtoons, webnovels, and manga.
+This surge in South Korean-originated content mirrors [Japan's isekai literary movement](https://en.wikipedia.org/wiki/Isekai) that has become widely popular for decades, with both genres often overlapping with LitRPG elements and sharing similar themes of character progression and world-building. The cross-pollination between these two cultural movements has created a rich ecosystem of content that spans across comics, graphic novels, manhwa, manhua, webtoons, webnovels, and manga.
 
 ### Media Format Diversity
 
@@ -88,9 +94,7 @@ The LitRPG inspired storytelling approach has found expression across numerous f
 
 ## The Acceleration Trend
 
-The plan to create 20 new adaptations marks a major turning point—not just another adaptation here and there, but a full-scale integration of webtoons and anime. Webtoon adaptations affect the anime industry positively by introducing fresher, more innovative ways of visual storytelling.
-
-The trend is indeed accelerating significantly, with recently formed studios like XTorm specializing in adaptations of different manhwa and Korean web novels, indicating a structural shift in the industry toward this content type.
+The webtoon-to-anime adaptation trend is rapidly accelerating as industry leaders recognize the vast creative potential and growing global audience of digital comics. Companies are increasingly investing in adapting popular webtoons into anime, driven by successful flagship titles and rising international demand. Specialized studios and expanded production pipelines underscore a structural shift toward this content type, marking a fundamental change in how stories are developed, adapted, and consumed worldwide. This momentum signals sustained growth and deeper integration of webtoons within the broader animation and entertainment ecosystem.
 
 This expansion represents more than just a trend—it signals a fundamental shift in how gaming-inspired narratives are created, adapted, and consumed across global markets, with LitRPG serving as a bridge between interactive entertainment and traditional storytelling media. Looking at the recent popular productions on Amazon Prime Video, Netflix, and Crunchyroll, it is clear that this trend is not going to slow down any time soon.
 

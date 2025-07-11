@@ -75,7 +75,7 @@ Overall, the delegation of artistic work to South Korea and in-house development
 
 The momentum behind manhwa and webtoon adaptations has reached unprecedented levels. The digital comics and webtoon industry is undergoing rapid expansion worldwide, reshaping how visual storytelling is created, consumed, and monetized. Originating in South Korea, webtoons have evolved from a **regional phenomenon into a global entertainment powerhouse**, driven by **advances in mobile technology, shifting consumer habits, and the rise of digital media platforms**.
 
-**The industry’s revenue exceeded $8 billion USD in 2023**, fueled by subscription models, advertising, microtransactions, and content licensing. [Forecasts predict a compound annual growth rate (CAGR) near 27% through 2030](https://www.mordorintelligence.com/industry-reports/webtoons-market), with the market valuation expected to surpass $60 billion. This explosive growth is powered by increasing smartphone penetration, improved internet infrastructure, and expanding middle-class populations in Asia, North America, Europe, and emerging markets.
+**The industry’s revenue exceeded $8 billion USD in 2023**, fueled by subscription models, advertising, microtransactions, and content licensing. [Forecasts predict a compound annual growth rate (CAGR) near 35% through 2030](https://www.mordorintelligence.com/industry-reports/webtoons-market), with the market valuation expected to surpass $60 billion. This explosive growth is powered by increasing smartphone penetration, improved internet infrastructure, and expanding middle-class populations in Asia, North America, Europe, and emerging markets.
 
 ### Cultural Parallels: South Korean and Japanese Movements
 

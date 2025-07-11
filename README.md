@@ -64,58 +64,58 @@ You can import this list into your spreadsheet software or even through Notion, 
 
 ##### Gaming Platform Reference Table
 
-Below is a reference table for all gaming platforms and devices used in the dataset. The table includes the abbreviated value used in the data, the full name of the device, its release year, manufacturer, and notable features or specifications:
+Below is a reference table for all gaming platforms and devices used in the dataset, sorted by release year. The table includes the abbreviated value used in the data, the full name of the device, its release year, manufacturer, estimated manufacturing cost, and notable features or specifications:
 
-| Value | Full Name | Release | Manufacturer | Manufacturing Cost (Est.) | Details |
-|-------|------------|---------|--------------|---------------------------|---------|
-| Magnavox Odyssey | Magnavox Odyssey | 1972 | Magnavox | $50-75 | First commercial home video game console, no sound, simple graphics |
-| Pong | Pong (Home) | 1975 | Atari | $30-50 | Dedicated Pong console, simple paddle-based gameplay |
-| Fairchild Channel F | Fairchild Channel F | 1976 | Fairchild | $60-100 | First programmable ROM cartridge-based console |
-| Atari 2600 | Atari 2600 | 1977 | Atari | $80-120 | 8-bit console, joystick controller, massive game library |
-| Magnavox Odyssey² | Magnavox Odyssey² | 1978 | Magnavox | $70-100 | Enhanced version with membrane keyboard, voice synthesis |
-| Intellivision | Intellivision | 1979 | Mattel | $100-150 | Superior graphics for its time, disc-shaped controller |
-| Atari 5200 | Atari 5200 | 1982 | Atari | $120-180 | Advanced graphics, analog joystick, poor controller reliability |
-| ColecoVision | ColecoVision | 1982 | Coleco | $100-150 | Arcade-quality graphics, came bundled with Donkey Kong |
-| NES | Nintendo Entertainment System | 1983 | Nintendo | $40-80 | 8-bit console that revitalized the gaming industry |
-| Master System | Sega Master System | 1985 | Sega | $80-120 | 8-bit console, built-in game capability in some models |
-| Genesis | Sega Genesis/Mega Drive | 1988 | Sega | $100-150 | 16-bit console, known as Mega Drive outside North America |
-| GB | Game Boy | 1989 | Nintendo | $30-50 | Revolutionary handheld console, long battery life, durable design |
-| SNES | Super Nintendo Entertainment System | 1990 | Nintendo | $100-150 | 16-bit console, Mode 7 graphics, iconic controller design |
-| PS1 | PlayStation | 1994 | Sony | $150-200 | First PlayStation console, pioneered CD-ROM gaming |
-| Saturn | Sega Saturn | 1994 | Sega | $300-400 | 32-bit console, dual CPU architecture, strong 2D capabilities |
-| N64 | Nintendo 64 | 1996 | Nintendo | $200-250 | 64-bit console, pioneered analog stick controller, cartridge-based |
-| GBC | Game Boy Color | 1998 | Nintendo | $40-60 | Color screen, backward compatibility with Game Boy games, infrared port |
-| Dreamcast | Sega Dreamcast | 1998 | Sega | $200-250 | First 128-bit console, online gaming pioneer, VMU memory card with LCD screen |
-| PS2 | PlayStation 2 | 2000 | Sony | $200-300 | Best-selling console of all time, DVD playback capability |
-| GBA | Nintendo Game Boy Advance | 2001 | Nintendo | $60-80 | 32-bit handheld, backward compatibility with Game Boy games |
-| GameCube | Nintendo GameCube | 2001 | Nintendo | $150-200 | Compact disc-based system, handle for portability, innovative controller design |
-| Xbox | Xbox | 2001 | Microsoft | $299 | First Microsoft console, built-in hard drive, DirectX-based architecture |
-| DS | Nintendo DS | 2004 | Nintendo | $80-100 | Dual screens with bottom touchscreen, innovative game design |
-| PSP | PlayStation Portable | 2004 | Sony | $150-180 | First major Sony handheld, UMD discs, multimedia capabilities |
-| Xbox 360 | Xbox 360 | 2005 | Microsoft | $299-399 | HD gaming, Xbox Live integration, Kinect support |
-| PS3 | PlayStation 3 | 2006 | Sony | $800-900 | Blu-ray player, Cell processor, free online gaming |
-| Wii | Nintendo Wii | 2006 | Nintendo | $150-200 | Motion controls, broad casual gaming appeal, backward compatibility |
-| 3DS | Nintendo 3DS | 2011 | Nintendo | $100-130 | Glasses-free 3D display, dual screens, backward compatibility with DS games |
-| PS Vita | PlayStation Vita | 2011 | Sony | $180-220 | Advanced handheld with OLED screen, dual analog sticks |
-| Wii U | Nintendo Wii U | 2012 | Nintendo | $300-350 | Tablet-style GamePad controller, HD graphics, backward compatibility |
-| PS4 | PlayStation 4 | 2013 | Sony | $380-400 | Enhanced social features, Share button, remote play |
-| Xbox One | Xbox One | 2013 | Microsoft | $499 | All-in-one entertainment focus, Kinect 2.0, cloud computing |
-| Switch | Nintendo Switch | 2017 | Nintendo | $260-300 | Hybrid console/handheld, detachable Joy-Con controllers |
-| PS5 | PlayStation 5 | 2020 | Sony | $450-500 | SSD storage, ray tracing, haptic feedback controllers |
-| Xbox Series X/S | Xbox Series X/S | 2020 | Microsoft | $299-499 | Quick Resume, ray tracing, Smart Delivery, backward compatibility |
-| Steam Deck | Steam Deck | 2022 | Valve | $350-400 | Handheld gaming PC, runs SteamOS/Linux, portable PC gaming |
-| Switch 2 | Nintendo Switch 2 | 2025 | Nintendo | $300-400 (Est.) | Next-generation Switch with enhanced graphics and performance |
-| Mobile | Mobile Devices | Various | Various | $50-500+ | iOS and Android smartphones and tablets |
-| PC | Personal Computer | Various | Various | $200-2000+ | PC gaming can include any variety of PC with any operating system (Windows, MacOS, Linux, etc.) |
-| Windows | Microsoft Windows | Various | Microsoft | N/A (OS) | Primary PC operating system for gaming |
-| macOS | Apple macOS | Various | Apple | N/A (OS) | Apple's desktop operating system |
+| Value | Full Name | Release | Manufacturer | Platform Creator | Manufacturing Cost (Est.) | Details |
+|-------|------------|---------|--------------|-------------------------|---------------------------|---------|
+| Magnavox Odyssey | Magnavox Odyssey | 1972 | Magnavox | Ralph Baer | $50-75 | First commercial home video game console, no sound, simple graphics |
+| Pong | Pong (Home) | 1975 | Atari | Nolan Bushnell, Allan Alcorn | $30-50 | Dedicated Pong console, simple paddle-based gameplay |
+| Fairchild Channel F | Fairchild Channel F | 1976 | Fairchild | Jerry Lawson | $60-100 | First programmable ROM cartridge-based console |
+| Atari 2600 | Atari 2600 | 1977 | Atari | Jay Miner, Joe Decuir | $80-120 | 8-bit console, joystick controller, massive game library |
+| Magnavox Odyssey² | Magnavox Odyssey² | 1978 | Magnavox | Ralph Baer | $70-100 | Enhanced version with membrane keyboard, voice synthesis |
+| Intellivision | Intellivision | 1979 | Mattel | David Rolfe, Richard Chang | $100-150 | Superior graphics for its time, disc-shaped controller |
+| Atari 5200 | Atari 5200 | 1982 | Atari | Jay Miner | $120-180 | Advanced graphics, analog joystick, poor controller reliability |
+| ColecoVision | ColecoVision | 1982 | Coleco | Eric Bromley | $100-150 | Arcade-quality graphics, came bundled with Donkey Kong |
+| NES | Nintendo Entertainment System | 1983 | Nintendo | Masayuki Uemura | $40-80 | 8-bit console that revitalized the gaming industry |
+| Master System | Sega Master System | 1985 | Sega | Hideki Sato | $80-120 | 8-bit console, built-in game capability in some models |
+| Genesis | Sega Genesis/Mega Drive | 1988 | Sega | Hideki Sato | $100-150 | 16-bit console, known as Mega Drive outside North America |
+| GB | Game Boy | 1989 | Nintendo | Gunpei Yokoi | $30-50 | Revolutionary handheld console, long battery life, durable design |
+| SNES | Super Nintendo Entertainment System | 1990 | Nintendo | Masayuki Uemura | $100-150 | 16-bit console, Mode 7 graphics, iconic controller design |
+| PS1 | PlayStation | 1994 | Sony | Ken Kutaragi | $150-200 | First PlayStation console, pioneered CD-ROM gaming |
+| Saturn | Sega Saturn | 1994 | Sega | Hideki Sato | $300-400 | 32-bit console, dual CPU architecture, strong 2D capabilities |
+| N64 | Nintendo 64 | 1996 | Nintendo | Genyo Takeda | $200-250 | 64-bit console, pioneered analog stick controller, cartridge-based |
+| GBC | Game Boy Color | 1998 | Nintendo | Gunpei Yokoi, Satoru Okada | $40-60 | Color screen, backward compatibility with Game Boy games, infrared port |
+| Dreamcast | Sega Dreamcast | 1998 | Sega | Hideki Sato | $200-250 | First 128-bit console, online gaming pioneer, VMU memory card with LCD screen |
+| PS2 | PlayStation 2 | 2000 | Sony | Ken Kutaragi | $200-300 | Best-selling console of all time, DVD playback capability |
+| GBA | Nintendo Game Boy Advance | 2001 | Nintendo | Gwénaël Nicolas | $60-80 | 32-bit handheld, backward compatibility with Game Boy games |
+| GameCube | Nintendo GameCube | 2001 | Nintendo | Genyo Takeda | $150-200 | Compact disc-based system, handle for portability, innovative controller design |
+| Xbox | Xbox | 2001 | Microsoft | Seamus Blackley | $299 | First Microsoft console, built-in hard drive, DirectX-based architecture |
+| DS | Nintendo DS | 2004 | Nintendo | Satoru Iwata | $80-100 | Dual screens with bottom touchscreen, innovative game design |
+| PSP | PlayStation Portable | 2004 | Sony | Ken Kutaragi | $150-180 | First major Sony handheld, UMD discs, multimedia capabilities |
+| Xbox 360 | Xbox 360 | 2005 | Microsoft | Todd Holmdahl | $299-399 | HD gaming, Xbox Live integration, Kinect support |
+| PS3 | PlayStation 3 | 2006 | Sony | Ken Kutaragi | $800-900 | Blu-ray player, Cell processor, free online gaming |
+| Wii | Nintendo Wii | 2006 | Nintendo | Genyo Takeda | $150-200 | Motion controls, broad casual gaming appeal, backward compatibility |
+| 3DS | Nintendo 3DS | 2011 | Nintendo | Hideki Konno | $100-130 | Glasses-free 3D display, dual screens, backward compatibility with DS games |
+| PS Vita | PlayStation Vita | 2011 | Sony | Shuhei Yoshida | $180-220 | Advanced handheld with OLED screen, dual analog sticks |
+| Wii U | Nintendo Wii U | 2012 | Nintendo | Genyo Takeda | $300-350 | Tablet-style GamePad controller, HD graphics, backward compatibility |
+| PS4 | PlayStation 4 | 2013 | Sony | Mark Cerny | $380-400 | Enhanced social features, Share button, remote play |
+| Xbox One | Xbox One | 2013 | Microsoft | Todd Holmdahl | $499 | All-in-one entertainment focus, Kinect 2.0, cloud computing |
+| Switch | Nintendo Switch | 2017 | Nintendo | Koizumi Yoshiaki | $260-300 | Hybrid console/handheld, detachable Joy-Con controllers |
+| PS5 | PlayStation 5 | 2020 | Sony | Mark Cerny | $450-500 | SSD storage, ray tracing, haptic feedback controllers |
+| Xbox Series X/S | Xbox Series X/S | 2020 | Microsoft | Todd Holmdahl | $299-499 | Quick Resume, ray tracing, Smart Delivery, backward compatibility |
+| Steam Deck | Steam Deck | 2022 | Valve | Gabe Newell, Greg Coomer | $350-400 | Handheld gaming PC, runs SteamOS/Linux, portable PC gaming |
+| Switch 2 | Nintendo Switch 2 | 2025 | Nintendo | Koizumi Yoshiaki (Est.) | $300-400 (Est.) | Next-generation Switch with enhanced graphics and performance |
+| Mobile | Mobile Devices | Various | Various | Various | $50-500+ | iOS and Android smartphones and tablets |
+| PC | Personal Computer | Various | Various | Various | $200-2000+ | PC gaming can include any variety of PC with any operating system (Windows, MacOS, Linux, etc.) |
+| Windows | Microsoft Windows | Various | Microsoft | Bill Gates, Paul Allen | N/A (OS) | Primary PC operating system for gaming |
+| macOS | Apple macOS | Various | Apple | Steve Jobs, Steve Wozniak | N/A (OS) | Apple's desktop operating system |
 
 ## Usage Notes
 
 - **Value column**: Contains the abbreviated codes used in your dataset
 - **Full Name**: Complete official product name
 - **Release**: Year of initial release (or "Various" for platforms with multiple versions)
-- **Manufacturer**: Company that developed/published the platform
+- **Platform Creator**: The key individual or team that created and developed the gaming platform, however like most matters of product design, engineering, and manufacturing it is a collaborative effort.
 - **Manufacturing Cost (Est.)**: Estimated manufacturing costs based on industry analyses and teardown reports. These are approximations and costs varied over product lifecycles
 - **Details**: Key features, specifications, or historical significance
 

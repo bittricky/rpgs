@@ -63,17 +63,17 @@ This genre of storytelling has transcended literary boundaries and flourished ac
 
 ### The Korean Wave in Animation
 
-As of 2025, The surge in South Korean-originated content has been particularly notable in recent years. [Solo Leveling](https://en.wikipedia.org/wiki/Solo_Leveling), which premiered as an anime in January 2024, became a landmark success that opened doors for numerous other adaptations. [Tower of God](https://en.wikipedia.org/wiki/Tower_of_God_(anime)), which received its anime adaptation in 2020, was one of the earlier pioneers in this space, demonstrating the viability of manhwa-to-anime adaptations competing against other animated series of its category.
+As of 2025, The surge in South Korean-originated content has been particularly notable in recent years. [Solo Leveling](https://en.wikipedia.org/wiki/Solo_Leveling), which premiered as an anime in January 2024, became a landmark success that opened doors for numerous other adaptations from the vast amount of stories that have been created to this date. [Tower of God](https://en.wikipedia.org/wiki/Tower_of_God_(anime)), which received its anime adaptation in 2020, was one of the earlier pioneers in this space, demonstrating the viability of manhwa-to-anime adaptations competing against other animated series of its category.
 
 ### Industry Growth and Statistics
 
-The momentum behind manhwa and webtoon adaptations has reached unprecedented levels. LINE's CEO Kim Shin-bae revealed an aggressive strategy: having overseen only 12 anime adaptations in 2024, the company plans 20 webtoon-based anime series in 2025. In light of Solo Leveling's success, major publisher Line Manga is bringing 20 webtoons to anime in the upcoming year.
+The momentum behind manhwa and webtoon adaptations has reached unprecedented levels. The digital comics and webtoon industry is undergoing rapid expansion worldwide, reshaping how visual storytelling is created, consumed, and monetized. Originating in South Korea, webtoons have evolved from a **regional phenomenon into a global entertainment powerhouse**, driven by **advances in mobile technology, shifting consumer habits, and the rise of digital platforms**.
 
-The webtoon industry's growth reflected an 8.28 billion USD revenue in 2023, with enthusiasts and experts expecting a 27.3% CAGR from 2024 to 2030. The global market size for webtoons is expected to exceed $60 billion by 2030.
+The industry’s revenue exceeded $8 billion USD in 2023, fueled by subscription models, advertising, microtransactions, and content licensing. Forecasts predict a compound annual growth rate (CAGR) near 27% through 2030, with the market valuation expected to surpass $60 billion. This explosive growth is powered by increasing smartphone penetration, improved internet infrastructure, and expanding middle-class populations in Asia, North America, Europe, and emerging markets.
 
 ### Cultural Parallels: South Korean and Japanese Movements
 
-This surge in South Korean-originated content mirrors Japan's isekai literary movement that has become widely popular for decades, with both genres often overlapping with LitRPG elements and sharing similar themes of character progression and world-building. The cross-pollination between these cultural movements has created a rich ecosystem of content that spans comics, graphic novels, manhwa, manhua, webtoons, webnovels, and manga.
+This surge in South Korean-originated content mirrors [Japan's isekai literary movement](https://en.wikipedia.org/wiki/Isekai) that has become widely popular for decades, with both genres often overlapping with LitRPG elements and sharing similar themes of character progression and world-building. The cross-pollination between these cultural movements has created a rich ecosystem of content that spans comics, graphic novels, manhwa, manhua, webtoons, webnovels, and manga.
 
 ### Media Format Diversity
 

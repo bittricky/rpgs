@@ -167,8 +167,11 @@ Below is a reference table for all gaming platforms and devices used in the data
 These estimates are based on industry teardown analyses, component cost breakdowns, and leaked reports derived from data collected by LLMs to create the financial estimation. Actual manufacturing costs varies significantly based on production volume, component prices at time of manufacture, and regional differences. Costs typically decreased over a product's lifecycle as manufacturing processes improved and component costs fell.
 
 This reference table can be used to decode device values in your dataset and provide context about each gaming platform's capabilities and market position.
+____
 
+### Disclaimer:
 
+Playing video games can be a rewarding hobby that offers opportunities to socialize, meet people with similar interests, build communities, form relationships, and enjoy interactive entertainment as an art form. However, **it is important to recognize that it can also be very addictive and we should strive to maintain a healthy balance, as excessive gaming can potentially lead to negative impacts on physical health, mental well-being, and other life responsibilities.** Remember to take regular breaks, engage in physical activity, maintain social connections outside of gaming, and prioritize other important aspects of life such as work, education, the environment, sleep, and real-world relationships to ensure gaming remains a positive part of your overall lifestyle. We have a finite time and energy, making it crucial that we do not neglect other aspects of life or allow our inner worlds to be consumed by the masterful experiences that has been designed by others. Because nature manifested life as finite for some forms of life, it's important to recognize the limitations of our time and energy and to share meaningful experiences with others through diverse activities, real-world connections, and personal growth beyond the digital realm.
 ---
 
 **@Author**: Mitul Patel

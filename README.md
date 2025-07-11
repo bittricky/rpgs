@@ -2,6 +2,21 @@
 
 ![Total Estimated Playtime](https://img.shields.io/badge/Total%20Estimated%20Playtime-28128%20hours-blueviolet)
 
+## Table of Contents
+- [Purpose](#purpose)
+- [Columns](#columns)
+- [Why do RPGs Matter?](#why-do-rpgs-matter)
+- [The Literary Foundation](#the-literary-foundation)
+  - [The South Korean Wave in Animation](#the-south-korean-wave-in-animation)
+  - [Cultural Parallels: South Korean and Japanese Movements](#cultural-parallels-south-korean-and-japanese-movements)
+- [The Accelerating Trend](#the-accelerating-trend)
+  - [How to use this list?](#how-to-use-this-list)
+- [Device Reference](#device-reference)
+  - [Gaming Platform Reference Table](#gaming-platform-reference-table)
+  - [Usage Notes](#usage-notes)
+- [Disclaimer](#disclaimer)
+
+
 An ever-expanding list of **RPGs** spanning all subgenres and platforms. This project includes iconic titles and hidden gems across the genre: 
 
 - **JRPGs (Japanese Role-Playing Games)**
@@ -59,27 +74,27 @@ As both gaming and fiction continue to evolve towards more interactive, characte
 
 ### Beyond Literature
 
-This genre of storytelling has transcended literary boundaries and flourished across multiple other media formats, particularly in South Korean manhwa, webtoons, and their recent anime adaptations being produced by well established streaming media platforms such as [Crunchyroll](https://en.wikipedia.org/wiki/Crunchyroll), [Netflix](https://en.wikipedia.org/wiki/Netflix), and [Amazon Prime Video](https://en.wikipedia.org/wiki/Amazon_Prime_Video). The expansion represents a significant shift in how gaming-inspired narratives are consumed and are being adapted across different cultural contexts to bring a vibrant and immersive experience to audiences around the world.
+This genre of storytelling has transcended literary boundaries and flourished across multiple other media formats, particularly in South Korean manhwa, webtoons, and their recent anime adaptations being produced by well established streaming media platforms such as [Crunchyroll](https://en.wikipedia.org/wiki/Crunchyroll), [Netflix](https://en.wikipedia.org/wiki/Netflix), and even [Amazon Prime Video](https://en.wikipedia.org/wiki/Amazon_Prime_Video). The expansion represents a significant shift in how gaming-inspired narratives are consumed and are being adapted across different cultural contexts to bring a vibrant and immersive experience to audiences around the world.
 
 ### The South Korean Wave in Animation
 
 As of 2025, the surge in South Korean-originated content has been particularly notable in recent years. The outsourcing of animation production to South Korea has played a significant role in this success, as studios there have developed a reputation for producing high-quality, visually striking work. South Korean animators bring a unique blend of technical skill and artistic innovation, which has elevated the quality and distinctiveness of manhwa-based anime adaptations.
 
-A prime example is *[Solo Leveling](https://en.wikipedia.org/wiki/Solo_Leveling)*, which premiered as an anime in January 2024 and became a landmark success. Its polished animation, dynamic action sequences, and faithful art style resonated with global audiences, opening doors for numerous other adaptations from the vast library of South Korean stories.
+A prime example is *[Solo Leveling](https://en.wikipedia.org/wiki/Solo_Leveling)*, which premiered as an anime in January 2024 and became a landmark success. Its polished animation, dynamic action sequences, and faithful art style resonated deeply with global audiences, opening doors for numerous other adaptations from the vast comic library of South Korean stories as we can see with works like [Omniscient Reader's Viewpoint](https://en.wikipedia.org/wiki/Omniscient_Reader's_Viewpoint) and [Eleceed](https://en.wikipedia.org/wiki/Eleceed).
 
 Earlier pioneers like *[Tower of God](https://en.wikipedia.org/wiki/Tower_of_God_(anime))*, which received its anime adaptation in 2020, demonstrated the viability of manhwa-to-anime adaptations competing with established animated series worldwide. The show’s unique art direction and fluid animation helped establish South Korean content as a competitive force in the global animation market.
 
-Overall, the delegation of artistic work to South Korea and in-house development of animation to South Korea has not only reduced production costs but also resulted in a distinctive, vibrant, and a high-quality unique art style that continues to attract international fans and elevate the global profile of manhwa adaptations and their stories outside just the genre of LitRPG.
+Overall, the delegation of artistic work and in-house development of animation to South Korea, over the course of time, has not only reduced production costs but also resulted in the development of a distinctive, vibrant, and a high-quality unique art style that continues to attract international fans and elevate the global profile of manhwa adaptations and their stories outside just the genre of LitRPG.
 
 ### Industry Growth and Statistics
 
 The momentum behind manhwa and webtoon adaptations has reached unprecedented levels. The digital comics and webtoon industry is undergoing rapid expansion worldwide, reshaping how visual storytelling is created, consumed, and monetized. Originating in South Korea, webtoons have evolved from a **regional phenomenon into a global entertainment powerhouse**, driven by **advances in mobile technology, shifting consumer habits, and the rise of digital media platforms**.
 
-**The industry’s revenue exceeded $8 billion USD in 2023**, fueled by subscription models, advertising, microtransactions, and content licensing. [Forecasts predict a compound annual growth rate (CAGR) near 35% through 2030](https://www.mordorintelligence.com/industry-reports/webtoons-market), with the market valuation expected to surpass $60 billion. This explosive growth is powered by increasing smartphone penetration, improved internet infrastructure, and expanding middle-class populations in Asia, North America, Europe, and emerging markets.
+**The industry’s revenue exceeded $8 billion USD in 2023**, fueled by subscription models, advertising, microtransactions, and content licensing. [Forecasts predict a compound annual growth rate (CAGR) near 35% through 2030](https://www.mordorintelligence.com/industry-reports/webtoons-market), with the market valuation expected to surpass $60 billion. This explosive growth is powered by increasing smartphone penetration, improved internet infrastructure, and expanding middle-class populations in Asia, Parts of North America, Europe, and emerging markets.
 
 ### Cultural Parallels: South Korean and Japanese Movements
 
-This surge in South Korean-originated content mirrors [Japan's isekai literary movement](https://en.wikipedia.org/wiki/Isekai) that has become widely popular for decades, with both genres often overlapping with LitRPG elements and sharing similar themes of character progression and world-building. Given both their cultural histories, the cross-pollination between these two movements has created a rich ecosystem of content that spans across comics, graphic novels, manhwa, manhua, webtoons, webnovels, and manga. With some of their art styles and storytelling techniques influencing productions like [Pantheon](https://en.wikipedia.org/wiki/Pantheon_(TV_series)).
+This surge in South Korean-originated content mirrors [Japan's isekai literary movement](https://en.wikipedia.org/wiki/Isekai) that has become widely popular for decades, with both genres often overlapping with LitRPG elements and sharing similar themes of character progression and world-building. Given both of their cultural histories, the cross-pollination between these two movements has created a rich ecosystem of content that spans across various comics, graphic novels, manhwa, manhua, webtoons, webnovels, and manga. With some of their art styles and storytelling techniques influencing productions like [Pantheon](https://en.wikipedia.org/wiki/Pantheon_(TV_series)).
 
 ### Media Format Diversity
 
@@ -92,13 +107,13 @@ The LitRPG inspired storytelling approach has found expression across numerous f
 - **Webnovels**: Online serialized fiction often serving as source material for visual adaptations
 - **Anime**: Animated adaptations bringing these stories to global audiences that have unique cultural and aesthetic elements in the animated style.
 
-## The Acceleration Trend
+## The Accelerating Trend
 
 The webtoon-to-anime adaptation trend is rapidly accelerating as industry leaders recognize the vast creative potential and growing global audience of digital comics. Companies are increasingly investing in adapting popular webtoons into anime, driven by successful flagship titles and rising international demand. Specialized studios and expanded production pipelines underscore a structural shift toward this content type, marking a fundamental change in how stories are developed, adapted, and consumed worldwide. This momentum signals sustained growth and deeper integration of webtoons within the broader animation and entertainment ecosystem.
 
 This expansion represents more than just a trend—it signals a fundamental shift in how gaming-inspired narratives are created, adapted, and consumed across global markets, with LitRPG serving as a bridge between interactive entertainment and traditional storytelling media. Looking at the recent popular productions on Amazon Prime Video, Netflix, and Crunchyroll, it is clear that this trend is not going to slow down any time soon.
 
-> So if you have that itch to experience RPG-style adventures but don't have the time for actual gaming, or if you want to enjoy RPG themes and mechanics through a different medium, [LitRPGs are a great way to do so](https://www.goodreads.com/list/show/127417.Best_LitRPG_books_ALL_).
+> So if you've got that itch for some RPG-style adventures but don't have the time for actual gaming, or if you just want to enjoy RPG themes and mechanics through a different medium, [LitRPGs are a great way to do so](https://www.goodreads.com/list/show/127417.Best_LitRPG_books_ALL_).
 
 
 ### How to use this list?

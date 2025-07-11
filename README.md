@@ -59,7 +59,6 @@ So if you got that itch to play an RPG, but don't have the time to scratch it, o
 
 You can import this list into your spreadsheet software or even through Notion, maybe a similar Open Source Alternative, to sort, filter, and extend the games based on your preferences. 
 
-
 ### Device Reference
 
 ##### Gaming Platform Reference Table
@@ -109,6 +108,8 @@ Below is a reference table for all gaming platforms and devices used in the data
 | PC | Personal Computer | Various | Various | Various | $200-2000+ | PC gaming can include any variety of PC with any operating system (Windows, MacOS, Linux, etc.) |
 | Windows | Microsoft Windows | Various | Microsoft | Bill Gates, Paul Allen | N/A (OS) | Primary PC operating system for gaming |
 | macOS | Apple macOS | Various | Apple | Steve Jobs, Steve Wozniak | N/A (OS) | Apple's desktop operating system |
+| Linux | Linux | Various | Linus Torvalds | N/A (OS) | Rapidly growing free and open-source customizable operating system kernel and ecosystem |
+
 
 ## Usage Notes
 

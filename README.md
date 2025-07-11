@@ -79,7 +79,7 @@ The momentum behind manhwa and webtoon adaptations has reached unprecedented lev
 
 ### Cultural Parallels: South Korean and Japanese Movements
 
-This surge in South Korean-originated content mirrors [Japan's isekai literary movement](https://en.wikipedia.org/wiki/Isekai) that has become widely popular for decades, with both genres often overlapping with LitRPG elements and sharing similar themes of character progression and world-building. The cross-pollination between these two cultural movements has created a rich ecosystem of content that spans across comics, graphic novels, manhwa, manhua, webtoons, webnovels, and manga.
+This surge in South Korean-originated content mirrors [Japan's isekai literary movement](https://en.wikipedia.org/wiki/Isekai) that has become widely popular for decades, with both genres often overlapping with LitRPG elements and sharing similar themes of character progression and world-building. Given both their cultural histories, the cross-pollination between these two movements has created a rich ecosystem of content that spans across comics, graphic novels, manhwa, manhua, webtoons, webnovels, and manga. With some of their art styles and storytelling techniques influencing productions like [Pantheon](https://en.wikipedia.org/wiki/Pantheon_(TV_series)).
 
 ### Media Format Diversity
 

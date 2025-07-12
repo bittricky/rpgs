@@ -23,6 +23,7 @@
     - [Russia & Eastern Europe](#1-russia--eastern-europe)
     - [Asia (China, South Korea, Japan, India)](#2-asia-china-south-korea-japan-india)
     - [North America & Western Europe](#3-north-america--western-europe)
+    - [South America (Brazil, Colombia, and others)](#4-south-america-brazil-colombia-and-others)
   - [Cultural & Linguistic Cross-Pollination Overview](#cultural--linguistic-cross-pollination-overview)
   - [Implications for Genre Evolution and Marketing](#implications-for-genre-evolution-and-marketing)
 - [How to use this list?](#how-to-use-this-list)
@@ -153,7 +154,7 @@ These shifts are reflected in growing female participation in LitRPG communities
 
 ## Geographic and Cultural Reach
 
-LitRPG’s readership is genuinely **global**, with significant clusters that reflect distinct cultural and regional interests:
+LitRPG's readership is genuinely **global**, with significant clusters that reflect distinct cultural and regional interests:
 
 ### 1. **Russia & Eastern Europe**
 
@@ -169,9 +170,15 @@ LitRPG’s readership is genuinely **global**, with significant clusters that re
 
 ### 3. **North America & Western Europe**
 
-- LitRPG’s rise in Western markets has been driven primarily by **digital self-publishing platforms** (Kindle Unlimited, Royal Road), audiobooks (Audible), and serialized progression fantasy novels.
+- LitRPG's rise in Western markets has been driven primarily by **digital self-publishing platforms** (Kindle Unlimited, Royal Road), audiobooks (Audible), and serialized progression fantasy novels.
 - A younger demographic, predominantly **male readers aged 18–35+**, characterizes readership in these regions, engaging heavily with serialized storytelling and interactive digital formats ([Wikipedia - Web Fiction and Royal Road](https://en.wikipedia.org/wiki/Web_fiction)).
 
+### 4. **South America (Brazil, Colombia, and others)**
+
+- South America represents an emerging and culturally primed market for LitRPG content, with Brazil leading the region's anime consumption and cultural adoption.
+- The region's deep-rooted anime culture, established by series like [Saint Seiya](https://en.wikipedia.org/wiki/Saint_Seiya) in the 1990s, has created a generation familiar with progression-based narratives and power-leveling mechanics that align closely with LitRPG themes.
+- Brazil's position as the most anime-loving market in Latin America, combined with the region's growing digital consumption habits, suggests strong potential for LitRPG adoption.
+- Local adaptations may begin incorporating rich mythological traditions from indigenous and colonial cultures, offering unique regional flavors to the genre.
 
 ### Cultural & Linguistic Cross-Pollination Overview
 
@@ -180,10 +187,12 @@ LitRPG’s readership is genuinely **global**, with significant clusters that re
 | **Russia & Eastern Europe** | Darker, tactical narratives; robust self-publishing community |
 | **Asia (China, Korea, Japan, India)**  | Cultivation/Xianxia themes; heavy cross-media storytelling (anime, webtoons, donghua) |
 | **North America & Europe**  | Serialized storytelling, fantasy immersion, audiobooks, younger digital-native audience |
+| **South America (Brazil, Colombia, etc.)**  | Anime-influenced progression narratives with deep a mythology |
 
 - **Russian LitRPG** frequently emphasizes darker, strategy-rich storytelling.
 - **Asian markets** heavily favor progression-based cultivation and cross-media visual storytelling adaptations, with India experiencing rapid growth in anime consumption alongside traditional markets.
 - **Western readers** prefer serialized episodic content, with strong consumption of audiobooks and digital-first publishing formats.
+- **South American markets** show strong cultural affinity for progression-based anime narratives, suggesting natural alignment with LitRPG mechanics and potential for unique regional adaptations.
 
 These insights collectively demonstrate the global and culturally diverse reach of the LitRPG genre, underscoring how distinct regional tastes influence and enrich its narrative and thematic evolution.
 

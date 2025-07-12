@@ -31,7 +31,7 @@
 - [Device Reference](#device-reference)
   - [Gaming Platform Reference Table](#gaming-platform-reference-table)
   - [Usage Notes](#usage-notes)
-- [What's the market like today?](#whats-the-market-like-today)
+- [What's gaming like today?](#whats-gaming-like-today)
 - [Disclaimer](#disclaimer)
 
 
@@ -294,9 +294,9 @@ These estimates are based on industry teardown analyses, component cost breakdow
 
 This reference table can be used to decode device values in your dataset and provide context about each gaming platform's capabilities and market position.
 
-### Whats the market like today?
+### Whats gaming like today?
 
-##### Gaming Market Impact: From GameFly to Modern Digital Platforms
+##### Gaming Market - From GameFly to Modern Digital Platforms
 
 Both [Xbox Game Pass](https://en.wikipedia.org/wiki/Xbox_Game_Pass) and [Steam](https://en.wikipedia.org/wiki/Steam_(software)) are fundamentally reshaping the digital gaming landscape through divergent but complementary approaches, arguably building upon foundational work by pioneers like [GameFly](https://en.wikipedia.org/wiki/GameFly). Founded in May 2002 by Sean Spector, Jung Suh, and CEO Toby Lenk, GameFly established the first successful gaming subscription model, proving consumer appetite for access-based gaming consumption decades before digital platforms dominated. Game Pass, generating nearly $5.5 billion in 2025 with 83% brand awareness among U.S. subscription users, represents the industry's evolution towards what people thought would be the "Netflix of gaming" model that GameFly pioneered in physical form. Meanwhile, Steam's record-breaking 40 million concurrent users and 24% revenue growth to over $10 billion in 2024 demonstrates the enduring power of digital distribution platforms. The market waves reveals a fascinating contradiction: while arguably Xbox hardware sales lagging significantly behind PlayStation, subscription services are thriving, indicating a fundamental transition from hardware-centric to service-centric value models that GameFly first validated. This bifurcation would seem to suggest a future where the growing application of subscription based revenue models, will also be applied here in a gaming subscription ecosystems and these digital platforms will become the primary revenue drivers, potentially displacing traditional ownership-based gaming consumption as wide adoption continues to accelerate across global markets. As we are seeing with what has happened with Nintendo Switch 2 release.
 

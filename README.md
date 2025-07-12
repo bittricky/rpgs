@@ -100,18 +100,20 @@ This surge in South Korean-originated content mirrors [Japan's isekai literary m
 
 The LitRPG inspired storytelling approach has found expression across numerous formats:
 
+- **Comics**: Comics are a popular medium for storytelling, often featuring world-building elements.
+- **Graphic Novels**: Graphic novels are a popular medium for visual storytelling, often featuring world-building elements.
 - **Manhwa**: South Korean comics that often feature game-like progression systems
 - **Webtoons**: Digital comics optimized for mobile reading, frequently incorporating RPG elements
 - **Manhua**: Chinese comics increasingly adopting LitRPG themes
 - **Manga**: Japanese comics, particularly in the isekai subgenre
-- **Webnovels**: Online serialized fiction often serving as source material for visual adaptations
+- **Webnovels**: Online serialized fiction often serving as source material for many visual adaptations
 - **Anime**: Animated adaptations bringing these stories to global audiences that have unique cultural and aesthetic elements in the animated style.
 
 ## The Accelerating Trend
 
 The webtoon-to-anime adaptation trend is rapidly accelerating as industry leaders recognize the vast creative potential and growing global audience of digital comics. Companies are increasingly investing in adapting popular webtoons into anime, driven by successful flagship titles and rising international demand. Specialized studios and expanded production pipelines underscore a structural shift toward this content type, marking a fundamental change in how stories are developed, adapted, and consumed worldwide. This momentum signals sustained growth and deeper integration of webtoons within the broader animation and entertainment ecosystem.
 
-This expansion represents more than just a trend—it signals a fundamental shift in how gaming-inspired narratives are created, adapted, and consumed across global markets, with LitRPG serving as a bridge between interactive entertainment and traditional storytelling media. Looking at the recent popular productions on Amazon Prime Video, Netflix, and Crunchyroll, it is clear that this trend is not going to slow down any time soon.
+This expansion represents more than just a trend—it signals a fundamental shift in how gaming-inspired narratives are created, adapted, and consumed across global markets, with LitRPG serving as a bridge between interactive entertainment and traditional storytelling media. Looking at the recent popular productions on Amazon Prime Video, Netflix, and Crunchyroll along with stories being produced from other gaming genres such as [Twisted Metal](https://en.wikipedia.org/wiki/Twisted_Metal_(TV_series)), [The Last of Us](https://en.wikipedia.org/wiki/The_Last_of_Us_(TV_series)), [Uncharted](https://en.wikipedia.org/wiki/Uncharted_(film)),and [Assassin's Creed](https://en.wikipedia.org/wiki/Assassin%27s_Creed_(film)) it is very clear that this trend is not going to slow down any time soon. 
 
 > So if you've got that itch for some RPG-style adventures but don't have the time for actual gaming, or if you just want to enjoy RPG themes and mechanics through a different medium, [LitRPGs are a great way to do so](https://www.goodreads.com/list/show/127417.Best_LitRPG_books_ALL_).
 

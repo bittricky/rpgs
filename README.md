@@ -25,7 +25,7 @@
     - [North America & Western Europe](#3-north-america--western-europe)
     - [South America (Brazil, Colombia, and others)](#4-south-america-brazil-colombia-and-others)
   - [Cultural & Linguistic Cross-Pollination Overview](#cultural--linguistic-cross-pollination-overview)
-  - [Toonami's Cultural Impact](#toonami-s-cultural-impact)
+  - [Toonami's Cultural Impact](#toonamis-cultural-impact)
   - [Implications for Genre Evolution and Marketing](#implications-for-genre-evolution-and-marketing)
 - [How to use this list?](#how-to-use-this-list)
 - [Device Reference](#device-reference)

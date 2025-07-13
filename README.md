@@ -87,7 +87,7 @@ This literary movement began to take shape in the early 2000s with works like th
 
 ## The Literary Foundation
 
-As both gaming and fiction continue to evolve towards more interactive, character-centric experiences, LitRPG, which some may call a form of [power fantasy](https://aiptcomics.com/2025/01/29/the-power-fantasy-vol-1-review/), serves as a literary complement to what RPGs have always offered: the vicarious experience of character progression and world-building, though ultimately through reading rather than direct interaction. In LitRPG, game-like elements form an essential part of the story, and visible RPG statistics (for example strength, intelligence, damage) are a significant part of the reading experience as the character encounters challenges to overcome and progress through the story.
+As both gaming and fiction continue to evolve towards more interactive, character-centric experiences, LitRPG, which some may call a form of [power fantasy](https://www.quora.com/What-is-the-appeal-of-power-fantasy-in-fiction-such-as-anime-and-games), serves as a literary complement to what RPGs have always offered: the vicarious experience of character progression and world-building, though ultimately through reading rather than direct interaction. In LitRPG, game-like elements form an essential part of the story, and visible RPG statistics (for example strength, intelligence, damage) are a significant part of the reading experience as the character encounters challenges to overcome and progress through the story.
 
 ## Cross-Media Expansion
 

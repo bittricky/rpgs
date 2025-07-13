@@ -87,7 +87,7 @@ This literary movement began to take shape in the early 2000s with works like th
 
 ## The Literary Foundation
 
-As both gaming and fiction continue to evolve towards more interactive, character-centric experiences, LitRPG, which some may call a form of power fantasy, serves as a literary complement to what RPGs have always offered: the vicarious experience of character progression and world-building, though ultimately through reading rather than direct interaction. In LitRPG, game-like elements form an essential part of the story, and visible RPG statistics (for example strength, intelligence, damage) are a significant part of the reading experience as the character encounters challenges to overcome and progress through the story.
+As both gaming and fiction continue to evolve towards more interactive, character-centric experiences, LitRPG, which some may call a form of [power fantasy](https://aiptcomics.com/2025/01/29/the-power-fantasy-vol-1-review/), serves as a literary complement to what RPGs have always offered: the vicarious experience of character progression and world-building, though ultimately through reading rather than direct interaction. In LitRPG, game-like elements form an essential part of the story, and visible RPG statistics (for example strength, intelligence, damage) are a significant part of the reading experience as the character encounters challenges to overcome and progress through the story.
 
 ## Cross-Media Expansion
 
@@ -315,7 +315,7 @@ Playing video games can be a fulfilling and rewarding hobby that offers opportun
 
 Remember to take regular breaks, engage in physical activity, maintain social connections outside of gaming, and prioritize other important aspects of life such as work that can provide, work that can give you purpose, work that can lead you closer towards financial independence, work that serves to help people, education, the environment, sleep, and real-world relationships to ensure gaming remains a positive part of your overall lifestyle. We have a finite amount of time and energy, making it crucial that we do not neglect other aspects of living life or allowing our inner worlds to be consumed by the masterful experiences that has been designed by others for us to enjoy, as a consumer. 
 
-Nature has made life finite for some forms, it’s important to recognize the limits of our time and energy and to take moments to share meaningful experiences with others through diverse activities, real-world connections, and partake in opportunities for personal growth beyond the digital realm, plant a tree so someone down the road can find shade. 🤷‍♂️
+Because nature has made life finite for some forms, it’s important to recognize the limits of our time and energy and to take moments to share meaningful experiences with others through diverse activities, real-world connections, and partake in opportunities for personal growth beyond the digital realm, plant a tree so someone down the road can find shade. 🤷‍♂️
 
 ---
 

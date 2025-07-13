@@ -150,7 +150,7 @@ While early LitRPG readership was heavily male-dominated, recent years have seen
 - **Increased accessibility** via audiobooks and free web platforms lowering entry barriers.
 - **Broader thematic explorations** within the genre, including more complex characters and inclusive storytelling.
 - **Cross-media exposure**, such as popular anime and webtoon adaptations, attracting a wider audience beyond traditional gaming fans.
-- **[Globalization](https://en.wikipedia.org/wiki/Globalization)**, with the genre’s expansion into markets with differing demographic profiles such as South Korea, China, Russia, India, and many others have strong female readerships in related fantasy subgenres.
+- **[Globalization](https://en.wikipedia.org/wiki/Globalization)**, with the genre’s expansion into markets with differing demographic profiles such as South Korea, China, Russia, India, and many others have strong  readerships in related fantasy subgenres.
 
 These shifts are reflected in growing female participation in LitRPG communities on Discord, Patreon, and Reddit, as well as an expanding older readership that enjoys the genre’s evolving sophistication and varied narrative tones. While the male 18–35+ group remains dominant, the demographic curve is flattening, [indicating a maturing market](https://www.bookstat.com/).
 

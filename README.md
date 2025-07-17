@@ -61,6 +61,7 @@ Whether you’re new to the genre or delving into its hidden gems, this list let
 - **device**: Platforms the game was released on (e.g. SNES, PC, Switch).
 - **director**: Games are often developed collaboratively by a group of individuals, but the director or creative lead is the person who holds the responsibility for manifesting the game.
 - **playtime**: Approximate main story playtime in hours.
+- **release year**: The year the game was released.
 
 ### Purpose
 

@@ -46,6 +46,7 @@ An ever-expanding list of **RPGs** spanning all subgenres and platforms. This pr
 - **Roguelike / Roguelite RPGs**
 - **Monster Collecting RPGs**
 - **Metroidvania RPGs**
+- **Digital Card RPG Hybrids**
 - **Simulation RPGs**
 - **Hybrid RPGs**
 - **Indie RPGs**

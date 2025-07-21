@@ -30,6 +30,7 @@
 - [How to use this list?](#how-to-use-this-list)
 - [Device Reference](#device-reference)
   - [Gaming Platform Reference Table](#gaming-platform-reference-table)
+  - [Third Party Retro Gaming Devices](#third-party-retro-gaming-devices)
   - [Usage Notes](#usage-notes)
 - [What's gaming like today?](#whats-gaming-like-today)
 - [Disclaimer](#disclaimer)
@@ -281,6 +282,34 @@ Below is a reference table for all gaming platforms and devices used in the data
 | macOS | Apple macOS | Various | Apple | Steve Jobs, Steve Wozniak | N/A (OS) | Apple's desktop operating system |
 | Linux | Linux | Various | Open Source Community | Linus Torvalds | N/A (OS) | Rapidly growing free and open-source customizable operating system kernel and ecosystem |
 
+#### Third Party Retro Gaming Devices
+
+| Value | Full Name | Release | Manufacturer | Platform Creator | Manufacturing Cost (Est.) | Details |
+|-------|-----------|---------|--------------|------------------|---------------------------|---------|
+| Retroid Pocket 5 | Retroid Pocket 5 | 2025 | GoRetroid | GoRetroid Team | $150-180 | 5.5" AMOLED touchscreen, modern PSP-like design, top-tier emulation |
+| Ayn Odin 2 | Ayn Odin 2 | 2024-2025 | Ayn | Ayn Team | $200-250 | Base model $299, premium retro emulator with high performance |
+| Steam Deck | Steam Deck | 2022-2025 | Valve | Valve Corporation | $300-400 | Premium handheld PC, excellent for retro emulation via EmuDeck |
+| Analogue Pocket | Analogue Pocket | 2021-2025 | Analogue | Analogue Inc. | $150-180 | Plays original Game Boy cartridges, hardware-accurate emulation |
+| Anbernic RG556 | Anbernic RG556 | 2024-2025 | Anbernic | Anbernic Team | $130-160 | 5.48" AMOLED screen, Android 13, PS2/Wii/NGC/3DS emulation |
+| Anbernic RG35XX-SP | Anbernic RG35XX-SP (Flip) | 2024-2025 | Anbernic | Anbernic Team | $100-120 | Clamshell design like Nintendo DS |
+| Anbernic RG351M | Anbernic RG351M | 2020-2025 | Anbernic | Anbernic Team | $80-100 | Metal build, 3.5" IPS screen, Linux-based, classic handheld design |
+| Anbernic RG405M | Anbernic RG405M | 2023-2025 | Anbernic | Anbernic Team | $90-120 | Powerhouse for PS1 and Dreamcast emulation |
+| Retroid Pocket 4 Pro | Retroid Pocket 4 Pro | 2024 | GoRetroid | GoRetroid Team | $120-150 | Premium build quality, excellent performance |
+| Atari 2600+ | Atari 2600+ | 2023-2025 | Atari | Atari Interactive | $80-100 | Plays original Atari cartridges, HDMI output |
+| Miyoo Mini Plus | Miyoo Mini Plus | 2024-2025 | Miyoo | Miyoo Team | $40-50 | Game Boy-style form factor, 3.5-inch display |
+| Powkiddy RGB30 | Powkiddy RGB30 | 2023-2025 | Powkiddy | Powkiddy Team | $60-80 | Square 1:1 aspect ratio screen, unique form factor |
+| Anbernic RG35XX Plus | Anbernic RG35XX Plus | 2024-2025 | Anbernic | Anbernic Team | $50-70 | Affordable entry-level retro gaming |
+| Powkiddy V90 | Powkiddy V90 | 2023-2025 | Powkiddy | Powkiddy Team | $40-60 | Clamshell foldable design like GBA SP, most pocketable |
+| R36S | R36S | 2024-2025 | Various Chinese OEMs | Generic ODM Teams | $25-35 | Extremely affordable retro gaming option |
+| Datafrog SF2000 | Datafrog SF2000 | 2023-2025 | Datafrog | Datafrog Team | $20-30 | Ultra-budget option with basic emulation |
+| GKD Pixel 2 | GKD Pixel 2 | 2024-2025 | GKD | GKD Team | $70-90 | Perfect for DS and PS1 games, compact design |
+| Anbernic RG280V | Anbernic RG280V | 2023-2025 | Anbernic | Anbernic Team | $50-70 | Ultra-portable pocket approach, premium feel despite small size |
+| Trimui Smart Pro | Trimui Smart Pro | 2024-2025 | Trimui | Trimui Team | $60-80 | Compact design with good build quality |
+| Trimui Brick | Trimui Brick | 2024-2025 | Trimui | Trimui Team | $40-60 | Unique brick-like form factor, budget-friendly |
+| Evercade EXP | Evercade EXP | 2023-2025 | Evercade | Evercade Ltd. | $80-100 | Uses cartridge system with licensed retro game collections |
+| Miyoo Flip | Miyoo Flip | 2024-2025 | Miyoo | Miyoo Team | $50-70 | Clamshell design with open-source firmware support |
+| Retroid Pocket Mini | Retroid Pocket Mini | 2025 | GoRetroid | GoRetroid Team | $60-80 | Compact version of popular Retroid line, expected release |
+| MSI Claw A8 | MSI Claw A8 | 2025 | MSI | MSI Gaming Division | $600-700 | AMD-powered handheld, premium pricing, available for preorder |
 
 ## Usage Notes
 

@@ -288,7 +288,6 @@ Below is a reference table for all gaming platforms and devices used in the data
 |-------|-----------|---------|--------------|------------------|---------------------------|---------|
 | Retroid Pocket 5 | Retroid Pocket 5 | 2025 | GoRetroid | GoRetroid Team | $150-180 | 5.5" AMOLED touchscreen, modern PSP-like design, top-tier emulation |
 | Ayn Odin 2 | Ayn Odin 2 | 2024-2025 | Ayn | Ayn Team | $200-250 | Base model $299, premium retro emulator with high performance |
-| Steam Deck | Steam Deck | 2022-2025 | Valve | Valve Corporation | $300-400 | Premium handheld PC, excellent for retro emulation via EmuDeck |
 | Analogue Pocket | Analogue Pocket | 2021-2025 | Analogue | Analogue Inc. | $150-180 | Plays original Game Boy cartridges, hardware-accurate emulation |
 | Anbernic RG556 | Anbernic RG556 | 2024-2025 | Anbernic | Anbernic Team | $130-160 | 5.48" AMOLED screen, Android 13, PS2/Wii/NGC/3DS emulation |
 | Anbernic RG35XX-SP | Anbernic RG35XX-SP (Flip) | 2024-2025 | Anbernic | Anbernic Team | $100-120 | Clamshell design like Nintendo DS |

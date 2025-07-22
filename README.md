@@ -284,31 +284,41 @@ Below is a reference table for all gaming platforms and devices used in the data
 
 #### Third Party Retro Gaming Devices
 
+Third-party retro gaming devices have exploded in popularity over the past few years, offering an accessible way to play classic games from multiple console generations on a single portable device. These handhelds typically run Linux-based firmware or Android and use emulation to recreate the experience of everything from 8-bit systems like the NES and Game Boy up to more demanding consoles like the PlayStation 2 and Nintendo DS. Unlike official retro consoles distributed by major console manufacturers, these gaming devices are manufactured by independent companies and often feature open-source firmware that allows for extensive customization. They range from ultra-budget options under $30 to premium devices approaching $300, making retro gaming accessible to virtually any budget.
+
 | Value | Full Name | Release | Manufacturer | Platform Creator | Manufacturing Cost (Est.) | Details |
 |-------|-----------|---------|--------------|------------------|---------------------------|---------|
 | Retroid Pocket 5 | Retroid Pocket 5 | 2025 | GoRetroid | GoRetroid Team | $150-180 | 5.5" AMOLED touchscreen, modern PSP-like design, top-tier emulation |
 | Ayn Odin 2 | Ayn Odin 2 | 2024-2025 | Ayn | Ayn Team | $200-250 | Base model $299, premium retro emulator with high performance |
-| Analogue Pocket | Analogue Pocket | 2021-2025 | Analogue | Analogue Inc. | $150-180 | Plays original Game Boy cartridges, hardware-accurate emulation |
+| Ayn Odin 1 | Ayn Odin 1 | 2022-2024 | Ayn | Ayn Team | $180-220 | Original groundbreaking high-end emulation handheld |
+| Analogue Pocket | Analogue Pocket | 2021-2025 | Analogue | Analogue Inc. | $150-180 | Plays original Game Boy cartridges, hardware-accurate FPGA emulation |
 | Anbernic RG556 | Anbernic RG556 | 2024-2025 | Anbernic | Anbernic Team | $130-160 | 5.48" AMOLED screen, Android 13, PS2/Wii/NGC/3DS emulation |
 | Anbernic RG35XX-SP | Anbernic RG35XX-SP (Flip) | 2024-2025 | Anbernic | Anbernic Team | $100-120 | Clamshell design like Nintendo DS |
-| Anbernic RG351M | Anbernic RG351M | 2020-2025 | Anbernic | Anbernic Team | $80-100 | Metal build, 3.5" IPS screen, Linux-based, classic handheld design |
+| Anbernic RG503 | Anbernic RG503 | 2022-2025 | Anbernic | Anbernic Team | $120-140 | 4.95" OLED screen, premium mid-range option |
 | Anbernic RG405M | Anbernic RG405M | 2023-2025 | Anbernic | Anbernic Team | $90-120 | Powerhouse for PS1 and Dreamcast emulation |
-| Retroid Pocket 4 Pro | Retroid Pocket 4 Pro | 2024 | GoRetroid | GoRetroid Team | $120-150 | Premium build quality, excellent performance |
-| Atari 2600+ | Atari 2600+ | 2023-2025 | Atari | Atari Interactive | $80-100 | Plays original Atari cartridges, HDMI output |
-| Miyoo Mini Plus | Miyoo Mini Plus | 2024-2025 | Miyoo | Miyoo Team | $40-50 | Game Boy-style form factor, 3.5-inch display |
-| Powkiddy RGB30 | Powkiddy RGB30 | 2023-2025 | Powkiddy | Powkiddy Team | $60-80 | Square 1:1 aspect ratio screen, unique form factor |
+| Anbernic RG353P | Anbernic RG353P | 2022-2025 | Anbernic | Anbernic Team | $90-110 | Popular 3.5" IPS screen, dual-boot Linux/Android |
+| Anbernic RG353V | Anbernic RG353V | 2022-2025 | Anbernic | Anbernic Team | $100-120 | Vertical orientation, great for arcade games |
+| Anbernic RG353M | Anbernic RG353M | 2022-2025 | Anbernic | Anbernic Team | $110-130 | Metal build of the popular RG353 series |
+| Anbernic RG351M | Anbernic RG351M | 2020-2025 | Anbernic | Anbernic Team | $80-100 | Metal build, 3.5" IPS screen, Linux-based, classic handheld design |
 | Anbernic RG35XX Plus | Anbernic RG35XX Plus | 2024-2025 | Anbernic | Anbernic Team | $50-70 | Affordable entry-level retro gaming |
+| Anbernic RG280V | Anbernic RG280V | 2020-2025 | Anbernic | Anbernic Team | $50-70 | Ultra-portable pocket approach, premium feel despite small size |
+| Retroid Pocket 4 Pro | Retroid Pocket 4 Pro | 2024 | GoRetroid | GoRetroid Team | $120-150 | Premium build quality, excellent performance |
+| Retroid Pocket 3+ | Retroid Pocket 3+ | 2023-2024 | GoRetroid | GoRetroid Team | $100-130 | Updated version with improved performance |
+| Retroid Pocket 3 | Retroid Pocket 3 | 2022-2023 | GoRetroid | GoRetroid Team | $90-120 | Popular mid-range option with Android support |
+| Retroid Pocket Mini | Retroid Pocket Mini | 2025 | GoRetroid | GoRetroid Team | $60-80 | Compact version of popular Retroid line |
+| Miyoo Mini Plus | Miyoo Mini Plus | Late 2023-2025 | Miyoo | Miyoo Team | $40-50 | Game Boy-style form factor, 3.5-inch display |
+| Miyoo Flip | Miyoo Flip | 2024-2025 | Miyoo | Miyoo Team | $50-70 | Clamshell design with open-source firmware support |
+| Powkiddy RGB30 | Powkiddy RGB30 | 2023-2025 | Powkiddy | Powkiddy Team | $60-80 | Square 1:1 aspect ratio screen, unique form factor |
+| Powkiddy X55 | Powkiddy X55 | 2023-2025 | Powkiddy | Powkiddy Team | $80-100 | 5.5" screen, Android-based, good PSP/PS1 performance |
 | Powkiddy V90 | Powkiddy V90 | 2023-2025 | Powkiddy | Powkiddy Team | $40-60 | Clamshell foldable design like GBA SP, most pocketable |
 | R36S | R36S | 2024-2025 | Various Chinese OEMs | Generic ODM Teams | $25-35 | Extremely affordable retro gaming option |
 | Datafrog SF2000 | Datafrog SF2000 | 2023-2025 | Datafrog | Datafrog Team | $20-30 | Ultra-budget option with basic emulation |
-| GKD Pixel 2 | GKD Pixel 2 | 2024-2025 | GKD | GKD Team | $70-90 | Perfect for DS and PS1 games, compact design |
-| Anbernic RG280V | Anbernic RG280V | 2023-2025 | Anbernic | Anbernic Team | $50-70 | Ultra-portable pocket approach, premium feel despite small size |
+| GKD Pixel 2 | GKD Pixel 2 | Early 2025 | GKD | GKD Team | $70-90 | Perfect for DS and PS1 games, compact design |
 | Trimui Smart Pro | Trimui Smart Pro | 2024-2025 | Trimui | Trimui Team | $60-80 | Compact design with good build quality |
 | Trimui Brick | Trimui Brick | 2024-2025 | Trimui | Trimui Team | $40-60 | Unique brick-like form factor, budget-friendly |
 | Evercade EXP | Evercade EXP | 2023-2025 | Evercade | Evercade Ltd. | $80-100 | Uses cartridge system with licensed retro game collections |
-| Miyoo Flip | Miyoo Flip | 2024-2025 | Miyoo | Miyoo Team | $50-70 | Clamshell design with open-source firmware support |
-| Retroid Pocket Mini | Retroid Pocket Mini | 2025 | GoRetroid | GoRetroid Team | $60-80 | Compact version of popular Retroid line, expected release |
-| MSI Claw A8 | MSI Claw A8 | 2025 | MSI | MSI Gaming Division | $600-700 | AMD-powered handheld, premium pricing, available for preorder |
+
+For those interested in building their own retro gaming devices or just feel jealous seeing content about others modding, refurbishing, or even building their own devices and want to try it out, single-board computers like the Raspberry Pi 4 can provide an excellent foundation. Popular software distributions like [RetroPie](https://retropie.org.uk/), [Batocera](https://batocera.org/), or [RecalBox](https://recalbox.com/) can transform these boards into powerful emulation machines. The basic process involves installing the OS image, configuring controllers, adding ROM files, and fine-tuning emulator settings. While it requires more technical knowledge than buying a pre-built device, DIY builds offer complete control over the hardware, software, and relatively speaking the game library, often delivering better price-to-performance ratios.
 
 ## Usage Notes
 

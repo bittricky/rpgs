@@ -357,6 +357,8 @@ Remember to take regular breaks, engage in physical activity, maintain social co
 
 Because nature has made life finite for some forms, it’s important to recognize the limits of our time and energy and to take moments to share meaningful experiences with others through diverse activities, real-world connections, and partake in opportunities for personal growth beyond the digital realm, plant a tree so someone down the road can find shade. 🤷‍♂️
 
+> If you're curious about immersive art and its evolution, you can read about [the new era of immersive entertainment](https://www.bain.com/insights/new-era-of-immersive-entertainment/) or explore [How AI is making immersive art more powerful](https://rockpaperreality.com/insights/extended-reality/how-ai-is-making-immersive-experiences-more-powerful/).
+
 ---
 
 **@Author**: Mitul Patel

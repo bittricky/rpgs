@@ -55,6 +55,8 @@ An ever-expanding list of **RPGs** spanning all subgenres and platforms. This pr
 
 Whether you’re new to the genre or delving into its hidden gems, this list lets you explore immersive gaming **experiences that rival traditional cinematic storytelling**, complete with key details at a glance. Just as modern forms of theatre reinvented traditional forms of literature, **gaming is and will continue to completely redefine the art of cinema and the way stories can be told**.
 
+> For a complete list of Games ranging across all gaming genres, not just RPGS, you might find [rawg.io](https://rawg.io) useful.
+
 ### Columns
 
 - **title**: The name of the game.

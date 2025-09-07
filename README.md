@@ -1,6 +1,6 @@
 # RPGs 
 
-![Total Estimated Playtime](https://img.shields.io/badge/Total%20Estimated%20Playtime-32343%20hours-blueviolet)
+![Total Estimated Playtime](https://img.shields.io/badge/Total%20Estimated%20Playtime-32368%20hours-blueviolet)
 
 ## Table of Contents
 

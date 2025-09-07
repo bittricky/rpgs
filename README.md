@@ -1,6 +1,6 @@
 # RPGs 
 
-![Total Estimated Playtime](https://img.shields.io/badge/Total%20Estimated%20Playtime-32193%20hours-blueviolet)
+![Total Estimated Playtime](https://img.shields.io/badge/Total%20Estimated%20Playtime-32343%20hours-blueviolet)
 
 ## Table of Contents
 
@@ -280,7 +280,7 @@ Below is a reference table for all gaming platforms and devices used in the data
 | PC | Personal Computer | Various | Various | Various | $200-2000+ | PC gaming can include any variety of PC with any operating system (Windows, MacOS, Linux, etc.) |
 | Windows | Microsoft Windows | Various | Microsoft | Bill Gates, Paul Allen | N/A (OS) | Primary PC operating system for gaming |
 | macOS | Apple macOS | Various | Apple | Steve Jobs, Steve Wozniak | N/A (OS) | Apple's desktop operating system |
-| Linux | Linux | Various | Open Source Community | Linus Torvalds | N/A (OS) | Rapidly growing free and open-source customizable operating system kernel and ecosystem |
+| Linux | Linux | Various | Open Source Community | Linus Torvalds | N/A (OS) | Rapidly growing completely free and open-source customizable operating system kernel and growing ecosystem |
 
 #### Third Party Retro Gaming Devices
 
